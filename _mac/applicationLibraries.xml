@@ -1248,6 +1248,31 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/examples" />
       </excluded>
     </library>
+    <library name="browser (v2.5.3, rbenv: 2.4.4) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/.bundle" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/.github" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/.bundle" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/.github" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/.bundle" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/.github" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/browser-2.5.3/gemfiles" />
+      </excluded>
+    </library>
     <library name="browserify-rails (v4.2.0, rbenv: 2.2.3 (1)) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/browserify-rails-4.2.0/lib" />
