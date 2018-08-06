@@ -4533,6 +4533,19 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/highline-1.7.10/examples" />
       </excluded>
     </library>
+    <library name="holiday_jp (v0.7.0, rbenv: 2.4.4) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/holiday_jp-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/holiday_jp-0.7.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/holiday_jp-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/holiday_jp-0.7.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/holiday_jp-0.7.0/test" />
+      </excluded>
+    </library>
     <library name="hpricot (v0.8.6, rbenv: 2.3.3 (1)) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/hpricot-0.8.6/ext" />
