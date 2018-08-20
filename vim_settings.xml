@@ -1,0 +1,141 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_log_subscribers/execute_query_controller_runtime.rb" timestamp="1534734713028">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/advertising_controller.rb" timestamp="1534732178868">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/application_controller.rb" timestamp="1534734696750">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/application.rb" timestamp="1534737560095">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" timestamp="1534732418495">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/environments/production.rb" timestamp="1534736963968" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/Gemfile" timestamp="1534737073566">
+        <mark key="'" line="185" column="30" />
+        <mark key="[" line="87" column="20" />
+        <mark key="]" line="90" column="12" />
+        <mark key="." line="90" column="12" />
+        <mark key="^" line="90" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_log_subscribers/to_json_controller_runtime.rb" timestamp="1534734705828">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/environment.rb" timestamp="1534737620430">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="153" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
+      <jump line="145" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
+      <jump line="149" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
+      <jump line="151" column="6" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
+      <jump line="158" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
+      <jump line="144" column="66" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
+      <jump line="32" column="23" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/car-gva-admin/Gemfile" />
+      <jump line="185" column="30" filename="$USER_HOME$/workspace/car-gva-admin/Gemfile" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text>lograge</text>
+      </register>
+      <register name="0" type="4">
+        <text>https://github.com/roidrage/lograge)</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlciAgICAgICAgICAgPSBBY3RpdmVTdXBwb3J0OjpMb2dnZXIubmV3KFNURE9VVCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIExvZ2dpbmcubG9nZ2VyLnJvb3QubGV2ZWwgPSA6ZGVidWcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIExvZ2dpbmcubG9nZ2VyLnJvb3QuYXBwZW5kZXJzID0gTG9nZ2luZy5hcHBlbmRlcnMuc3Rkb3V0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5mb3JtYXR0ZXIgPSBKc29uTG9nRm9ybW1hdGVyLm5ldwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBnZW0gJ2xvZ2dpbmcnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAjIEEgZmxleGlibGUgYW5kIGV4dGVuZGFibGUgbG9nZ2luZyBsaWJyYXJ5IGZvciBSdWJ5IChodHRwOi8vcnVieWdlbXMub3JnL2dlbXMvbG9nZ2luZykK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>lograge</last-search>
+      <last-offset />
+      <last-pattern>lograge</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>log</entry>
+        <entry>lograge</entry>
+      </history-search>
+      <history-cmd>
+        <entry>i</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
