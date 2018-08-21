@@ -8,6 +8,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/custom_logger.rb" timestamp="1534761576277">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/advertising_controller.rb" timestamp="1534732178868">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="16" />
@@ -19,7 +24,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/config/application.rb" timestamp="1534737560095">
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/application.rb" timestamp="1534765616130">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -30,20 +35,28 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/config/environments/production.rb" timestamp="1534736963968" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/Gemfile" timestamp="1534737073566">
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/environments/production.rb" timestamp="1534813633588">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="91" column="34" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/locales/translation_ja.yml" timestamp="1534814218437">
+        <mark key="'" line="115" column="8" />
+        <mark key="[" line="1012" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/Gemfile" timestamp="1534763953357">
         <mark key="'" line="185" column="30" />
-        <mark key="[" line="87" column="20" />
-        <mark key="]" line="90" column="12" />
-        <mark key="." line="90" column="12" />
-        <mark key="^" line="90" column="12" />
+        <mark key="[" line="141" column="17" />
+        <mark key="]" line="142" column="27" />
+        <mark key="." line="142" column="27" />
+        <mark key="^" line="142" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_log_subscribers/to_json_controller_runtime.rb" timestamp="1534734705828">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/config/environment.rb" timestamp="1534737620430" />
     </filemarks>
     <jumps>
       <jump line="153" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
@@ -56,10 +69,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
       <jump line="117" column="0" filename="$USER_HOME$/workspace/car-gva-admin/Gemfile" />
       <jump line="185" column="30" filename="$USER_HOME$/workspace/car-gva-admin/Gemfile" />
+      <jump line="201" column="17" filename="$USER_HOME$/workspace/car-gva-admin/config/locales/translation_ja.yml" />
+      <jump line="115" column="8" filename="$USER_HOME$/workspace/car-gva-admin/config/locales/translation_ja.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5mb3JtYXR0ZXIgPSBKc29uTG9nRm9ybW1hdGVyLm5ldwo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -74,34 +89,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5mb3JtYXR0ZXIgPSBKc29uTG9nRm9ybW1hdGVyLm5ldwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciAgICAgICAgICAgPSBBY3RpdmVTdXBwb3J0OjpMb2dnZXIubmV3KFNURE9VVCkK</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUgJ2pzb25fbG9nX2Zvcm1tYXRlcicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExvZ2dpbmcubG9nZ2VyLnJvb3QubGV2ZWwgPSA6ZGVidWcK</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5sb2dnZXIgPSBsb2dnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExvZ2dpbmcubG9nZ2VyLnJvb3QuYXBwZW5kZXJzID0gTG9nZ2luZy5hcHBlbmRlcnMuc3Rkb3V0Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5leHRlbmQgQWN0aXZlU3VwcG9ydDo6TG9nZ2VyLmJyb2FkY2FzdChlcnJvcl9sb2dnZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5mb3JtYXR0ZXIgPSBKc29uTG9nRm9ybW1hdGVyLm5ldwo=</text>
+        <text encoding="base64">ICAgIGVycm9yX2xvZ2dlci5sZXZlbCA9IExvZ2dlcjo6RVJST1IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZW0gJ2xvZ2dpbmcnCg==</text>
+        <text encoding="base64">ICAgIGVycm9yX2xvZ2dlciA9IEFjdGl2ZVN1cHBvcnQ6OkxvZ2dlci5uZXcoU1RERVJSKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIEEgZmxleGlibGUgYW5kIGV4dGVuZGFibGUgbG9nZ2luZyBsaWJyYXJ5IGZvciBSdWJ5IChodHRwOi8vcnVieWdlbXMub3JnL2dlbXMvbG9nZ2luZykK</text>
+        <text encoding="base64">ICAgIGxvZ2dlciA9IEFjdGl2ZVN1cHBvcnQ6OkxvZ2dlci5uZXcoU1RET1VUKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -119,7 +134,10 @@
       <history-cmd>
         <entry>i</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -127,6 +145,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
