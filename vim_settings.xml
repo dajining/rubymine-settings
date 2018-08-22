@@ -9,17 +9,22 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/json_log_formatter.rb" timestamp="1534901135876" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/application_controller.rb" timestamp="1534900907134">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/application_controller.rb" timestamp="1534922987032">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/config/initializers/rambulance.rb" timestamp="1534819146604" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/initializers/rambulance.rb" timestamp="1534922914028" />
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/my_logger.rb" timestamp="1534845428594">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/2.3.0/logger.rb" timestamp="1534847355698">
+        <mark key="[" line="405" column="20" />
+        <mark key="]" line="405" column="20" />
+        <mark key="." line="405" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/Logging.rb" timestamp="1534848042526">
         <mark key="[" line="1" column="24" />
@@ -53,11 +58,17 @@
         <mark key="^" line="30" column="96" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/utilities/exception_notifier/stderr_notifier.rb" timestamp="1534909985224">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="20" column="16" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/utilities/exception_notifier/stderr_notifier.rb" timestamp="1534922423949">
+        <mark key="[" line="10" column="88" />
+        <mark key="]" line="10" column="51" />
+        <mark key="^" line="10" column="51" />
+        <mark key="." line="10" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_query.rb" timestamp="1534911008424">
+        <mark key="[" line="64" column="47" />
+        <mark key="]" line="65" column="16" />
+        <mark key="^" line="65" column="16" />
+        <mark key="." line="65" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/graphql_controller.rb" timestamp="1534906020547">
         <mark key="[" line="47" column="40" />
@@ -89,6 +100,12 @@
         <mark key="." line="29" column="1" />
         <mark key="^" line="29" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/routes.rb" timestamp="1534922792393">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="119" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_log_subscribers/to_json_controller_runtime.rb" timestamp="1534900920504">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -106,6 +123,11 @@
         <mark key="]" line="6" column="16" />
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/exception_notification-4.2.2/lib/exception_notifier.rb" timestamp="1534910878788">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/environments/production.rb" timestamp="1534904146531">
         <mark key="'" line="84" column="22" />
@@ -132,10 +154,10 @@
         <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/warden_tagged_logger.rb" timestamp="1534853907130" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/application_schema.rb" timestamp="1534909961624">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/application_schema.rb" timestamp="1534922258179">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/json_log_formmater.rb" timestamp="1534901013770">
         <mark key="[" line="0" column="21" />
@@ -150,10 +172,12 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/top_controller.rb" timestamp="1534853763190">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/top_controller.rb" timestamp="1534922950536">
+        <mark key="'" line="6" column="41" />
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/loggings/application_logging.rb" timestamp="1534825830680">
         <mark key="[" line="1" column="0" />
@@ -188,49 +212,51 @@
       <jump line="115" column="8" filename="$USER_HOME$/workspace/car-gva-admin/config/locales/translation_ja.yml" />
       <jump line="12" column="34" filename="$USER_HOME$/workspace/car-gva-admin/lib/application_logger.rb" />
       <jump line="84" column="22" filename="$USER_HOME$/workspace/car-gva-admin/config/environments/production.rb" />
+      <jump line="84" column="22" filename="$USER_HOME$/workspace/car-gva-admin/lib/utilities/exception_notifier/stderr_notifier.rb" />
+      <jump line="7" column="41" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/top_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}&quot;</text>
+        <text>if Rails.env.development?</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
       </register>
       <register name="0" type="4">
-        <text>Rails.logger.info</text>
+        <text>notify_backtrace</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29udGV4dFs6cmVxdWVzdF0uZW52Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0gQGV4Y2VwdGlvbi5jbGFzcy50b19zID1+IC9eW2FlaW91XS9pID8gJ0FuJyA6ICdBJyAlPiA8JT0gQGV4Y2VwdGlvbi5jbGFzcyAlPiBvY2N1cnJlZCBpbiBiYWNrZ3JvdW5kIGF0IDwlPSByYXcgQHRpbWVzdGFtcCAlPiA6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCU9IEBleGNlcHRpb24uY2xhc3MudG9fcyA9fiAvXlthZWlvdV0vaSA/ICdBbicgOiAnQScgJT4gPCU9IEBleGNlcHRpb24uY2xhc3MgJT4gb2NjdXJyZWQgaW4gYmFja2dyb3VuZCBhdCA8JT0gcmF3IEB0aW1lc3RhbXAgJT4gOgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihleGNlcHRpb24sIGVudjogcmVxdWVzdC5lbnYpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBoYW5kbGVfNTAwKGV4Y2VwdGlvbiA9IG5pbCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXNjdWVfZnJvbSBTdGFuZGFyZEVycm9yLCB3aXRoOiA6aGFuZGxlXzUwMAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDplbnYgPT4gcmVxdWVzdC5lbnYsIDpkYXRhID0+IHs6bWVzc2FnZSA9PiAid2FzIGRvaW5nIHNvbWV0aGluZyB3cm9uZyJ9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBnZXQgJy8qcGF0aCcsIHRvOiAndG9wI3BhZ2UnLCBmb3JtYXQ6IDpodG1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8JT0gcmF3IEBiYWNrdHJhY2UuZmlyc3QgJT4K</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyIEZpbGUuam9pbihlcnJvcl92aWV3X3BhdGgsICdpbnRlcm5hbF9zZXJ2ZXJfZXJyb3InKSwgc3RhdHVzOiA1MDAsIGxheW91dDogZXJyb3JfbGF5b3V0LCBjb250ZW50X3R5cGU6ICd0ZXh0L2h0bWwnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
