@@ -154,10 +154,11 @@
         <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/warden_tagged_logger.rb" timestamp="1534853907130" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/application_schema.rb" timestamp="1534922258179">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/application_schema.rb" timestamp="1534924650459">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="44" column="29" />
+        <mark key="^" line="44" column="29" />
+        <mark key="." line="44" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/json_log_formmater.rb" timestamp="1534901013770">
         <mark key="[" line="0" column="21" />
@@ -259,7 +260,7 @@
         <text encoding="base64">ICAgICAgcmVuZGVyIEZpbGUuam9pbihlcnJvcl92aWV3X3BhdGgsICdpbnRlcm5hbF9zZXJ2ZXJfZXJyb3InKSwgc3RhdHVzOiA1MDAsIGxheW91dDogZXJyb3JfbGF5b3V0LCBjb250ZW50X3R5cGU6ICd0ZXh0L2h0bWwnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -281,6 +282,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
