@@ -55,13 +55,13 @@
         <mark key="^" line="30" column="96" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/utilities/exception_notifier/stderr_notifier.rb" timestamp="1534932893968">
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/utilities/exception_notifier/stderr_notifier.rb" timestamp="1535008091114">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="^" line="104" column="41" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_query.rb" timestamp="1534911008424">
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_query.rb" timestamp="1535015451156">
         <mark key="[" line="64" column="47" />
         <mark key="]" line="65" column="16" />
         <mark key="^" line="65" column="16" />
@@ -73,6 +73,7 @@
         <mark key="^" line="48" column="24" />
         <mark key="." line="48" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-layout/src/HorizontalSplitter.js" timestamp="1535021929516" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/views/layouts/error.html.slim" timestamp="1534825321960">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -83,6 +84,12 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin/app/PlacementCount/PlacementCountList.js" timestamp="1535023488750">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/initializers/exception_handler.rb" timestamp="1534820215302">
         <mark key="[" line="6" column="17" />
@@ -144,6 +151,12 @@
         <mark key="]" line="16" column="60" />
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-layout/__stories__/index.js" timestamp="1535021938314">
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="39" />
+        <mark key="^" line="69" column="39" />
+        <mark key="." line="69" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/initializers/exception_notification.rb" timestamp="1534903930895">
         <mark key="[" line="14" column="0" />
@@ -212,11 +225,11 @@
       <jump line="7" column="41" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/top_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICcnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>Flex</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyA=</text>
+        <text>Flex</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -228,31 +241,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcl9uYW1lID0gQGV4Y2VwdGlvbi5jbGFzcy50b19zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9Cb3g+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nIG1lc3NhZ2VzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L1BhcGVyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8UGFwZXIgekRlcHRoPXsxfT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBleGNlcHRpb24ubWVzc2FnZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPEJveCBwPXszfT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVycm9yX25hbWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBiYWNrdHJhY2UuZmlyc3QsCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWlyZSAnanNvbl9sb2dfZm9ybWF0dGVyJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L0ZsZXg+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
