@@ -8,13 +8,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/json_log_formatter.rb" timestamp="1534901135876" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/application_controller.rb" timestamp="1534922987032">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/config/initializers/rambulance.rb" timestamp="1534922914028" />
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/my_logger.rb" timestamp="1534845428594">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="10" />
@@ -51,18 +49,17 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/current_user_query.rb" timestamp="1534906132007" />
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/logging.rb" timestamp="1534858322268">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="^" line="30" column="96" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/utilities/exception_notifier/stderr_notifier.rb" timestamp="1534922423949">
-        <mark key="[" line="10" column="88" />
-        <mark key="]" line="10" column="51" />
-        <mark key="^" line="10" column="51" />
-        <mark key="." line="10" column="51" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/utilities/exception_notifier/stderr_notifier.rb" timestamp="1534932893968">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="104" column="41" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_query.rb" timestamp="1534911008424">
         <mark key="[" line="64" column="47" />
@@ -111,13 +108,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/config/initializers/session_store.rb" timestamp="1534819942044" />
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/custom_logger.rb" timestamp="1534761576277">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activesupport-5.0.7/lib/active_support/logger.rb" timestamp="1534856637555" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/advertising_controller.rb" timestamp="1534732178868">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="16" />
@@ -128,6 +123,9 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1535004714768">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/environments/production.rb" timestamp="1534904146531">
         <mark key="'" line="84" column="22" />
@@ -153,12 +151,11 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/warden_tagged_logger.rb" timestamp="1534853907130" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/application_schema.rb" timestamp="1534924650459">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="44" column="29" />
-        <mark key="^" line="44" column="29" />
-        <mark key="." line="44" column="29" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/application_schema.rb" timestamp="1534929646572">
+        <mark key="[" line="30" column="94" />
+        <mark key="]" line="30" column="93" />
+        <mark key="^" line="30" column="93" />
+        <mark key="." line="30" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/json_log_formmater.rb" timestamp="1534901013770">
         <mark key="[" line="0" column="21" />
@@ -166,7 +163,6 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/config/initializers/wrap_parameters.rb" timestamp="1534825102886" />
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/exception_notifier/stderr_notifier.rb" timestamp="1534832311146">
         <mark key="[" line="11" column="47" />
         <mark key="]" line="12" column="5" />
@@ -185,7 +181,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activesupport-5.0.7/lib/active_support/tagged_logging.rb" timestamp="1534856945901" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/top_controller.rb" timestamp="1534834926580">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -218,10 +213,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICcnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>if Rails.env.development?</text>
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -233,34 +228,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICcnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRXhjZXB0aW9uTm90aWZpZXIubm90aWZ5X2V4Y2VwdGlvbihleGNlcHRpb24sIGVudjogcmVxdWVzdC5lbnYpCg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcl9uYW1lID0gQGV4Y2VwdGlvbi5jbGFzcy50b19zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBoYW5kbGVfNTAwKGV4Y2VwdGlvbiA9IG5pbCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nIG1lc3NhZ2VzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICcnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXNjdWVfZnJvbSBTdGFuZGFyZEVycm9yLCB3aXRoOiA6aGFuZGxlXzUwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBleGNlcHRpb24ubWVzc2FnZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVycm9yX25hbWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXQgJy8qcGF0aCcsIHRvOiAndG9wI3BhZ2UnLCBmb3JtYXQ6IDpodG1sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIEBiYWNrdHJhY2UuZmlyc3QsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIEZpbGUuam9pbihlcnJvcl92aWV3X3BhdGgsICdpbnRlcm5hbF9zZXJ2ZXJfZXJyb3InKSwgc3RhdHVzOiA1MDAsIGxheW91dDogZXJyb3JfbGF5b3V0LCBjb250ZW50X3R5cGU6ICd0ZXh0L2h0bWwnCg==</text>
+        <text encoding="base64">cmVxdWlyZSAnanNvbl9sb2dfZm9ybWF0dGVyJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -281,8 +276,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>q!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
