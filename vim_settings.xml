@@ -62,17 +62,17 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-ops/deployments/logging/templates/metrics.yaml.jinja" timestamp="1535336994517">
-        <mark key="[" line="474" column="8" />
-        <mark key="]" line="478" column="0" />
-        <mark key="^" line="478" column="0" />
-        <mark key="." line="478" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-ops/deployments/logging/templates/metrics.yaml.jinja" timestamp="1535348299667">
+        <mark key="[" line="501" column="0" />
+        <mark key="]" line="506" column="14" />
+        <mark key="^" line="506" column="14" />
+        <mark key="." line="506" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-ops/deployments/logging/templates/exclusions.yaml.jinja" timestamp="1535337052285">
-        <mark key="[" line="286" column="27" />
-        <mark key="]" line="286" column="31" />
-        <mark key="." line="286" column="31" />
-        <mark key="^" line="286" column="31" />
+      <file name="$USER_HOME$/workspace/car-gva-ops/deployments/logging/templates/exclusions.yaml.jinja" timestamp="1535348344478">
+        <mark key="[" line="288" column="4" />
+        <mark key="]" line="297" column="7" />
+        <mark key="." line="297" column="7" />
+        <mark key="^" line="297" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_log_subscribers/to_json_controller_runtime.rb" timestamp="1534900920504">
         <mark key="[" line="10" column="0" />
@@ -110,14 +110,17 @@
       <file name="/GraphQL.result.json" timestamp="1535331952301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/Jenkinsfile" timestamp="1535343501186">
-        <mark key="[" line="61" column="27" />
-        <mark key="]" line="68" column="36" />
-        <mark key="." line="68" column="36" />
-        <mark key="^" line="68" column="36" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/Jenkinsfile" timestamp="1535345067706">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="25" />
+        <mark key="." line="46" column="25" />
+        <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/Makefile" timestamp="1535344128038">
-        <mark key="[" line="28" column="17" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/Makefile" timestamp="1535344772404">
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="34" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql_v0/publishers/mutations/create_placement.rb" timestamp="1535090588971">
         <mark key="[" line="25" column="0" />
@@ -188,11 +191,11 @@
       <jump line="7" column="41" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/top_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS11aSBiZGQK</text>
+      <register name="&quot;" type="4">
+        <text>admin</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9jYWwg</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -204,33 +207,33 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS11aSBiZGQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuRU5WIHx8IHByb2Nlc3MuZW52LkVOViA9ICJsb2NhbCI7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZS5sYWJlbHMubmFtZXNwYWNlX2lkPSJkZWZhdWx0Igo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbWV0cmljOiBhZG1pbiUyRmFwcC1lcnJvcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LS11aSBiZGQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJvY2Vzcy5lbnYuRU5WIHx8IHByb2Nlc3MuZW52LkVOViA9ICJsb2NhbCI7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>&quot;./test/**/*.test.ts&quot;
 &quot;./test/**/**/**/*.test.ts&quot;
 &quot;./test/**/**/**/**/*.test.ts&quot;</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkidGVzdCI6ICJFTlY9bG9jYWwgbW9jaGEgIiwKCQkibGludCI6ICIiCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LS1yZWN1cnNpdmUK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1ha2UgZGVwcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -253,8 +256,8 @@
         <entry>wq</entry>
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -272,6 +275,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
