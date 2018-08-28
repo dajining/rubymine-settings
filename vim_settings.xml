@@ -148,11 +148,15 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="18" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1535420437520">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql_v0/publishers/mutations/create_placement.rb" timestamp="1535090588971">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/config/_production.ts" timestamp="1535420936156" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/views/exception_handler/exceptions/show.html.erb" timestamp="1534820692763">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
