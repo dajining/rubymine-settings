@@ -157,11 +157,11 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/config/_production.ts" timestamp="1535420936156" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1535424051815">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="15" column="77" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1535426401726">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="15" column="97" />
+        <mark key="." line="15" column="97" />
+        <mark key="^" line="15" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/views/exception_handler/exceptions/show.html.erb" timestamp="1534820692763">
         <mark key="[" line="3" column="0" />
@@ -233,7 +233,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkicG9zdGJ1aWxkIjogImNwIC1yZiBidWlsdCBidWlsdC0kRU5WIiwK</text>
+        <text encoding="base64">CQkicG9zdHB1Ymxpc2giOiAiIiwK</text>
       </register>
       <register name="-" type="4">
         <text>dev</text>
@@ -248,31 +248,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkicG9zdGJ1aWxkIjogImNwIC1yZiBidWlsdCBidWlsdC0kRU5WIiwK</text>
+        <text encoding="base64">CQkicG9zdHB1Ymxpc2giOiAiIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkicG9zdGJ1aWxkLXByZCI6ICJjcCAtcmYgYnVpbHQgYnVpbHQtcHJkIiwK</text>
+        <text encoding="base64">CQkicHJlcHVibGlzaCI6ICJybSAtcmYgZGlzdCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkicG9zdGJ1aWxkLXN0ZyI6ICJjcCAtcmYgYnVpbHQgYnVpbHQtc3RnIiwK</text>
+        <text encoding="base64">CQkicG9zdGJ1aWxkIjogImNwIC1yZiBidWlsdCBidWlsdC0kRU5WIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkicG9zdGJ1aWxkOmxvY2FsIjogIlRBU0s9YnVpbGQgRU5WPWxvY2FsIG5wbSBydW4gYnVpbGQiLAo=</text>
+        <text encoding="base64">CQkicG9zdGJ1aWxkLXByZCI6ICJjcCAtcmYgYnVpbHQgYnVpbHQtcHJkIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkiYnVpbGQ6cHJkIjogIm5wbSBydW4gY2xlYW4gJiYgVEFTSz1idWlsZCBFTlY9cHJvZHVjdGlvbiB3ZWJwYWNrIiwK</text>
+        <text encoding="base64">CQkicG9zdGJ1aWxkLXN0ZyI6ICJjcCAtcmYgYnVpbHQgYnVpbHQtc3RnIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkiYnVpbGQ6c3RnIjogIm5wbSBydW4gY2xlYW4gJiYgVEFTSz1idWlsZCBFTlY9c3RhZ2luZyB3ZWJwYWNrIiwK</text>
+        <text encoding="base64">CQkicG9zdGJ1aWxkOmxvY2FsIjogIlRBU0s9YnVpbGQgRU5WPWxvY2FsIG5wbSBydW4gYnVpbGQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkiYnVpbGQ6ZGV2IjogIm5wbSBydW4gY2xlYW4gJiYgVEFTSz1idWlsZCBFTlY9ZGV2ZWxvcG1lbnQgd2VicGFjayIsCg==</text>
+        <text encoding="base64">CQkiYnVpbGQ6cHJkIjogIm5wbSBydW4gY2xlYW4gJiYgVEFTSz1idWlsZCBFTlY9cHJvZHVjdGlvbiB3ZWJwYWNrIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkiYnVpbGQ6c3RnIjogIm5wbSBydW4gY2xlYW4gJiYgVEFTSz1idWlsZCBFTlY9c3RhZ2luZyB3ZWJwYWNrIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YnVpbHQK</text>
+        <text encoding="base64">CQkiYnVpbGQ6ZGV2IjogIm5wbSBydW4gY2xlYW4gJiYgVEFTSz1idWlsZCBFTlY9ZGV2ZWxvcG1lbnQgd2VicGFjayIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
