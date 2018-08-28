@@ -188,11 +188,11 @@
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1535456989769">
-        <mark key="[" line="24" column="49" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="31" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1535458713764">
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="85" column="51" />
+        <mark key="." line="85" column="51" />
+        <mark key="^" line="85" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/views/exception_handler/exceptions/show.html.erb" timestamp="1534820692763">
         <mark key="[" line="3" column="0" />
@@ -280,50 +280,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="3" type="4">
-        <text># DEMO pages
-
-env | url
---- | ---
-dev | http://dev.sas.ws.mobadme.jp/apps/vd/tools/check/dev/index.php
-stg | http://stg.sas.ws.mobadme.jp/apps/vd/tools/check/stg/index.php
-prd | http://sas.ws.mobadme.jp/apps/vd/tools/check/prd/index.php</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="6" type="4">
-        <text># deploy
-
-## DEV
-
-http://10.4.47.119/jenkins/job/car-superadscript/job/10_dev/job/deploy/
-
-## STG
-
-http://10.6.229.28/jenkins/job/car-superadscript/job/20_staging/job/deploy/
-
-## PRD
-
-http://10.6.215.18/jenkins/job/car-superadscript/job/40_product/job/deploy/</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="9" type="4">
-        <text># publish URL
-
-```
-http://sas.ws.mobadme.jp/js/sas-vd.js
-```</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
