@@ -31,11 +31,11 @@
         <mark key="]" line="405" column="20" />
         <mark key="." line="405" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/webpack.config.js" timestamp="1535362975903">
-        <mark key="[" line="39" column="16" />
-        <mark key="]" line="39" column="16" />
-        <mark key="^" line="39" column="34" />
-        <mark key="." line="39" column="16" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/webpack.config.js" timestamp="1535422743934">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/size_300x250_iframe.html" timestamp="1535076549481">
         <mark key="[" line="19" column="2" />
@@ -157,6 +157,12 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/config/_production.ts" timestamp="1535420936156" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1535424051815">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="15" column="77" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/views/exception_handler/exceptions/show.html.erb" timestamp="1534820692763">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -227,10 +233,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YnVpbHQK</text>
+        <text encoding="base64">CQkicG9zdGJ1aWxkIjogImNwIC1yZiBidWlsdCBidWlsdC0kRU5WIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -242,31 +248,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YnVpbHQK</text>
+        <text encoding="base64">CQkicG9zdGJ1aWxkIjogImNwIC1yZiBidWlsdCBidWlsdC0kRU5WIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlzdAo=</text>
+        <text encoding="base64">CQkicG9zdGJ1aWxkLXByZCI6ICJjcCAtcmYgYnVpbHQgYnVpbHQtcHJkIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CQkicG9zdGJ1aWxkLXN0ZyI6ICJjcCAtcmYgYnVpbHQgYnVpbHQtc3RnIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9nZQo=</text>
+        <text encoding="base64">CQkicG9zdGJ1aWxkOmxvY2FsIjogIlRBU0s9YnVpbGQgRU5WPWxvY2FsIG5wbSBydW4gYnVpbGQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkiYnVpbGQ6cHJkIjogIm5wbSBydW4gY2xlYW4gJiYgVEFTSz1idWlsZCBFTlY9cHJvZHVjdGlvbiB3ZWJwYWNrIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQkiYnVpbGQ6c3RnIjogIm5wbSBydW4gY2xlYW4gJiYgVEFTSz1idWlsZCBFTlY9c3RhZ2luZyB3ZWJwYWNrIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEVOVjogc3RyaW5nOwo=</text>
+        <text encoding="base64">CQkiYnVpbGQ6ZGV2IjogIm5wbSBydW4gY2xlYW4gJiYgVEFTSz1idWlsZCBFTlY9ZGV2ZWxvcG1lbnQgd2VicGFjayIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEdsb2JhbCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnVpbHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
