@@ -59,6 +59,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/frame.ts" timestamp="1535456943384">
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/previewer/app.js" timestamp="1535358078658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -87,11 +92,10 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/config/_local.ts" timestamp="1535442497245" />
       <file name="$USER_HOME$/workspace/car-gva-ops/docker/ci/ruby2.4.4/Dockerfile" timestamp="1535450327203" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/README.md" timestamp="1535349056921">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="9" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/README.md" timestamp="1535457537283">
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-ops/docker/ci/node8.11/Dockerfile" timestamp="1535452701646">
         <mark key="[" line="15" column="0" />
@@ -162,11 +166,11 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-ops/docker/base/node8.11/Version" timestamp="1535450097585" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/300x250/3_1/300x250.ts" timestamp="1535443165164" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/Jenkinsfile" timestamp="1535449217766">
-        <mark key="[" line="46" column="25" />
-        <mark key="]" line="47" column="36" />
-        <mark key="^" line="47" column="36" />
-        <mark key="." line="47" column="36" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/Jenkinsfile" timestamp="1535452911740">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="103" />
+        <mark key="^" line="31" column="103" />
+        <mark key="." line="31" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/Makefile" timestamp="1535430350541">
         <mark key="[" line="35" column="0" />
@@ -184,16 +188,21 @@
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1535448714486">
-        <mark key="[" line="51" column="33" />
-        <mark key="]" line="51" column="33" />
-        <mark key="^" line="79" column="30" />
-        <mark key="." line="51" column="33" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1535456989769">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="25" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/views/exception_handler/exceptions/show.html.erb" timestamp="1534820692763">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/config/config.ts" timestamp="1535364620197">
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+        <mark key="^" line="1" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-ops/docker/base/node8.11/Dockerfile" timestamp="1535450017937">
         <mark key="[" line="34" column="0" />
@@ -253,10 +262,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2EtY2VydGlmaWNhdGVzIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -268,31 +277,53 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2EtY2VydGlmaWNhdGVzIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAganEgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text># DEMO pages
+
+env | url
+--- | ---
+dev | http://dev.sas.ws.mobadme.jp/apps/vd/tools/check/dev/index.php
+stg | http://stg.sas.ws.mobadme.jp/apps/vd/tools/check/stg/index.php
+prd | http://sas.ws.mobadme.jp/apps/vd/tools/check/prd/index.php</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICYmIGN1cmwgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dvbGFuZy9kZXAvbWFzdGVyL2luc3RhbGwuc2ggfCBzaCBcCg==</text>
+      <register name="6" type="4">
+        <text># deploy
+
+## DEV
+
+http://10.4.47.119/jenkins/job/car-superadscript/job/10_dev/job/deploy/
+
+## STG
+
+http://10.6.229.28/jenkins/job/car-superadscript/job/20_staging/job/deploy/
+
+## PRD
+
+http://10.6.215.18/jenkins/job/car-superadscript/job/40_product/job/deploy/</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICYmIHJtIC1yZiAvdmFyL2NhY2hlL2Fway8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICYmIHJtIC1yZiAvdmFyL2NhY2hlL2Fway8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICYmIGFwayBhZGQgLS1uby1jYWNoZSBkb2NrZXIgXAo=</text>
+      <register name="9" type="4">
+        <text># publish URL
+
+```
+http://sas.ws.mobadme.jp/js/sas-vd.js
+```</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
