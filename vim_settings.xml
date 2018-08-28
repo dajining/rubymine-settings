@@ -26,6 +26,12 @@
         <mark key="." line="405" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/dist-stg/js/sas-vd.v2.js" timestamp="1535452603704" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/package.json" timestamp="1535462190820">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/size_300x250_iframe.html" timestamp="1535076549481">
         <mark key="[" line="19" column="2" />
         <mark key="]" line="20" column="0" />
@@ -131,11 +137,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/index.html" timestamp="1535360286208">
-        <mark key="[" line="72" column="46" />
-        <mark key="]" line="72" column="46" />
-        <mark key="^" line="72" column="72" />
-        <mark key="." line="72" column="46" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/index.html" timestamp="1535461086389">
+        <mark key="[" line="72" column="51" />
+        <mark key="]" line="72" column="49" />
+        <mark key="^" line="72" column="49" />
+        <mark key="." line="72" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-ops/deployments/logging/templates/metrics.yaml.jinja" timestamp="1535348299667">
         <mark key="[" line="501" column="0" />
@@ -259,11 +265,11 @@
       <jump line="5" column="15" filename="$USER_HOME$/workspace/car-gva-tag/src/previewer/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
