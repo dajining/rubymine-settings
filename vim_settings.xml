@@ -26,12 +26,13 @@
         <mark key="." line="405" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/dist-stg/js/sas-vd.v2.js" timestamp="1535452603704" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/package.json" timestamp="1535462190820">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/package.json" timestamp="1535462356643">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/build/index.html" timestamp="1535463655064" />
       <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/size_300x250_iframe.html" timestamp="1535076549481">
         <mark key="[" line="19" column="2" />
         <mark key="]" line="20" column="0" />
@@ -104,6 +105,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/.gitignore" timestamp="1535462446490">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-ops/docker/ci/node8.11/Dockerfile" timestamp="1535452701646">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -117,6 +124,12 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-ops/docker/admin/ruby2.4.4/Dockerfile" timestamp="1535449928273" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/config/_development.ts" timestamp="1535430640469" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/previewer/package.json" timestamp="1535464090751">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/tools/check/dev/300x250_v2.php" timestamp="1535459398382" />
       <file name="$USER_HOME$/workspace/car-gva-ops/docker/ci/ruby2.3.3/Dockerfile" timestamp="1535450069442" />
       <file name="$USER_HOME$/workspace/car-gva-tag/.npmrc" timestamp="1535448570925">
@@ -125,11 +138,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/webpack.config.js" timestamp="1535447947834">
-        <mark key="[" line="11" column="48" />
-        <mark key="]" line="11" column="48" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/webpack.config.js" timestamp="1535462510245">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
         <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="48" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/tsconfig.json" timestamp="1535448183242" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/views/layouts/error.html.slim" timestamp="1534825321960">
@@ -202,6 +215,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/scripts/deploy.sh" timestamp="1535464109406">
+        <mark key="[" line="9" column="63" />
+        <mark key="]" line="9" column="103" />
+        <mark key="^" line="9" column="103" />
+        <mark key="." line="9" column="103" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/config/config.ts" timestamp="1535364620197">
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
@@ -265,11 +284,11 @@
       <jump line="5" column="15" filename="$USER_HOME$/workspace/car-gva-tag/src/previewer/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">ICAgICAgJ2pzL3ByZXZpZXcvYXBwJyA6ICcuL2J1aWx0L2pzL3ByZXZpZXcvYXBwLmpzJw==</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -283,23 +302,23 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgbmV3IENvcHlXZWJwYWNrUGx1Z2luKFsKICAgICAgICB7IGZyb206ICcuL3NyYy9wcmV2aWV3L2FwcC5odG1sJywgdG86ICcuL2J1aWx0L2pzL3ByZXZpZXcvYXBwLmh0bWwnLCBmb3JjZTogdHJ1ZSB9CiAgICAgIF0sIHt9KQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgJ2pzL3ByZXZpZXcvYXBwJyA6ICcuL3NyYy9wcmV2aWV3L2FwcC5qcycsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBuZXcgQ29weVdlYnBhY2tQbHVnaW4oWwogICAgICAgICAgeyBmcm9tOiAnLi9idWlsdC9qcy9wcmV2aWV3L2FwcC5odG1sJywgdG86ICcuL2Rpc3QvanMvcHJldmlldy9hcHAuaHRtbCcsIGZvcmNlOiB0cnVlIH0KICAgICAgICBdLCB7fSk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkK</text>
