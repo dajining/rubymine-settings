@@ -3,26 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_log_subscribers/execute_query_controller_runtime.rb" timestamp="1534900928014">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/adsize.html" timestamp="1535360244864">
         <mark key="[" line="185" column="55" />
         <mark key="]" line="185" column="24" />
         <mark key="^" line="185" column="24" />
         <mark key="." line="185" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/application_controller.rb" timestamp="1534922987032">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/2.3.0/logger.rb" timestamp="1534847355698">
-        <mark key="[" line="405" column="20" />
-        <mark key="]" line="405" column="20" />
-        <mark key="." line="405" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/package.json" timestamp="1535462356643">
         <mark key="[" line="11" column="3" />
@@ -42,6 +27,13 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/vast.ts" timestamp="1535508453220" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/SetupForm.jsx" timestamp="1535509534569">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/medium_mutation.rb" timestamp="1535100451859">
         <mark key="[" line="14" column="40" />
         <mark key="]" line="16" column="41" />
@@ -54,51 +46,16 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1535354574812">
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1535509107083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/.gitignore" timestamp="1535367230223">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/frame.ts" timestamp="1535456943384">
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/previewer/app.js" timestamp="1535358078658">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_log_subscribers/to_json_controller_runtime.rb" timestamp="1534900920504">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/size_thumbnail.html" timestamp="1535077557935">
         <mark key="[" line="156" column="55" />
         <mark key="]" line="156" column="55" />
         <mark key="^" line="156" column="55" />
         <mark key="." line="156" column="55" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/test/mocha.opts" timestamp="1535340541607">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/exception_notification-4.2.2/lib/exception_notifier.rb" timestamp="1534910878788">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/README.md" timestamp="1535457537283">
-        <mark key="[" line="24" column="44" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/.gitignore" timestamp="1535462446490">
         <mark key="[" line="9" column="1" />
@@ -111,11 +68,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="25" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/preview/index.html" timestamp="1535364857729">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/previewer/package.json" timestamp="1535464090751">
         <mark key="[" line="1" column="15" />
@@ -135,22 +87,31 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/frameTypes.js" timestamp="1535509201397">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/tracking.ts" timestamp="1535508501811" />
       <file name="$USER_HOME$/workspace/car-gva-tag/webpack.config.js" timestamp="1535462510245">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="11" column="48" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/views/layouts/error.html.slim" timestamp="1534825321960">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/index.html" timestamp="1535461086389">
         <mark key="[" line="72" column="51" />
         <mark key="]" line="72" column="49" />
         <mark key="^" line="72" column="49" />
         <mark key="." line="72" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/vast.ts" timestamp="1535508949154" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/FrameTypeSelect.jsx" timestamp="1535509808862">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/App.js" timestamp="1535506662548">
         <mark key="[" line="7" column="0" />
@@ -170,7 +131,7 @@
         <mark key="." line="297" column="7" />
         <mark key="^" line="297" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/core.ts" timestamp="1535442537830">
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/core.ts" timestamp="1535508625201">
         <mark key="[" line="427" column="23" />
         <mark key="]" line="427" column="24" />
         <mark key="." line="427" column="24" />
@@ -182,10 +143,8 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/custom_logger.rb" timestamp="1534761576277">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/FrameTypeSelector.jsx" timestamp="1535509240023">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/Jenkinsfile" timestamp="1535452911740">
         <mark key="[" line="31" column="0" />
@@ -199,21 +158,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql_v0/publishers/mutations/create_placement.rb" timestamp="1535090588971">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1535458713764">
         <mark key="[" line="66" column="31" />
         <mark key="]" line="85" column="51" />
         <mark key="." line="85" column="51" />
         <mark key="^" line="85" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/views/exception_handler/exceptions/show.html.erb" timestamp="1534820692763">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/scripts/deploy.sh" timestamp="1535464109406">
         <mark key="[" line="9" column="63" />
@@ -221,25 +170,11 @@
         <mark key="^" line="9" column="103" />
         <mark key="." line="9" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/config/config.ts" timestamp="1535364620197">
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="35" />
-        <mark key="^" line="1" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/App.jsx" timestamp="1535507839034">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-ops/docker/base/node8.11/Dockerfile" timestamp="1535450017937">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/loggings/application_logging.rb" timestamp="1534825830680">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/App.jsx" timestamp="1535509565027">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/size_300x250.html" timestamp="1535103753588">
         <mark key="[" line="173" column="15" />
@@ -252,16 +187,6 @@
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/top_controller.rb" timestamp="1534834926580">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/prd_thumbnail.html" timestamp="1535077403234">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -285,10 +210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uPkJvb3A8L29wdGlvbj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgJ2pzL3ByZXZpZXcvYXBwJyA6ICcuL2J1aWx0L2pzL3ByZXZpZXcvYXBwLmpzJw==</text>
+        <text>dwHello</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -300,31 +225,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uPkJvb3A8L29wdGlvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uPkJlZXA8L29wdGlvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRvIGdldCBzdGFydGVkLCBlZGl0IDxjb2RlPnNyYy9BcHAuanM8L2NvZGU+IGFuZCBzYXZlIHRvIHJlbG9hZC4K</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uPkhlbGxvPC9vcHRpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzc05hbWU9IkFwcC1pbnRybyI+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VsZWN0IH0gZnJvbSAncmViYXNzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L2hlYWRlcj4K</text>
+        <text encoding="base64">aW1wb3J0IGZyYW1lVHlwZXMgZnJvbSAnLi9jb25zdGFudHMvZnJhbWVUeXBlcycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxoMSBjbGFzc05hbWU9IkFwcC10aXRsZSI+V2VsY29tZSB0byBSZWFjdDwvaDE+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9GcmFtZVR5cGVTZWxlY3Q+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uPkJvb3A8L29wdGlvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aGVhZGVyIGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uPkJlZXA8L29wdGlvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05kZGRhbWU9IkFwcCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uPkhlbGxvPC9vcHRpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
