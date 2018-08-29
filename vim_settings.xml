@@ -71,8 +71,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/ConfigurationDrawer.jsx" timestamp="1535514052251">
-        <mark key="[" line="12" column="17" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/ConfigurationDrawer.jsx" timestamp="1535518475515">
+        <mark key="[" line="11" column="20" />
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
@@ -109,6 +109,11 @@
         <mark key="^" line="94" column="44" />
         <mark key="." line="94" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/Viewer.jsx" timestamp="1535518621513">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/README.md" timestamp="1535457537283">
         <mark key="[" line="24" column="44" />
         <mark key="]" line="65" column="0" />
@@ -126,7 +131,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/Preview.jsx" timestamp="1535514521276">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/Preview.jsx" timestamp="1535518600945">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -156,6 +161,11 @@
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/PreviewWrapper.jsx" timestamp="1535517996775">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/frameTypes.js" timestamp="1535509201397">
         <mark key="[" line="8" column="1" />
@@ -244,6 +254,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/Previewer.jsx" timestamp="1535517385815">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql_v0/publishers/mutations/create_placement.rb" timestamp="1535090588971">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -266,10 +281,11 @@
         <mark key="^" line="9" column="103" />
         <mark key="." line="9" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/App.jsx" timestamp="1535514516339">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/App.jsx" timestamp="1535518563491">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-ops/docker/base/node8.11/Dockerfile" timestamp="1535450017937">
         <mark key="[" line="34" column="0" />
@@ -325,10 +341,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L0ZsZXg+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IFB1cmVDb21wb25lbnQgfSBmcm9tICdyZWFjdCcK</text>
       </register>
       <register name="-" type="4">
-        <text>ConfigurationDrawer</text>
+        <text>aaa</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -340,31 +356,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L0ZsZXg+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IFB1cmVDb21wb25lbnQgfSBmcm9tICdyZWFjdCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvQm94Pgo=</text>
+        <text encoding="base64">ICAgICAgICBhYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudAo=</text>
+        <text encoding="base64">aW1wb3J0IFByZXZpZXcgZnJvbSAnLi9QcmV2aWV3Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCb3g+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByZXZpZXdXcmFwcGVyIGZyb20gJy4vUHJldmlld1dyYXBwZXInCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByZXZpZXdlciBmcm9tICcuL1ByZXZpZXdlcicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8RmxleCBmbGV4RGlyZWN0aW9uPSdjb2x1bW4nPgo=</text>
+        <text encoding="base64">ICBtYXJnaW46IDUwcHggYXV0bzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRHJhd2VyLCBIZWFkaW5nLCBCb3ggfSBmcm9tICdyZWJhc3MnZGQK</text>
+        <text encoding="base64">ICB3aWR0aDogMTAwJTtkZAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICA8SGVhZGluZz4KICAgICAgICAgIOioreWumgogICAgICAgIDwvSGVhZGluZz4KCiAgICAgICAgPEJveCBweT17M30+CiAgICAgICAgICA8Q29uZmlndXJhdGlvbkZvcm0gLz4KICAgICAgICA8L0JveD4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFhYWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L1dyYXBwZXI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
