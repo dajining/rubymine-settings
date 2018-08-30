@@ -263,10 +263,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/config.js" timestamp="1535601208730">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/config.js" timestamp="1535602325080">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/preview-head.html" timestamp="1535537101614">
         <mark key="[" line="1" column="8" />
@@ -331,10 +332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tsx</text>
+        <text>mustache</text>
       </register>
       <register name="-" type="4">
-        <text>tsx</text>
+        <text>mustache</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
