@@ -183,10 +183,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/webpack.config.js" timestamp="1535941953154">
-        <mark key="[" line="16" column="63" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/webpack.config.js" timestamp="1535944032718">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/FrameTypeSelect.jsx" timestamp="1535513422060">
         <mark key="[" line="9" column="10" />
@@ -374,11 +375,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/utils/compileHtml.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JycpLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>sx</text>
+        <text encoding="base64">JycpLCA=</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
