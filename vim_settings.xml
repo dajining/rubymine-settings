@@ -119,6 +119,9 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/local.json" timestamp="1535959345627">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/exception_notification-4.2.2/lib/exception_notifier.rb" timestamp="1534910878788">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -208,11 +211,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/webpack.config.js" timestamp="1535956086656">
-        <mark key="[" line="16" column="53" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="35" />
-        <mark key="^" line="16" column="35" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/webpack.config.js" timestamp="1535959280715">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/FrameTypeSelect.jsx" timestamp="1535513422060">
         <mark key="[" line="9" column="10" />
@@ -320,10 +323,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default.json" timestamp="1535952277478">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default.json" timestamp="1535959334952">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/App.jsx" timestamp="1535518563491">
         <mark key="[" line="19" column="15" />
@@ -414,11 +416,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>APP_ENV</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>APP_ENV</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
