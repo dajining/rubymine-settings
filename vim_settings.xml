@@ -37,12 +37,11 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/tasks/temp.rake" timestamp="1536058708696">
-        <mark key="'" line="99" column="41" />
-        <mark key="[" line="104" column="63" />
-        <mark key="]" line="104" column="63" />
-        <mark key="." line="104" column="63" />
-        <mark key="^" line="104" column="63" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/tasks/temp.rake" timestamp="1536060165997">
+        <mark key="'" line="124" column="41" />
+        <mark key="[" line="20" column="510" />
+        <mark key="]" line="20" column="510" />
+        <mark key="." line="20" column="510" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/spec/graphql_v0/consultant_schema/queries/kpi_summaries_query_spec.rb" timestamp="1536031964076">
         <mark key="[" line="48" column="47" />
@@ -489,9 +488,6 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/constants/frameTypes.js" timestamp="1535606920882">
         <mark key="[" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql_v0/mutations/create_creative.rb" timestamp="1536055807787">
-        <mark key="[" line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/developmnet.json" timestamp="1535981761984">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
@@ -667,10 +663,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>an</text>
+        <text>36854</text>
       </register>
       <register name="-" type="4">
-        <text>an</text>
+        <text>36854</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -681,32 +677,47 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZSAnbWluaV9tYWdpY2snCg==</text>
+      <register name="1" type="4">
+        <text>38616    Tiktok【iOS/GVA動画視聴用】
+38614    Tiktok【Android/GVA動画視聴用】
+38833    Yahoo! JAPAN【iOS/GVA動画視聴用】
+38834    Yahoo! JAPAN【Android/GVA動画視聴用】
+40568    tapple【iOS/GVA動画視聴用】
+40582    ドールズフロントライン【iOS/GVA動画視聴用】
+40361    THE KING OF FIGHTERS ALLSTAR【iOS/GVA動画視聴用】
+34999    バンドリ！ガールズバンドパーティ！【iOS/GVA動画視聴】
+36854    ピッコマ【iOS/noninse/GVA動画視聴用】
+39979    プロジェクト東京ドールズ【iOS/GVA動画視聴用】
+39682    ドラゴンクエストライバルズ【iOS/GVA動画視聴用】
+40585    PUBG MOBILE【iOS/GVA動画視聴用】
+40587    PUBG MOBILE【Android/GVA動画視聴用】
+38645    ユニゾンリーグ【iOS/GVA動画視聴用】
+39119    pairs【iOS/GVA動画視聴用】
+40024    放置少女【iOS/GVA動画視聴用】</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAnbWluaV9tYWdpY2snCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2UgPSBNaW5pTWFnaWNrOjpJbWFnZS5vcGVuKCJpbnB1dC5qcGciKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmZtcGVnIC1pIGV4YW1wbGUubWt2IC1jIGNvcHkgLWFuIGV4YW1wbGUtbm9zb3VuZC5ta3YK</text>
+        <text encoding="base64">ICAgICAgaW1hZ2UgPSBNaW5pTWFnaWNrOjpJbWFnZS5vcGVuKCJpbnB1dC5qcGciKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRmlsZS53cml0ZSBmaWxlcGF0aCwgb3Blbih2aWRlb191cmwpLnJlYWQK</text>
+        <text encoding="base64">ICAgICAgZmZtcGVnIC1pIGV4YW1wbGUubWt2IC1jIGNvcHkgLWFuIGV4YW1wbGUtbm9zb3VuZC5ta3YK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgRmlsZS53cml0ZSBmaWxlcGF0aCwgb3Blbih2aWRlb191cmwpLnJlYWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ky0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ky0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
