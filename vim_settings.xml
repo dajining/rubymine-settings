@@ -127,6 +127,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/gems/batou-rubocop_config/config/rspec.yml" timestamp="1536032669357">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/review.rb" timestamp="1536039928779">
         <mark key="[" line="2" column="31" />
       </file>
@@ -290,10 +296,10 @@
         <mark key="." line="21" column="53" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" timestamp="1535977309604">
-        <mark key="[" line="313" column="0" />
-        <mark key="]" line="327" column="0" />
-        <mark key="." line="327" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" timestamp="1536062145620">
+        <mark key="[" line="316" column="32" />
+        <mark key="]" line="329" column="0" />
+        <mark key="." line="329" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/Previewer.jsx" timestamp="1535517385815">
         <mark key="[" line="7" column="24" />
@@ -439,6 +445,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/models/play_video.rb" timestamp="1536039881401">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="5" column="56" />
+        <mark key="^" line="5" column="56" />
+        <mark key="." line="5" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/README.md" timestamp="1535612289857">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="67" column="0" />
@@ -492,6 +504,12 @@
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/utilities/exception_notifier/stderr_notifier.rb" timestamp="1536037644055">
+        <mark key="[" line="167" column="17" />
+        <mark key="]" line="167" column="36" />
+        <mark key="^" line="167" column="36" />
+        <mark key="." line="167" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/content.rb" timestamp="1536040337467">
         <mark key="[" line="27" column="116" />
@@ -627,6 +645,12 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/Gemfile" timestamp="1536057200458" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/Iframe.js" timestamp="1536061936391">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="5" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="153" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
@@ -662,8 +686,8 @@
       <jump line="99" column="41" filename="$USER_HOME$/workspace/car-gva-admin/lib/tasks/temp.rake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>36854</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>36854</text>
@@ -677,47 +701,32 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>38616    Tiktok【iOS/GVA動画視聴用】
-38614    Tiktok【Android/GVA動画視聴用】
-38833    Yahoo! JAPAN【iOS/GVA動画視聴用】
-38834    Yahoo! JAPAN【Android/GVA動画視聴用】
-40568    tapple【iOS/GVA動画視聴用】
-40582    ドールズフロントライン【iOS/GVA動画視聴用】
-40361    THE KING OF FIGHTERS ALLSTAR【iOS/GVA動画視聴用】
-34999    バンドリ！ガールズバンドパーティ！【iOS/GVA動画視聴】
-36854    ピッコマ【iOS/noninse/GVA動画視聴用】
-39979    プロジェクト東京ドールズ【iOS/GVA動画視聴用】
-39682    ドラゴンクエストライバルズ【iOS/GVA動画視聴用】
-40585    PUBG MOBILE【iOS/GVA動画視聴用】
-40587    PUBG MOBILE【Android/GVA動画視聴用】
-38645    ユニゾンリーグ【iOS/GVA動画視聴用】
-39119    pairs【iOS/GVA動画視聴用】
-40024    放置少女【iOS/GVA動画視聴用】</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSAnbWluaV9tYWdpY2snCg==</text>
+        <text encoding="base64">ICAgIH0gPSB0aGlzLnByb3BzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLi4ucHJvcHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2UgPSBNaW5pTWFnaWNrOjpJbWFnZS5vcGVuKCJpbnB1dC5qcGciKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmZtcGVnIC1pIGV4YW1wbGUubWt2IC1jIGNvcHkgLWFuIGV4YW1wbGUtbm9zb3VuZC5ta3YK</text>
+        <text encoding="base64">ICAgICAgICB9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRmlsZS53cml0ZSBmaWxlcGF0aCwgb3Blbih2aWRlb191cmwpLnJlYWQK</text>
+        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiBjb250YWluZXJXaWR0aCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogY29udGFpbmVySGVpZ2h0LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlcjogJ25vbmUnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ky0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsK</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17ewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
