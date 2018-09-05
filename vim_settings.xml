@@ -270,11 +270,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/ChildWindow.js" timestamp="1536144872409">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="46" column="28" />
-        <mark key="." line="46" column="28" />
-        <mark key="^" line="46" column="28" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/ChildWindow.js" timestamp="1536145874685">
+        <mark key="[" line="115" column="85" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="63" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/spec/graphql_v0/consultant_schema/queries/endcards_query_spec.rb" timestamp="1536031928746">
         <mark key="[" line="25" column="41" />
@@ -602,10 +602,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocG9zaXRpb25GZWF0dXJlcykK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IHdpZHRoOiA2MDAsIGhlaWdodDogNjQwIH0=</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -617,31 +617,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocG9zaXRpb25GZWF0dXJlcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzLnRvcCA9IAo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzLmxlZnQgPSAK</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzLnRvcCA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfX0K</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzLmxlZnQgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmVhdHVyZXM9e3sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZmVhdHVyZXM9e3sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
