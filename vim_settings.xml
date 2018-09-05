@@ -37,11 +37,11 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/tasks/temp.rake" timestamp="1536060165997">
-        <mark key="'" line="124" column="41" />
-        <mark key="[" line="20" column="510" />
-        <mark key="]" line="20" column="510" />
-        <mark key="." line="20" column="510" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/tasks/temp.rake" timestamp="1536121220203">
+        <mark key="[" line="166" column="41" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="165" column="38" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/spec/graphql_v0/consultant_schema/queries/kpi_summaries_query_spec.rb" timestamp="1536031964076">
         <mark key="[" line="48" column="47" />
@@ -500,6 +500,7 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/constants/frameTypes.js" timestamp="1535606920882">
         <mark key="[" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/carrierwave/storage/gcloud.rb" timestamp="1536120530362" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/developmnet.json" timestamp="1535981761984">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
@@ -534,6 +535,7 @@
         <mark key="^" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/carrierwave/storage/gcloud_client.rb" timestamp="1536120328312" />
       <file name="$USER_HOME$/workspace/car-gva-admin/spec/graphql_v0/consultant_schema/queries/video_contents_query_spec.rb" timestamp="1536032035920">
         <mark key="[" line="26" column="67" />
         <mark key="]" line="27" column="14" />
@@ -546,6 +548,7 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/asset.rb" timestamp="1536040376251">
         <mark key="[" line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/carrierwave/gcloud_file.rb" timestamp="1536120720954" />
       <file name="$USER_HOME$/workspace/car-gva-admin/spec/graphql_v0/types/creative_type_spec.rb" timestamp="1536032692774">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -621,6 +624,9 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/global/gcloud.yml" timestamp="1536120565959">
+        <mark key="[" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/preview-head.html" timestamp="1535537101614">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="7" column="0" />
@@ -645,12 +651,6 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/Gemfile" timestamp="1536057200458" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/Iframe.js" timestamp="1536112915557">
-        <mark key="[" line="63" column="33" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-        <mark key="^" line="12" column="2" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="153" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
@@ -684,13 +684,14 @@
       <jump line="7" column="21" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/config.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/config.js" />
       <jump line="99" column="41" filename="$USER_HOME$/workspace/car-gva-admin/lib/tasks/temp.rake" />
+      <jump line="25" column="19" filename="$USER_HOME$/workspace/car-gva-admin/lib/tasks/temp.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>bucket_name</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -705,28 +706,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdHMgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0cyA8PCByZXN1bHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZDogJ0dFVCcsCg==</text>
+        <text encoding="base64">CiAgICAjIHAgdXBsb2Fkcy5maXJzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZGVmYXVsdFByb3BzID0gewo=</text>
+        <text encoding="base64">ICAgICMgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICBAY2xpZW50IHx8PSBDYXJyaWVyV2F2ZTo6U3RvcmFnZTo6R2Nsb3VkQ2xpZW50Lm5ldwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGVmIGNsaWVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
