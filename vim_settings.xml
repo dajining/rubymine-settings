@@ -211,12 +211,10 @@
       <file name="/GraphQL.result.json" timestamp="1536030155993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" timestamp="1536219983260">
-        <mark key="'" line="177" column="31" />
-        <mark key="[" line="174" column="22" />
-        <mark key="]" line="169" column="45" />
-        <mark key="." line="169" column="45" />
-        <mark key="^" line="169" column="45" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" timestamp="1536224454003">
+        <mark key="[" line="171" column="14" />
+        <mark key="]" line="171" column="14" />
+        <mark key="." line="171" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/Previewer.jsx" timestamp="1535517385815">
         <mark key="[" line="7" column="24" />
@@ -233,11 +231,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/ChildWindow.js" timestamp="1536221503184">
-        <mark key="[" line="144" column="34" />
-        <mark key="]" line="124" column="79" />
-        <mark key="." line="124" column="79" />
-        <mark key="^" line="124" column="79" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/ChildWindow.js" timestamp="1536224708583">
+        <mark key="[" line="133" column="30" />
+        <mark key="]" line="133" column="29" />
+        <mark key="." line="133" column="29" />
+        <mark key="^" line="133" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/ad_tag_query.rb" timestamp="1535979722405">
         <mark key="[" line="7" column="15" />
@@ -522,10 +520,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wYXVzZU9ic2VydmUgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaGFuZ2VDaGlsZFdpbmRvd1VybCh1cmwpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>{this.state.childWindowTitle}</text>
+        <text encoding="base64">Y2hpbGRXaW5kb3cg</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -537,31 +535,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wYXVzZU9ic2VydmUgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaGFuZ2VDaGlsZFdpbmRvd1VybCh1cmwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jaGlsZFdpbmRvdy5mb2N1cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jaGlsZFdpbmRvdy5sb2NhdGlvbi5ocmVmID0gdXJsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb2RlQmxvY2s+e0pTT04uc3RyaW5naWZ5KCEhY2hpbGRXaW5kb3cpfTwvQ29kZUJsb2NrPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wYXVzZU9ic2VydmUgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxoMT5jaGlsZFdpbmRvZGR3IGV4aXN0ID88L2gxPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coQ2hpbGRXaW5kb3cuKQo=</text>
+        <text encoding="base64">ICAgICAgY2hpbGRXaW5kb3c6IHRoaXMuY2hpbGRXaW5kb3csCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdGFydE9ic2VydmVJbnRlcnZhbCh7IG9ic2VydmUsIG9ic2VydmVJbnRlcnZhbERlbGF5IH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsZWFySW50ZXJ2YWwodGhpcy5vYnNlcnZlSW50ZXJ2YWwpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2hpbGQgPSB0aGlzLmNoaWxkV2luZG93Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NoaWxkV2luZG93LmNoYW5nZUNoaWxkV2luZG93VXJsIG5ldyB1cmw6JywgdXJsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
