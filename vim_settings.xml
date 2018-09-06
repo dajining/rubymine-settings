@@ -106,6 +106,10 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementList.js" timestamp="1536201813366">
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+      </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/exception_notification-4.2.2/lib/exception_notifier.rb" timestamp="1534910878788">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -128,10 +132,10 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/creative.rb" timestamp="1536040264283">
         <mark key="[" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementJsTagPreviewer.js" timestamp="1535983157746">
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementJsTagPreviewer.js" timestamp="1536201043514">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/raw_video.rb" timestamp="1536040010641">
         <mark key="[" line="19" column="54" />
@@ -250,10 +254,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" timestamp="1536144322500">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" timestamp="1536200132990">
+        <mark key="[" line="165" column="34" />
+        <mark key="]" line="165" column="34" />
+        <mark key="." line="165" column="34" />
+        <mark key="^" line="165" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/Previewer.jsx" timestamp="1535517385815">
         <mark key="[" line="7" column="24" />
@@ -270,11 +275,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/ChildWindow.js" timestamp="1536145874685">
-        <mark key="[" line="115" column="85" />
-        <mark key="]" line="117" column="0" />
-        <mark key="^" line="63" column="0" />
-        <mark key="." line="117" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/ChildWindow.js" timestamp="1536200043198">
+        <mark key="[" line="119" column="66" />
+        <mark key="]" line="119" column="6" />
+        <mark key="." line="119" column="6" />
+        <mark key="^" line="119" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/spec/graphql_v0/consultant_schema/queries/endcards_query_spec.rb" timestamp="1536031928746">
         <mark key="[" line="25" column="41" />
@@ -524,11 +529,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/gems/batou-rubocop_config/config/rubocop.yml" timestamp="1536041304939">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180601100618_change_content_required_advertising_id.rb" timestamp="1536038388278">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -602,10 +602,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocG9zaXRpb25GZWF0dXJlcykK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByZXZpZXdVcmwgPSBhZFRhZ0luZm8ucHJldmlld1VybCB8fCAnJwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdpZHRoOiA2MDAsIGhlaWdodDogNjQwIH0=</text>
+        <text>adTagInfo'</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -617,31 +617,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocG9zaXRpb25GZWF0dXJlcykK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByZXZpZXdVcmwgPSBhZFRhZ0luZm8ucHJldmlld1VybCB8fCAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzLnRvcCA9IAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzLmxlZnQgPSAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfX0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGdlbmVyYXRlUHJldmlld1VybCA9IChyb3dEYXRhKSA9PiAoCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmVhdHVyZXM9e3sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
