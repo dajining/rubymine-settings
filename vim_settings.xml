@@ -118,11 +118,11 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/local.json" timestamp="1535981729809">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementList.js" timestamp="1536214836227">
-        <mark key="[" line="240" column="52" />
-        <mark key="]" line="151" column="43" />
-        <mark key="^" line="151" column="43" />
-        <mark key="." line="151" column="43" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementList.js" timestamp="1536216475245">
+        <mark key="[" line="150" column="5" />
+        <mark key="]" line="151" column="5" />
+        <mark key="." line="151" column="5" />
+        <mark key="^" line="151" column="4" />
       </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/exception_notification-4.2.2/lib/exception_notifier.rb" timestamp="1534910878788">
         <mark key="[" line="45" column="0" />
@@ -304,11 +304,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/ChildWindow.js" timestamp="1536205345500">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="123" column="93" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/ChildWindow.js" timestamp="1536216824354">
+        <mark key="[" line="94" column="4" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="128" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/global/preview_ad_tag.yml" timestamp="1535979457535">
         <mark key="[" line="3" column="0" />
@@ -670,7 +670,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJvZHVjdGlvbiA=</text>
+        <text encoding="base64">IGVsc2UgewogICAgICAKICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJvZHVjdGlvbiA=</text>
@@ -684,32 +684,32 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ05PREVfQVBQX0lOU1RBTkNFJywgcHJvY2Vzcy5lbnYuTk9ERV9BUFBfSU5TVEFOQ0UpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAKICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ05PREVfQ09ORklHX0VOVjogJyArIGNvbmZpZy51dGlsLmdldEVudignTk9ERV9DT05GSUdfRU5WJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ05PREVfQVBQX0lOU1RBTkNFJywgcHJvY2Vzcy5lbnYuTk9ERV9BUFBfSU5TVEFOQ0UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ05PREVfQ09ORklHX0RJUicsIHByb2Nlc3MuZW52WydOT0RFX0NPTkZJR19ESVInXSkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ05PREVfQ09ORklHX0VOVjogJyArIGNvbmZpZy51dGlsLmdldEVudignTk9ERV9DT05GSUdfRU5WJykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmVudlsnTk9ERV9DT05GSUdfRElSJ10gPSAnbG9jYWwnCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aWYgKCFwcm9jZXNzLmVudlsnTk9ERV9DT05GSUdfRElSJ10pIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coJ05PREVfQ09ORklHX0RJUicsIHByb2Nlc3MuZW52WydOT0RFX0NPTkZJR19ESVInXSkK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcm9jZXNzLmVudlsnTk9ERV9DT05GSUdfRElSJ10gPSAnbG9jYWwnCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ05PREVfRU5WJywgcHJvY2Vzcy5lbnZbJ05PREVfRU5WJ10pCg==</text>
+        <text encoding="base64">aWYgKCFwcm9jZXNzLmVudlsnTk9ERV9DT05GSUdfRElSJ10pIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
