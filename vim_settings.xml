@@ -58,7 +58,7 @@
         <mark key="]" line="1052" column="15" />
         <mark key="." line="1052" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/PlacementContentForceCpmSetting/PlacementContentForceCpmSettingAdd.js" timestamp="1536307536920">
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/PlacementContentForceCpmSetting/PlacementContentForceCpmSettingAdd.js" timestamp="1536307687349">
         <mark key="[" line="57" column="25" />
         <mark key="]" line="105" column="67" />
         <mark key="." line="105" column="67" />
@@ -238,10 +238,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/pubsubers/placement_content_force_cpm_setting_master_generator_pubsuber.rb" timestamp="1536304368886">
-        <mark key="[" line="6" column="126" />
-        <mark key="]" line="6" column="126" />
-        <mark key="." line="6" column="126" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/pubsubers/placement_content_force_cpm_setting_master_generator_pubsuber.rb" timestamp="1536308510457">
+        <mark key="[" line="6" column="98" />
+        <mark key="]" line="6" column="98" />
+        <mark key="." line="6" column="98" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/placement_content_force_cpm_setting_attributes_input_object.rb" timestamp="1536305813538">
         <mark key="[" line="3" column="50" />
@@ -443,11 +443,11 @@
       <jump line="14" column="19" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_content_force_cpm_setting_object.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFyc2U9eyh2YWx1ZSkgPT4gdmFsdWUgJiYgZGF0ZVBhcnNlKHZhbHVlKX0K</text>
+      <register name="&quot;" type="4">
+        <text>_id</text>
       </register>
       <register name="-" type="4">
-        <text>format_id</text>
+        <text>_id</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
