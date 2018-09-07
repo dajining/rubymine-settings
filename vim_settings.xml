@@ -188,7 +188,7 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/addons.js" timestamp="1536287785294">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/addons.js" timestamp="1536289325539">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -254,10 +254,10 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/ad_tag_query.rb" timestamp="1535979722405">
         <mark key="[" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/config.js" timestamp="1536287959802">
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/config.js" timestamp="1536289893889">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_content_cpc_setting_object.rb" timestamp="1535983946174">
         <mark key="[" line="17" column="0" />
@@ -540,7 +540,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3Rvcnlib29rLmFkZERlY29yYXRvcih3aXRoVmlld3BvcnQoJ2lwaG9uZTUnKSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFZpZXdwb3J0IH0gZnJvbSAnQHN0b3J5Ym9vay9hZGRvbi12aWV3cG9ydCcK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -555,31 +555,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3Rvcnlib29rLmFkZERlY29yYXRvcih3aXRoVmlld3BvcnQoJ2lwaG9uZTUnKSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFZpZXdwb3J0IH0gZnJvbSAnQHN0b3J5Ym9vay9hZGRvbi12aWV3cG9ydCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3Rvcnlib29rLmFkZERlY29yYXRvcih3aXRoVmlld3BvcnQpCg==</text>
+        <text encoding="base64">YWRkRGVjb3JhdG9yKHdpdGhWaWV3cG9ydCh7IG5hbWU6ICdpcGhvbmU2JyB9KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cod2l0aFZpZXdwb3J0KHsgbmFtZTogJ2lwaG9uZTYnIH0pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cod2l0aFZpZXdwb3J0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWZhdWx0Vmlld3BvcnQ6ICdpcGhvbmU2JywK</text>
+        <text encoding="base64">Y29uc3QgaG9nZSA9IHdpdGhWaWV3cG9ydAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uZmlndXJlVmlld3BvcnQoewo=</text>
+        <text encoding="base64">c3Rvcnlib29rLmFkZERlY29yYXRvcih3aXRoVmlld3BvcnQoJ2lwaG9uZTUnKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiYXBwRW52IjogIlNURyIsCg==</text>
+        <text encoding="base64">c3Rvcnlib29rLmFkZERlY29yYXRvcih3aXRoVmlld3BvcnQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJyb290UGF0aCI6ICIvIgo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
