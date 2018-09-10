@@ -292,7 +292,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1536307226119">
+      <file name="/GraphQL.result.json" timestamp="1536543345897">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" timestamp="1536224454003">
@@ -350,6 +350,11 @@
         <mark key="[" line="63" column="64" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/manager-head.html" timestamp="1536546420950">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/components/Fake.jsx" timestamp="1535538148584">
         <mark key="[" line="154" column="35" />
@@ -441,13 +446,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/production.json" />
       <jump line="177" column="31" filename="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" />
       <jump line="14" column="19" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_content_force_cpm_setting_object.rb" />
+      <jump line="3" column="55" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/manager-head.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_id</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -459,31 +465,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFyc2U9eyh2YWx1ZSkgPT4gdmFsdWUgJiYgZGF0ZVBhcnNlKHZhbHVlKX0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBpcmVkX2F0ID0gYXR0cmlidXRlcy5kZWxldGUoOikK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ2FuIG5vdCBjaGFuZ2UgdXNlckFnZW50LicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9J2RhdGV0aW1lJ2RkCg==</text>
+        <text encoding="base64">ICAgICAgfSBjYXRjaChlKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0nZGF0ZXRpbWUnZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGF0ZVBhcnNlIH0gZnJvbSAnc2VuanUtdXRpbHMnCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RNYXJnaW5SYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgcmV0dXJuIHVhOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAn5Y2Y5L6hJywK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIGdldCB1c2VyQWdlbnQoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
