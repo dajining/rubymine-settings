@@ -137,7 +137,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/config/_local.ts" timestamp="1536548860232" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_content_force_cpm_setting_query.rb" timestamp="1536303035459">
         <mark key="[" line="18" column="26" />
       </file>
@@ -268,7 +267,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/util/request.ts" timestamp="1536551448673" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default-dev.json" timestamp="1536287406602">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -289,7 +287,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1536543345897">
+      <file name="/GraphQL.result.json" timestamp="1536567898688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" timestamp="1536224454003">
