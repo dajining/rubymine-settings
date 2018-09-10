@@ -28,6 +28,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/tests/ios-webview.js" timestamp="1536578895150">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="6" column="60" />
+        <mark key="^" line="6" column="60" />
+        <mark key="." line="6" column="60" />
+      </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/2.3.0/logger.rb" timestamp="1534847355698">
         <mark key="[" line="405" column="20" />
         <mark key="]" line="405" column="20" />
@@ -47,6 +53,11 @@
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/helpers/caps.js" timestamp="1536579017317">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/placement_content_cpc_setting.rb" timestamp="1536303137100">
         <mark key="[" line="11" column="0" />
@@ -107,6 +118,9 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/helpers/apps.js" timestamp="1536579091545">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1536548880481">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -121,6 +135,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/package.json" timestamp="1536577589124">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_log_subscribers/to_json_controller_runtime.rb" timestamp="1534900920504">
         <mark key="[" line="10" column="0" />
@@ -150,6 +170,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/helpers/logging.js" timestamp="1536578654897">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/Viewer.jsx" timestamp="1535535195648">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -164,6 +189,11 @@
         <mark key="[" line="19" column="6" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/.gitignore" timestamp="1536577399536">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementJsTagPreviewer.js" timestamp="1536201043514">
         <mark key="[" line="61" column="0" />
@@ -191,13 +221,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_content_force_cpm_setting_object.rb" timestamp="1536303244907">
-        <mark key="'" line="17" column="19" />
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/placement_content_force_cpm_setting_mutation.rb" timestamp="1536306277913">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="10" column="0" />
@@ -207,6 +230,9 @@
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/helpers/setup.js" timestamp="1536578022167">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20171017003315_add_display_name_to_placements.rb" timestamp="1536038867204">
         <mark key="[" line="1" column="0" />
@@ -249,6 +275,9 @@
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/helpers/serverConfigs.js" timestamp="1536579146197">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/index.js" timestamp="1536303797206">
         <mark key="[" line="7" column="84" />
       </file>
@@ -272,6 +301,7 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/package.json" timestamp="1536577774369" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/views/api/publisher/user_behaviors/summaries.json.jbuilder" timestamp="1536039432655">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="35" />
@@ -450,10 +480,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFJlcXVlc3RIZWFkZXIoJ1gtVE9LRU4nLCAndGhlIHRva2VuJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>async</text>
+        <text>storybook</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -465,31 +495,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFJlcXVlc3RIZWFkZXIoJ1gtVE9LRU4nLCAndGhlIHRva2VuJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcykK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBcCg==</text>
+        <text encoding="base64">ICBkZXZpY2VOYW1lOiAnQW5kcm9pZCBFbXVsYXRvcicsCiAgYXBwOiB1bmRlZmluZWQgLy8gd2lsbCBiZSBzZXQgbGF0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh5KQo=</text>
+        <text encoding="base64">ICBwbGF0Zm9ybVZlcnNpb246ICc1LjEnLAogIGF1dG9tYXRpb25OYW1lOiAnc2VsZW5kcm9pZCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh4KQo=</text>
+        <text encoding="base64">ICAnYXBwaXVtLXZlcnNpb24nOiAnMS42JywKICBwbGF0Zm9ybU5hbWU6ICdBbmRyb2lkJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFJlcXVlc3RIZWFkZXIoJ1gtVE9LRU4nLCAndGhlIHRva2VuJyk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0cy5zZWxlbmRyb2lkMTYgPSB7CiAgYnJvd3Nlck5hbWU6ICcnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9yaWdPcGVuLmFwcGx5KHRoaXMsIHkpOwo=</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICBkZXZpY2VOYW1lOiAnQW5kcm9pZCBFbXVsYXRvcicsCiAgYXBwOiB1bmRlZmluZWQgLy8gd2lsbCBiZSBzZXQgbGF0ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0UmVxdWVzdEhlYWRlcigndXNlci1hZ2VudCcsICdNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDExXzAgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA0LjEuMzggKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzExLjAgTW9iaWxlLzE1QTM3MiBTYWZhcmkvNjA0LjEnKTsK</text>
+        <text encoding="base64">ICBwbGF0Zm9ybU5hbWU6ICdBbmRyb2lkJywKICBwbGF0Zm9ybVZlcnNpb246ICc1LjEnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
