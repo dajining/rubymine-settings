@@ -64,10 +64,11 @@
         <mark key="." line="105" column="67" />
         <mark key="^" line="105" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1536551923255">
-        <mark key="[" line="3" column="60" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1536556034478">
+        <mark key="'" line="13" column="84" />
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/placement_content_force_cpm_setting.rb" timestamp="1536303319395">
         <mark key="[" line="1" column="18" />
@@ -450,13 +451,14 @@
       <jump line="177" column="31" filename="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" />
       <jump line="14" column="19" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_content_force_cpm_setting_object.rb" />
       <jump line="3" column="55" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/manager-head.html" />
+      <jump line="13" column="84" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFJlcXVlc3RIZWFkZXIoJ1gtVE9LRU4nLCAndGhlIHRva2VuJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>async</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -468,31 +470,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFJlcXVlc3RIZWFkZXIoJ1gtVE9LRU4nLCAndGhlIHRva2VuJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0UmVxdWVzdEhlYWRlcigndXNlci1hZ2VudCcsICdNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDExXzAgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA0LjEuMzggKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzExLjAgTW9iaWxlLzE1QTM3MiBTYWZhcmkvNjA0LjEnKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3JpZ09wZW4uYXBwbHkodGhpcywgYXJndW1lbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBcCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBYTUxIdHRwUmVxdWVzdC5wcm90b3R5cGUub3BlbiAgID0gZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBYTUxIdHRwUmVxdWVzdC5wcm90b3R5cGUub3JpZ09wZW4gPSBYTUxIdHRwUmVxdWVzdC5wcm90b3R5cGUub3BlbjsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh4KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFJlcXVlc3RIZWFkZXIoJ1gtVE9LRU4nLCAndGhlIHRva2VuJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9yaWdPcGVuLmFwcGx5KHRoaXMsIHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0UmVxdWVzdEhlYWRlcigndXNlci1hZ2VudCcsICdNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDExXzAgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA0LjEuMzggKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzExLjAgTW9iaWxlLzE1QTM3MiBTYWZhcmkvNjA0LjEnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
