@@ -82,6 +82,11 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/test/core/1/vast/dicideAd.test.ts" timestamp="1536651392495">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1536648991932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -311,6 +316,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/test/core/1/vast/dicideCreative.test.ts" timestamp="1536651414824">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag-previewer/src/Preview.jsx" timestamp="1535518600945">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="1" column="0" />
@@ -406,6 +416,11 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/test/core/1/vast/dicideExtension.test.ts" timestamp="1536651405781">
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default.json" timestamp="1536287419335">
         <mark key="[" line="3" column="14" />
@@ -506,11 +521,11 @@
       <jump line="13" column="84" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAzOTU1fSwK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
