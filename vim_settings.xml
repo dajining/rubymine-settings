@@ -28,11 +28,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/tests/ios-webview.js" timestamp="1536587075884">
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="40" column="13" />
-        <mark key="^" line="41" column="32" />
-        <mark key="." line="40" column="13" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/tests/ios-webview.js" timestamp="1536643688970">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="34" column="32" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.3.3/lib/ruby/2.3.0/logger.rb" timestamp="1534847355698">
         <mark key="[" line="405" column="20" />
@@ -503,7 +503,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQgbmlsCg==</text>
+        <text encoding="base64">ICBsZXQgYWxsUGFzc2VkID0gdHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -518,31 +518,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQgbmlsCg==</text>
+        <text encoding="base64">ICBsZXQgYWxsUGFzc2VkID0gdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsYWNlbWVudCBuaWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc29jaWF0aW9uKDpjb250ZW50KQo=</text>
+        <text encoding="base64">ICAvLyB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAvLyAgIGFsbFBhc3NlZCA9IGFsbFBhc3NlZCAmJiB0aGlzLmN1cnJlbnRUZXN0LnN0YXRlID09PSAncGFzc2VkJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbGVtZW50LnRhZ05hbWUuc2hvdWxkLmV2ZW50dWFsbHkuZXF1YWwoJ0RJVicpCg==</text>
+        <text encoding="base64">ICAvLyBhZnRlckVhY2goKCkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmVsZW1lbnRCeUlkKCdyb290JykudGhlbigoZWxlbWVudCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgLy8gLmZpbmFsbHkoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnNsZWVwKDUwMDApCg==</text>
+        <text encoding="base64">ICAgICAgLy8gLmZpbmFsbHkoZG9uZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRpdGxlKCkK</text>
+        <text encoding="base64">ICAgIGNvbnRlbnQgbmlsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRpdGxlKCkuc2hvdWxkLmV2ZW50dWFsbHkuZXF1YWwoJ1N0b3J5Ym9vaycpCg==</text>
+        <text encoding="base64">ICAgIHBsYWNlbWVudCBuaWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
