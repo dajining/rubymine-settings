@@ -52,11 +52,10 @@
       <file name="/GraphQL.result.json" timestamp="1536634211000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1536664199939">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1536664739515">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/scripts/deploy.sh" timestamp="1536661340792">
         <mark key="[" line="8" column="50" />
@@ -157,11 +156,11 @@
       <jump line="19" column="66" filename="$USER_HOME$/workspace/car-dash/app/models/advertisement_redirect.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -173,31 +172,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJsZXJuYSI6ICJeMy4zLjAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJsZXJuYSI6ICJ+My40LjAiCg==</text>
+        <text encoding="base64">ICAid29ya3NwYWNlcyI6IFsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiZW5naW5lcyI6IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiYXV0aG9yIjogIk9kYWppbWEgWXUgPG9kYWppbWFfeXVfZ25AY3liZXJhZ2VudC5jby5qcD4iLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6ICJnaXRAZ2l0aHViLmNvbTpDeWJlckFnZW50L2Nhci1ndmEtdGFnLmdpdCIsCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAibGljZW5zZSI6ICJNSVQiLAo=</text>
+        <text encoding="base64">ICAgICJsZXJuYSI6ICJ+My40LjAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
+        <text encoding="base64">ICAiZW5naW5lcyI6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
