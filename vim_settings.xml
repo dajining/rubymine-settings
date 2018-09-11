@@ -4,16 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180806061124_create_placement_content_cpc_settings.rb" timestamp="1536634724502" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1536652783375">
-        <mark key="[" line="92" column="64" />
-        <mark key="]" line="92" column="64" />
-        <mark key="." line="92" column="64" />
-      </file>
       <file name="$USER_HOME$/workspace/car-dash/lib/utils/devise/encryptable/encryptors/through.rb" timestamp="1536654915367" />
       <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180806054412_create_content_cpv_settings.rb" timestamp="1536634802609" />
       <file name="$USER_HOME$/workspace/car-dash/app/models/result_reward_history.rb" timestamp="1536655990770" />
       <file name="$USER_HOME$/workspace/car-dash/config/breadcrumbs/publisher.rb" timestamp="1536655361971" />
-      <file name="$USER_HOME$/workspace/car-dash/app/models/medium.rb" timestamp="1536656670160" />
+      <file name="$USER_HOME$/workspace/car-dash/app/models/medium.rb" timestamp="1536657060402" />
       <file name="$USER_HOME$/workspace/car-dash/lib/utils/active_record/raw_data.rb" timestamp="1536654932112" />
       <file name="$USER_HOME$/workspace/car-dash/config/routes.rb" timestamp="1536654791818" />
       <file name="$USER_HOME$/workspace/car-dash/app/views/publisher/result_rewards/index.html.slim" timestamp="1536656542414" />
@@ -24,23 +19,14 @@
         <mark key="." line="19" column="68" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/spec/factories/ad_statuses.rb" timestamp="1536635952390">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/core.ts" timestamp="1536652787313">
         <mark key="[" line="426" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/car-dash/app/models/advertisement_category.rb" timestamp="1536655538916" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/300x250/2_2/300x250.ts" timestamp="1536649268723" />
+      <file name="$USER_HOME$/workspace/car-dash/lib/assets/stylesheets/common/variables/_materialize_original_variables.scss" timestamp="1536657200640" />
       <file name="$USER_HOME$/workspace/car-dash/app/models/payment.rb" timestamp="1536656037980" />
       <file name="$USER_HOME$/workspace/car-dash/app/models/advertisement_budget_setting.rb" timestamp="1536655499413" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/test/core/1/vast/dicideCreative.test.ts" timestamp="1536651414824">
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="41" column="20" />
-        <mark key="." line="41" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/car-dash/app/models/advertisement_questionnaire.rb" timestamp="1536655821627" />
       <file name="$USER_HOME$/workspace/car-dash/app/models/advertisement_reservation.rb" timestamp="1536655841189" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/320x50/1/320x50.ts" timestamp="1536649335988" />
