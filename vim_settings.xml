@@ -307,11 +307,11 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/package.json" timestamp="1536585717047">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="6" column="23" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/package.json" timestamp="1536641940805">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/views/api/publisher/user_behaviors/summaries.json.jbuilder" timestamp="1536039432655">
         <mark key="[" line="3" column="35" />
@@ -435,6 +435,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/structure.sql" timestamp="1536640715616" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/loggings/application_logging.rb" timestamp="1534825830680">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
