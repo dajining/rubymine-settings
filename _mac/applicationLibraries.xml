@@ -1341,13 +1341,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11/spec" />
@@ -1482,14 +1480,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/test" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/test" />
@@ -1866,13 +1862,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.6/lib" />
@@ -2728,13 +2722,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.3/test" />
@@ -3689,7 +3681,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.5" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.5/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.5/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.5/docs" />
@@ -3699,7 +3690,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.5/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.5" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.5/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.5/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.5/docs" />
@@ -4075,7 +4065,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/lib" />
@@ -4083,7 +4072,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.18/lib" />
@@ -5681,7 +5669,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/http_parser.rb-0.6.0/spec" />
@@ -5689,7 +5676,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/http_parser.rb-0.6.0/spec" />
@@ -6355,7 +6341,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/2.1.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-2.1.0/data" />
@@ -6366,7 +6351,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/2.1.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-2.1.0/data" />
@@ -6670,14 +6654,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/kgio/2.11.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.11.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.11.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.11.0/test" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.11.0/archive" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/kgio/2.11.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.11.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.11.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/kgio-2.11.0/test" />
@@ -7868,7 +7850,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.3.21" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mysql2-0.3.21/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mysql2-0.3.21/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mysql2-0.3.21/spec" />
@@ -7876,7 +7857,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mysql2-0.3.21/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.3.21" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mysql2-0.3.21/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mysql2-0.3.21/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mysql2-0.3.21/spec" />
@@ -8147,7 +8127,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nio4r-2.3.1/spec" />
@@ -8155,7 +8134,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nio4r-2.3.1/spec" />
@@ -8303,7 +8281,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.8.4/lib" />
@@ -8314,7 +8291,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.8.4/lib" />
@@ -8375,13 +8351,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogumbo/1.4.13" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogumbo-1.4.13/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogumbo-1.4.13/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogumbo-1.4.13/gumbo-parser" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogumbo/1.4.13" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogumbo-1.4.13/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogumbo-1.4.13/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogumbo-1.4.13/gumbo-parser" />
@@ -9519,7 +9493,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.10.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/puma-3.10.0/lib" />
@@ -9527,7 +9500,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/puma-3.10.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.10.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/puma-3.10.0/lib" />
@@ -10593,7 +10565,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/raindrops/0.19.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.19.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.19.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.19.0/test" />
@@ -10601,7 +10572,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.19.0/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/raindrops/0.19.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.19.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.19.0/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/raindrops-0.19.0/test" />
@@ -10916,13 +10886,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rb-fsevent-0.10.2/lib" />
@@ -11600,7 +11568,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rmagick/2.16.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rmagick-2.16.0/doc" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rmagick-2.16.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rmagick-2.16.0/lib" />
@@ -11610,7 +11577,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rmagick-2.16.0/deprecated" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rmagick/2.16.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rmagick-2.16.0/doc" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rmagick-2.16.0/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rmagick-2.16.0/lib" />
@@ -14613,7 +14579,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/unicorn/5.3.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicorn-5.3.0/t" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicorn-5.3.0/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicorn-5.3.0/ext" />
@@ -14625,7 +14590,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicorn-5.3.0/Documentation" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/unicorn/5.3.0" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicorn-5.3.0/t" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicorn-5.3.0/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicorn-5.3.0/ext" />
@@ -14990,13 +14954,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.5/examples" />
