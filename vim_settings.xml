@@ -8,6 +8,12 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/components/Button.vue" timestamp="1536832813305">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="17" />
+        <mark key="^" line="23" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/yarn.lock" timestamp="1536807583959" />
       <file name="$USER_HOME$/workspace/car-dash/config/initializers/refresh_connection.rb" timestamp="1536826859960" />
       <file name="$USER_HOME$/workspace/car-dash/app/forms/publisher/result_history_search_form.rb" timestamp="1536827578434" />
@@ -33,11 +39,10 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/.eslintignore" timestamp="1536825296583">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/.eslintignore" timestamp="1536832131439">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-dash/app/models/result_history.rb" timestamp="1536830112480">
         <mark key="[" line="97" column="51" />
@@ -110,10 +115,11 @@
       <file name="$USER_HOME$/workspace/car-dash/app/views/publisher/result_rewards/index.html.slim" timestamp="1536827632649" />
       <file name="$USER_HOME$/workspace/car-dash/app/views/publisher/results/index.html.slim" timestamp="1536827257228" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/stories/addon-links.stories.js" timestamp="1536806127542" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1536824681849">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1536832955416">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/package.json" timestamp="1536641940805">
         <mark key="[" line="4" column="13" />
@@ -155,18 +161,14 @@
         <mark key="]" line="1" column="72" />
         <mark key="." line="1" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/App.vue" timestamp="1536820811019">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/App.vue" timestamp="1536833009203" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/stories/Welcome.vue" timestamp="1536805691692">
         <mark key="[" line="23" column="48" />
         <mark key="]" line="23" column="48" />
         <mark key="." line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/components/Welcome.vue" timestamp="1536821136974">
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/components/Welcome.vue" timestamp="1536832830904">
+        <mark key="[" line="60" column="17" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
@@ -218,11 +220,11 @@
       <jump line="19" column="66" filename="$USER_HOME$/workspace/car-dash/app/models/advertisement_redirect.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>action_log_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>action_log_id</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -234,31 +236,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3Rvcnlib29rLXN0YXRpYy9zdGF0aWMK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyB9LAo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAgIF0K</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZDogdHJ1ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiBPYmplY3QsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiAnaGFuZGxlQ2xpY2snLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyAgICAgICAgICdzdHlsdXMtbG9hZGVyJwo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyAgICAgICAgICdjc3MtbG9hZGVyJywK</text>
+        <text encoding="base64">ICAgIHByb3BzOiBbCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyAgICAgICAgICd2dWUtc3R5bGUtbG9hZGVyJywK</text>
+        <text encoding="base64">ICBjb21wb25lbnRzOiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
