@@ -11,10 +11,22 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/sas-vd/.env" timestamp="1536667332965">
         <mark key="[" line="0" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/helpers/serverConfigs.js" timestamp="1536579147608">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/index.js" timestamp="1536303797206">
+        <mark key="[" line="7" column="84" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/pages/HelloWebpack.vue" timestamp="1536671714122">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1536803716931">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="34" />
+        <mark key="^" line="32" column="27" />
+        <mark key="." line="35" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1536652783375">
         <mark key="[" line="92" column="64" />
@@ -25,34 +37,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_content_force_cpm_setting_query.rb" timestamp="1536303035459">
-        <mark key="[" line="18" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/webpack.config.js" timestamp="1536671138133" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/README.md" timestamp="1536660802944">
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="28" column="2" />
-        <mark key="." line="28" column="2" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/test/core/1/vast/dicideCreative.test.ts" timestamp="1536651414824">
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="41" column="20" />
-        <mark key="." line="41" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/lerna.json" timestamp="1536664556443">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/helpers/serverConfigs.js" timestamp="1536579147608">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/index.js" timestamp="1536303797206">
-        <mark key="[" line="7" column="84" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1536671658784">
-        <mark key="^" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/regression/package.json" timestamp="1536641940805">
         <mark key="[" line="4" column="13" />
@@ -80,6 +64,9 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/Makefile" timestamp="1536661198872">
         <mark key="[" line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_content_force_cpm_setting_query.rb" timestamp="1536303035459">
+        <mark key="[" line="18" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/pages/Hi.vue" timestamp="1536671736743">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -91,11 +78,26 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/README.md" timestamp="1536660802944">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="28" column="2" />
+        <mark key="." line="28" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/test/core/1/vast/dicideCreative.test.ts" timestamp="1536651414824">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/scripts/deploy.sh" timestamp="1536661340792">
         <mark key="[" line="8" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/ApiDemos-test.js" timestamp="1536563094241">
         <mark key="[" line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/lerna.json" timestamp="1536664556443">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_content_cpc_setting_object.rb" timestamp="1536300902565">
         <mark key="[" line="17" column="0" />
@@ -147,11 +149,11 @@
       <jump line="19" column="66" filename="$USER_HOME$/workspace/car-dash/app/models/advertisement_redirect.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cm91dGVyLWxpbmsgdG89Ii8iPk5vcGUhPC9yb3V0ZXItbGluaz4K</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -163,33 +165,33 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cm91dGVyLWxpbmsgdG89Ii8iPk5vcGUhPC9yb3V0ZXItbGluaz4K</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLXNlcnZlIjogIl4yLjAuMCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cm91dGVyLWxpbmsgdG89Ii8iPkJhY2shPC9yb3V0ZXItbGluaz4K</text>
+        <text encoding="base64">ICAgICAgICA8cm91dGVyLWxpbmsgdG89Ii8iPk5vcGUhPC9yb3V0ZXItbGluaz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyb3V0ZXItbGluayBjbGFzcz0iYmkiIHRvPSJieWUiPkJpPC9yb3V0ZXItbGluaz4K</text>
+        <text encoding="base64">ICAgICAgICA8cm91dGVyLWxpbmsgdG89Ii8iPkJhY2shPC9yb3V0ZXItbGluaz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyb3V0ZXItbGluayBjbGFzcz0iaGkiIHRvPSJoZWxsbyI+SGk8L3JvdXRlci1saW5rPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyb3V0ZXItbGluayBjbGFzcz0iYmkiIHRvPSJieWUiPkJpPC9yb3V0ZXItbGluaz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJvdXRlcyBmcm9tICcuL3V0aWxzL3JvdXRlcycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyb3V0ZXItbGluayBjbGFzcz0iaGkiIHRvPSJoZWxsbyI+SGk8L3JvdXRlci1saW5rPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJvdXRlcyBmcm9tICcuL3V0aWxzL3JvdXRlcycK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>const router = new VueRouter({
   routes: routes.routes
 })</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICByb3V0ZXIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
