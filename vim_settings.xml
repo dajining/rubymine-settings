@@ -19,11 +19,11 @@
         <mark key="^" line="42" column="24" />
         <mark key="." line="42" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/placement_attributes_input_object.rb" timestamp="1536889123672">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/placement_attributes_input_object.rb" timestamp="1536892859377">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
         <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="4" />
+        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/components/Button.vue" timestamp="1536834084367">
         <mark key="[" line="29" column="0" />
@@ -104,6 +104,9 @@
         <mark key="]" line="41" column="20" />
         <mark key="." line="41" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementApplyFreconRadioButtonField.js" timestamp="1536892384183">
+        <mark key="[" line="7" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/lerna.json" timestamp="1536664556443">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -112,12 +115,18 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/medium_attributes_input_object.rb" timestamp="1536889130767">
         <mark key="[" line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_enums/placement_apply_frecon_enum.rb" timestamp="1536892413785">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/.eslintrc.js" timestamp="1536825453837">
         <mark key="[" line="23" column="74" />
         <mark key="]" line="23" column="74" />
         <mark key="^" line="23" column="74" />
         <mark key="." line="23" column="74" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_enums/placement_required_advertising_id_enum.rb" timestamp="1536892489290" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/.storybook/config.js" timestamp="1536842172637">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -158,8 +167,11 @@
         <mark key="." line="110" column="20" />
         <mark key="^" line="110" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementSetting.js" timestamp="1536890765222">
-        <mark key="[" line="22" column="20" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementSetting.js" timestamp="1536892461724">
+        <mark key="[" line="147" column="44" />
+        <mark key="]" line="147" column="44" />
+        <mark key="^" line="147" column="44" />
+        <mark key="." line="147" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1536836240584">
         <mark key="[" line="6" column="50" />
@@ -286,11 +298,11 @@
       <jump line="19" column="66" filename="$USER_HOME$/workspace/car-dash/app/models/advertisement_redirect.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBseV9mcmVxdWVuY3lfY29udHJvbF90ZXh0OiDjg5Xjg6rjg7zjgq/jgqjjg7Pjgrfjg7zjgrPjg7Pjg4jjg63jg7zjg6vpgannlKjlj6/lkKbvvIjjg4bjgq3jgrnjg4jvvIkK</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">byAgICA=</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
