@@ -38,6 +38,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180912030934_remove_gross_from_media_cpc_hourly.rb" timestamp="1537240091671">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/index.js" timestamp="1536896161636">
         <mark key="[" line="8" column="94" />
       </file>
@@ -59,6 +64,12 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180918031649_replace_uniq_index_to_raw_video_sizes.rb" timestamp="1537240852404">
+        <mark key="[" line="2" column="59" />
+        <mark key="]" line="2" column="59" />
+        <mark key="^" line="2" column="60" />
+        <mark key="." line="2" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementSetting.js" timestamp="1536892461724">
         <mark key="[" line="147" column="44" />
         <mark key="]" line="147" column="44" />
@@ -79,6 +90,12 @@
       <file name="/GraphQL.result.json" timestamp="1537236232387">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180911025839_create_ad_statuses.rb" timestamp="1537239435142">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180227073147_add_expect_cpv_v2_to_media_cpv_hourly.rb" timestamp="1537239589912" />
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementApplyFreconRadioButtonField.js" timestamp="1536892384183">
         <mark key="[" line="7" column="5" />
       </file>
@@ -102,6 +119,7 @@
         <mark key="." line="50" column="130" />
         <mark key="^" line="50" column="130" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20171120053953_create_raw_video_sizes.rb" timestamp="1537240663890" />
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/pubsubers/placement_content_frequency_setting_master_generator_pubsuber.rb" timestamp="1536895442426">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="48" />
@@ -109,6 +127,13 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/placement_content_frequency_setting.rb" timestamp="1536895059810">
         <mark key="[" line="0" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20170623074822_create_placement_cpv_settings.rb" timestamp="1537239616857" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180912030918_remove_gross_from_media_cpv_hourly.rb" timestamp="1537239741397">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="52" />
+        <mark key="." line="14" column="52" />
+        <mark key="^" line="14" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/graphql/fragments.js" timestamp="1536893999836">
         <mark key="[" line="56" column="22" />
@@ -121,6 +146,9 @@
         <mark key="]" line="36" column="63" />
         <mark key="^" line="34" column="11" />
         <mark key="." line="36" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180918031248_add_silent_to_raw_video_sizes.rb" timestamp="1537240378421">
+        <mark key="[" line="2" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180918022100_add_silent_to_placements.rb" timestamp="1537237401874">
         <mark key="[" line="2" column="45" />
@@ -170,11 +198,11 @@
       <jump line="19" column="66" filename="$USER_HOME$/workspace/car-dash/app/models/advertisement_redirect.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>NUMBER</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -186,34 +214,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHQuaW5kZXgoJWlbcmF3X3ZpZGVvX2lkIHNpemVfaWRdLCB1bmlxdWU6IHRydWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpc0FwcGx5RnJlY29uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVkaXVtIHtkZGQK</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOm1lZGlhX2NwY19ob3VybHksIDpjdl9jb3VudCwgOmludGVnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGF0ZVBhcnNlIH0gZnJvbSAnc2VuanUtdXRpbHMnCg==</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOm1lZGlhX2NwY19ob3VybHksIDpncm9zcywgOmRlY2ltYWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGF0ZVBhcnNlIH0gZnJvbSAnc2VuanUtdXRpbHMnCg==</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOm1lZGlhX2NwY19ob3VybHksIDpjb2VmZmljaWVudCwgOmRlY2ltYWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOm1lZGlhX2NwY19ob3VybHksIDphY3R1YWxfY3BjX3YyLCA6ZGVjaW1hbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdD17KHZhbHVlKSA9PiB2YWx1ZSAmJiBkYXRlUGFyc2UodmFsdWUpfQo=</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOm1lZGlhX2NwY19ob3VybHksIDpleHBlY3RfY3BjX3YyLCA6ZGVjaW1hbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcnNlPXsodmFsdWUpID0+IHZhbHVlICYmIGRhdGVQYXJzZSh2YWx1ZSl9Cg==</text>
+        <text encoding="base64">ICAgIHQuZGVjaW1hbCAsICAgIG51bGw6IGZhbHNlLCBjb21tZW50OiAn6KaW6IG05Y2Y5L6h6KiI566X55So5L+C5pWwJywgcHJlY2lzaW9uOiAxMCwgc2NhbGU6IDMsIGRlZmF1bHQ6IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9J2F0dHJpYnV0ZXMuZXhwaXJlZEF0Jwo=</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOm1lZGlhX2Nwdl9ob3VybHksIDpleHBlY3RfY3B2X3YyLCA6ZGVjaW1hbAogICAgYWRkX2NvbHVtbiA6bWVkaWFfY3B2X2hvdXJseSwgOmFjdHVhbF9jcHZfdjIsIDpkZWNpbWFsLCBudWxsOiBmYWxzZSwgcHJlY2lzaW9uOiA1LCBzY2FsZTogMywgZGVmYXVsdDogMCwgY29tbWVudDogJ+Wun+mam+OBq+WPjeaYoOOBmeOCi+imluiBtOWNmOS+oScsIGFmdGVyOiA6ZXhwZWN0X2Nwdl92Mgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -236,8 +264,8 @@
         <entry>e</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
