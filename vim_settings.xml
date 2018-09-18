@@ -23,19 +23,31 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/models/placement_content_cpc_setting.rb" timestamp="1536894953368" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_content_frequency_setting_object.rb" timestamp="1536895246615">
+        <mark key="[" line="10" column="71" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/locales/translation_ja.yml" timestamp="1536890667189">
         <mark key="[" line="1563" column="40" />
         <mark key="]" line="1210" column="0" />
         <mark key="." line="1210" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/placement_content_frequency_setting_search_query_input_object.rb" timestamp="1536895275297" />
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/PlacementContentFrequencySetting/PlacementContentFrequencySettingList.js" timestamp="1536896488990">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/placement_content_frequency_setting_mutation.rb" timestamp="1536895492353" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/index.js" timestamp="1536896161636">
+        <mark key="[" line="8" column="94" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180918022100_add_apply_silent_to_placements.rb" timestamp="1537237419469" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementDetail.js" timestamp="1536890621624">
+        <mark key="[" line="110" column="21" />
+        <mark key="]" line="110" column="20" />
+        <mark key="." line="110" column="20" />
+        <mark key="^" line="110" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/PlacementContentFrequencySetting/PlacementContentFrequencySettingAdd.js" timestamp="1536896139246">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -47,47 +59,6 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/models/medium.rb" timestamp="1536890274416">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementApplyFreconRadioButtonField.js" timestamp="1536892384183">
-        <mark key="[" line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/medium_attributes_input_object.rb" timestamp="1536889130767">
-        <mark key="[" line="8" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_enums/placement_apply_frecon_enum.rb" timestamp="1536892413785">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_enums/placement_required_advertising_id_enum.rb" timestamp="1536892489290" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/graphql/fragments.js" timestamp="1536893999836">
-        <mark key="[" line="56" column="22" />
-        <mark key="]" line="59" column="18" />
-        <mark key="^" line="59" column="18" />
-        <mark key="." line="59" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_content_frequency_setting_object.rb" timestamp="1536895246615">
-        <mark key="[" line="10" column="71" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/pubsubers/placement_content_force_cpm_setting_master_generator_pubsuber.rb" timestamp="1536895453450" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_content_frequency_setting_query.rb" timestamp="1536895291158" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/index.js" timestamp="1536896161636">
-        <mark key="[" line="8" column="94" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_query.rb" timestamp="1536889201116" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementDetail.js" timestamp="1536890621624">
-        <mark key="[" line="110" column="21" />
-        <mark key="]" line="110" column="20" />
-        <mark key="." line="110" column="20" />
-        <mark key="^" line="110" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/PlacementContentFrequencySetting/index.js" timestamp="1536895844825" />
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementSetting.js" timestamp="1536892461724">
         <mark key="[" line="147" column="44" />
         <mark key="]" line="147" column="44" />
@@ -99,6 +70,25 @@
         <mark key="]" line="4" column="57" />
         <mark key="^" line="158" column="68" />
         <mark key="." line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/models/medium.rb" timestamp="1536890274416">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1537236232387">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementApplyFreconRadioButtonField.js" timestamp="1536892384183">
+        <mark key="[" line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/medium_attributes_input_object.rb" timestamp="1536889130767">
+        <mark key="[" line="8" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_enums/placement_apply_frecon_enum.rb" timestamp="1536892413785">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/application_schema.rb" timestamp="1536895585795">
         <mark key="[" line="83" column="74" />
@@ -120,12 +110,23 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/placement_content_frequency_setting.rb" timestamp="1536895059810">
         <mark key="[" line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/db/structure.sql" timestamp="1536894485976" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/graphql/fragments.js" timestamp="1536893999836">
+        <mark key="[" line="56" column="22" />
+        <mark key="]" line="59" column="18" />
+        <mark key="^" line="59" column="18" />
+        <mark key="." line="59" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/medium_object.rb" timestamp="1536894165166">
         <mark key="[" line="36" column="63" />
         <mark key="]" line="36" column="63" />
         <mark key="^" line="34" column="11" />
         <mark key="." line="36" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180918022100_add_silent_to_placements.rb" timestamp="1537237401874">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
       </file>
     </filemarks>
     <jumps>
