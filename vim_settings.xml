@@ -53,6 +53,9 @@
         <mark key="." line="110" column="20" />
         <mark key="^" line="110" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180918042723_add_silent_to_videos.rb" timestamp="1537244881321">
+        <mark key="[" line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/PlacementContentFrequencySetting/PlacementContentFrequencySettingAdd.js" timestamp="1536896139246">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
