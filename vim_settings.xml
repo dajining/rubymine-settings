@@ -63,17 +63,17 @@
         <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/Routes.js" timestamp="1537323995817" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-advertising/app/Creative/CreativeRebuildButton.js" timestamp="1537408478816">
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-advertising/app/Creative/CreativeRebuildButton.js" timestamp="1537418023218">
         <mark key="[" line="56" column="28" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="10" column="2" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="46" column="10" />
+        <mark key="^" line="46" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" timestamp="1537408534990">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="10" />
-        <mark key="^" line="63" column="10" />
-        <mark key="." line="63" column="10" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" timestamp="1537420174366">
+        <mark key="[" line="75" column="31" />
+        <mark key="]" line="75" column="31" />
+        <mark key="." line="75" column="31" />
+        <mark key="^" line="71" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/video.rb" timestamp="1537341547444">
         <mark key="[" line="31" column="53" />
@@ -144,29 +144,30 @@
       <jump line="65" column="69" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_query.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>raw_video_size</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>raw_video_size</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
       </register>
       <register name="0" type="4">
-        <text>argument :applyFrecon, GraphqlEnums::PlacementApplyFreconEnum, required: false</text>
+        <text>creative.errors.add(:raw_video_size, ' not have silent raw_video_size.')
+          return { errors: creative.errors }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJhaWxzLmxvZ2dlci5pbmZvICdEbyBub3QgaGF2ZSBzaWxlbnQgcmF3X3ZpZGVvX3NpemUnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJhaWxzLmxvZ2dlci5pbmZvICdEbyBub3QgaGF2ZSBzaWxlbnQgcmF3X3ZpZGVvJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIE5hZEdlbmVyYXRvclB1YnN1YmVyLnB1Ymxpc2ggdmlkZW9fY29udGVudF9pZDogY3JlYXRpdmUudmlkZW9fY29udGVudC5pZAo=</text>
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -175,7 +176,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE5hZEdlbmVyYXRvclB1YnN1YmVyLnB1Ymxpc2ggdmlkZW9fY29udGVudF9pZDogY3JlYXRpdmUudmlkZW9fY29udGVudC5pZAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -184,7 +185,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
