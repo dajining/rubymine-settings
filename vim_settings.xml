@@ -45,11 +45,10 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementApplyFreconRadioButtonField.js" timestamp="1536892384183">
         <mark key="[" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-advertising/app/CreativeReBuilder/CreativeReBuilderList.js" timestamp="1537513845780">
-        <mark key="[" line="127" column="16" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="147" column="57" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-advertising/app/CreativeReBuilder/CreativeReBuilderList.js" timestamp="1537514887240">
+        <mark key="[" line="114" column="56" />
+        <mark key="]" line="114" column="64" />
+        <mark key="." line="114" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-advertising/app/Creative/CreativeList.js" timestamp="1537512693930">
         <mark key="[" line="117" column="12" />
@@ -177,11 +176,11 @@
       <jump line="151" column="32" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>this.state.</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -193,31 +192,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvPgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMuc2V0U3RhdGUoeyBleGVjdXRlSWQ6IGdldChjcmVhdGl2ZXMsICdbMF0uY3JlYXRpdmVJZCcpIH0pfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsPSdzdGFydCcK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc2FibGVkPXtsb2FkaW5nIHx8ICEhZXhlY3V0ZUlkfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICBuZXh0ID0gKCkgPT4gewogICAgCiAgfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7KHsgbG9hZGluZywgZGF0YSB9KSA9PiAoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9DcmVhdGl2ZVJlQnVpbGRlZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Q29kZUJsb2NrPntKU09OLnN0cmluZ2lmeShjcmVhdGl2ZS5lcnJvcnMpfTwvQ29kZUJsb2NrPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
