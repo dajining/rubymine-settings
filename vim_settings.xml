@@ -11,10 +11,11 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/MediumMaster/builder.js" timestamp="1536894056385">
         <mark key="[" line="121" column="97" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/tasks/temp.rake" timestamp="1537252904605">
-        <mark key="[" line="42" column="2" />
-        <mark key="]" line="42" column="2" />
-        <mark key="." line="42" column="2" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/tasks/temp.rake" timestamp="1537493606245">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/constants/kpi_summary_columns.js" timestamp="1537323267846">
         <mark key="[" line="119" column="0" />
@@ -34,12 +35,7 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-dash/app/models/publisher_ability.rb" timestamp="1537447531433">
-        <mark key="[" line="44" column="12" />
-        <mark key="]" line="44" column="12" />
-        <mark key="^" line="44" column="26" />
-        <mark key="." line="44" column="12" />
-      </file>
+      <file name="$USER_HOME$/workspace/car-dash/app/models/publisher_ability.rb" timestamp="1537449122584" />
       <file name="$USER_HOME$/workspace/car-gva-admin/db/migrate/20180918031649_replace_uniq_index_to_raw_video_sizes.rb" timestamp="1537240852404">
         <mark key="[" line="2" column="59" />
         <mark key="]" line="2" column="59" />
@@ -268,11 +264,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" timestamp="1537436919455">
-        <mark key="[" line="87" column="74" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/concerns/google_cloud_storage_file.rb" timestamp="1537430680826" />
       <file name="/Dummy.txt" timestamp="1537247253945">
         <mark key="[" line="0" column="0" />
@@ -287,7 +278,7 @@
         <mark key="]" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/car-dash/app/models/pea/staff_ability.rb" timestamp="1537447348323" />
+      <file name="$USER_HOME$/workspace/car-dash/app/models/pea/staff_ability.rb" timestamp="1537447976767" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/video_object.rb" timestamp="1537341639686">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="20" column="0" />
@@ -361,8 +352,8 @@
       <jump line="151" column="32" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>destroy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHsgY19pZDogJzM5MDc4JywgbmFtZTogJ+ODluODqeOCpuODs+ODgOOCueODiOOAkEFuZHJvaWQvR1ZB5YuV55S76KaW6IG055So44CRJyB9LAo=</text>
       </register>
       <register name="-" type="4">
         <text>destroy</text>
@@ -377,31 +368,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIHsgY19pZDogJzM5MDc4JywgbmFtZTogJ+ODluODqeOCpuODs+ODgOOCueODiOOAkEFuZHJvaWQvR1ZB5YuV55S76KaW6IG055So44CRJyB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">YmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKZW5kCg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAKZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJhd1ZpZGVvU2l6ZS53aGVyZShyYXdfdmlkZW9faWQ6IHJhd192aWRlb19pZCkK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgc2lsZW50X3NpemUK</text>
+        <text encoding="base64">ICAgIFJhd1ZpZGVvU2l6ZS53aGVyZShyYXdfdmlkZW9faWQ6IHJhd192aWRlb19pZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICBkZWYgc2lsZW50X3NpemUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
