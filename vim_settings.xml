@@ -40,12 +40,13 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql_v0/admins/types/raw_video_size_type.rb" timestamp="1537255480164">
         <mark key="[" line="11" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" timestamp="1537867714564">
-        <mark key="'" line="132" column="103" />
-        <mark key="[" line="128" column="38" />
-        <mark key="]" line="189" column="14" />
-        <mark key="." line="189" column="14" />
-        <mark key="^" line="189" column="14" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/video.ts" timestamp="1537874123672" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" timestamp="1537879645444">
+        <mark key="'" line="147" column="10" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="167" column="801" />
+        <mark key="^" line="191" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1537247253945">
         <mark key="[" line="0" column="0" />
@@ -62,11 +63,7 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/creative_query.rb" timestamp="1537504380943">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-advertising/app/CreativeRebuilder/index.js" timestamp="1537503888509">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/canvas.ts" timestamp="1537874487039" />
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementApplyFreconRadioButtonField.js" timestamp="1536892384183">
         <mark key="[" line="7" column="5" />
       </file>
@@ -85,6 +82,7 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/medium_attributes_input_object.rb" timestamp="1536889130767">
         <mark key="[" line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/util/useragent.ts" timestamp="1537875209541" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/raw_video.rb" timestamp="1537860236123">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="20" column="49" />
@@ -94,11 +92,6 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/admins/raw_videos_controller.rb" timestamp="1537858829381" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/placement_content_frequency_setting.rb" timestamp="1536895059810">
         <mark key="[" line="0" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-advertising/app/Creative/CreativeView.js" timestamp="1537508316252">
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-graphql/src/Mutation.js" timestamp="1537513033027">
         <mark key="[" line="47" column="31" />
@@ -151,11 +144,12 @@
       <jump line="13" column="84" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" />
       <jump line="19" column="66" filename="$USER_HOME$/workspace/car-dash/app/models/advertisement_redirect.rb" />
       <jump line="65" column="69" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_query.rb" />
-      <jump line="150" column="33" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" />
       <jump line="151" column="32" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" />
       <jump line="69" column="107" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" />
       <jump line="132" column="103" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" />
+      <jump line="150" column="51" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" />
+      <jump line="147" column="10" filename="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -255,6 +249,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
