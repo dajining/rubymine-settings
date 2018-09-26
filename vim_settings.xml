@@ -12,11 +12,6 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/LinearProgress.js" timestamp="1537516476015">
         <mark key="[" line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/Routes.js" timestamp="1537937161435">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-advertising/app/index.js" timestamp="1537504502173">
         <mark key="[" line="3" column="48" />
       </file>
@@ -47,6 +42,7 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql_v0/admins/types/raw_video_size_type.rb" timestamp="1537255480164">
         <mark key="[" line="11" column="76" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1537944379522" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_mutations/creative_mutation.rb" timestamp="1537879645444">
         <mark key="'" line="147" column="10" />
         <mark key="[" line="191" column="0" />
@@ -54,6 +50,7 @@
         <mark key="." line="167" column="801" />
         <mark key="^" line="191" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/core.ts" timestamp="1537944392359" />
       <file name="/Dummy.txt" timestamp="1537247253945">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,10 +87,9 @@
         <mark key="[" line="8" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/ChildWindow.js" timestamp="1537933965085">
-        <mark key="[" line="177" column="13" />
-        <mark key="]" line="187" column="17" />
-        <mark key="." line="187" column="17" />
-        <mark key="^" line="187" column="17" />
+        <mark key="]" line="181" column="17" />
+        <mark key="." line="181" column="17" />
+        <mark key="^" line="181" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/raw_video.rb" timestamp="1537860236123">
         <mark key="[" line="19" column="12" />
