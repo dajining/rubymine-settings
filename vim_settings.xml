@@ -3,11 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Medium/MediumList.js" timestamp="1537950607555">
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/models/placement.rb" timestamp="1537954778595">
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="10" />
+        <mark key="^" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Medium/MediumList.js" timestamp="1537954594312">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="66" column="3" />
         <mark key="." line="66" column="3" />
         <mark key="^" line="66" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_object.rb" timestamp="1537954837820">
+        <mark key="[" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/Placement/PlacementView.js" timestamp="1537948238598" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/medium_search_query_input_object.rb" timestamp="1537949173809">
@@ -29,11 +38,16 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1537944379522" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/medium.rb" timestamp="1537948831163" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/index.js" timestamp="1537947371314">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Placement/PlacementList.js" timestamp="1537955125508">
+        <mark key="[" line="109" column="15" />
+        <mark key="]" line="109" column="15" />
+        <mark key="." line="109" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/index.js" timestamp="1537953774705">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_enums/medium_order_field_enum.rb" timestamp="1537949151602">
         <mark key="[" line="1" column="17" />
@@ -43,12 +57,14 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-data-table/src/cells/BodyCellTypes.js" timestamp="1537949832442" />
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-data-table/src/cells/BodyCellType.js" timestamp="1537949846461" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/Routes.js" timestamp="1537947392916">
-        <mark key="e" line="102" column="34" />
-        <mark key="[" line="102" column="30" />
-        <mark key="]" line="102" column="30" />
-        <mark key="." line="102" column="30" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/Routes.js" timestamp="1537953836174">
+        <mark key="e" line="111" column="34" />
+        <mark key="[" line="95" column="19" />
+        <mark key="]" line="95" column="19" />
+        <mark key="." line="95" column="19" />
+        <mark key="^" line="92" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Placement/PlacementView.js" timestamp="1537955003004" />
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Medium/index.js" timestamp="1537947464002">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -77,6 +93,11 @@
         <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-resource/src/ResourceList.js" timestamp="1537950389112" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Placement/index.js" timestamp="1537954166633">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="153" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
@@ -127,11 +148,11 @@
       <jump line="469" column="3" filename="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -143,31 +164,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjZWxsVHlwZTogY2VsbFR5cGVzLk5VTUJFUiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjZWxsVHlwZTogY2VsbFR5cGVzLk5VTUJFUiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHQ6IGdldChkYXRhLCAnbWVkaXVtLmNyZWF0ZWRBdFRleHQnLCAnJyksCg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAyMDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsOiAn5L2c5oiQ5pel5pmCJywK</text>
+        <text encoding="base64">ICAgIGxhYmVsOiAn5ZCN56ewJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIGZsZXhHcm93OiAxLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbHVtbktleTogJ25vZGUuZGlzcGxheU5hbWUnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHQ6IGdldChkYXRhLCAnbWVkaXVtLmFmZi5uYW1lJywgJycpLAo=</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
