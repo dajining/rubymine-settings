@@ -8,13 +8,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/320x50/1/320x50.ts" timestamp="1538113777777">
-        <mark key="'" line="21" column="75" />
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="21" column="74" />
-        <mark key="^" line="21" column="74" />
-        <mark key="." line="21" column="74" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Medium/index.js" timestamp="1537947464002">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -26,7 +19,7 @@
         <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/vast.ts" timestamp="1538362857345" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/tests/android-webview.js" timestamp="1538372307759">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/tests/android-webview.js" timestamp="1538374375831">
         <mark key="[" line="34" column="13" />
         <mark key="]" line="34" column="13" />
         <mark key="." line="34" column="13" />
@@ -64,13 +57,14 @@
         <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/core.ts" timestamp="1538364144677" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/package.json" timestamp="1538372946656">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/package.json" timestamp="1538373629071">
         <mark key="[" line="7" column="23" />
-        <mark key="]" line="10" column="54" />
-        <mark key="." line="10" column="54" />
-        <mark key="^" line="10" column="54" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/helpers/appium-servers.js" timestamp="1538372226888" />
+      <file name="$USER_HOME$/workspace/appium/sample-code/sample-code/examples/node/selendroid-simple.js" timestamp="1538373179881" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/config/_local.ts" timestamp="1538111310560">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -192,7 +186,7 @@
         <text encoding="base64">ICAgICJpb3Mtc2ltcGxlIjogIm1vY2hhIGlvcy1zaW1wbGUuanMiLAogICAgImlvcy1jb21wbGV4IjogIm1vY2hhIGlvcy1jb21wbGV4LmpzIiwKICAgICJpb3Mtd2VidmlldyI6ICJtb2NoYSBpb3Mtd2Vidmlldy5qcyIsCiAgICAiaW9zLWFjdGlvbnMiOiAibW9jaGEgaW9zLWFjdGlvbnMuanMiLAogICAgImlvcy1sb2NhbC1zZXJ2ZXIiOiAibW9jaGEgaW9zLWxvY2FsLXNlcnZlci5qcyIsCiAgICAiaW9zLXNlbGVuaXVtLXdlYmRyaXZlci1icmlkZ2UiOiAibW9jaGEgaW9zLXNlbGVuaXVtLXdlYmRyaXZlci1icmlkZ2UuanMiLAogICAgImlvcy15aWV3ZCI6ICJtb2NoYSAtLWhhcm1vbnkgaW9zLXlpZXdkLmpzIiwKICAgICJhbmRyb2lkLXNpbXBsZSI6ICJtb2NoYSBhbmRyb2lkLXNpbXBsZS5qcyIsCiAgICAiYW5kcm9pZC1jb21wbGV4IjogIm1vY2hhIGFuZHJvaWQtY29tcGxleC5qcyIs</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -216,8 +210,8 @@
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wa</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
