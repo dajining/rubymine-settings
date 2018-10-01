@@ -19,11 +19,11 @@
         <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/vast.ts" timestamp="1538362857345" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/tests/android-webview.js" timestamp="1538374375831">
-        <mark key="[" line="34" column="13" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
-        <mark key="^" line="34" column="13" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/tests/android-webview.js" timestamp="1538378657760">
+        <mark key="[" line="54" column="35" />
+        <mark key="]" line="54" column="35" />
+        <mark key="." line="54" column="35" />
+        <mark key="^" line="54" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/helpers/apps.js" timestamp="1538372069038">
         <mark key="[" line="4" column="114" />
@@ -140,10 +140,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
