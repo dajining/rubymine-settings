@@ -56,13 +56,18 @@
         <mark key="]" line="390" column="9" />
         <mark key="." line="390" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/util/fingerprint.ts" timestamp="1538397004577">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/video.ts" timestamp="1538360080271">
         <mark key="[" line="356" column="41" />
         <mark key="]" line="356" column="42" />
         <mark key="^" line="356" column="42" />
         <mark key="." line="356" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538395613476">
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538395655014">
         <mark key="[" line="374" column="46" />
         <mark key="]" line="376" column="0" />
         <mark key="." line="376" column="0" />
@@ -84,6 +89,9 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/util/util.ts" timestamp="1538396928567">
+        <mark key="[" line="62" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -137,7 +145,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -152,31 +160,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBfYWx0Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKG5ldyBFcnJvcigiQ2Fubm90IHVzZSBsb2NhbFN0b3JhZ2UuIikpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFsb2NhbFN0b3JhZ2UpIHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgaGFzTG9jYWxTdG9yYWdlKCk6IGJvb2xlYW4gewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiAhIXdpbmRvdy5sb2NhbFN0b3JhZ2U7CiAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBfYWx0Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKG5ldyBFcnJvcigiQ2Fubm90IHVzZSBsb2NhbFN0b3JhZ2UuIikpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdHVpZE5hbWUgPSAiZ3ZhOnR1aWQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFsb2NhbFN0b3JhZ2UpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBsb2NhbFN0b3JhZ2UgfSA9IGdsb2JhbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdHVpZE5hbWUgPSAiZ3ZhOnR1aWQiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
