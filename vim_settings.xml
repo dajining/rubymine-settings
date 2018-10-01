@@ -3,6 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/config/_local.ts" timestamp="1538111310560">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/300x250/2_1/300x250.ts" timestamp="1538126135139">
+        <mark key="[" line="19" column="83" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/helpers/local-server.js" timestamp="1538372827647">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/medium_search_query_input_object.rb" timestamp="1537949173809">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -18,7 +34,6 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/vast.ts" timestamp="1538362857345" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/tests/android-webview.js" timestamp="1538378657760">
         <mark key="[" line="54" column="35" />
         <mark key="]" line="54" column="35" />
@@ -41,53 +56,35 @@
         <mark key="]" line="390" column="9" />
         <mark key="." line="390" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/util/fingerprint.ts" timestamp="1538358877796" />
-      <file name="$USER_HOME$/workspace/appium/sample-code/sample-code/examples/node/package.json" timestamp="1538372802893" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/video.ts" timestamp="1538360080271">
         <mark key="[" line="356" column="41" />
         <mark key="]" line="356" column="42" />
         <mark key="^" line="356" column="42" />
         <mark key="." line="356" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538392581687" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538393713644">
+        <mark key="[" line="380" column="20" />
+        <mark key="]" line="376" column="16" />
+        <mark key="^" line="376" column="0" />
+        <mark key="." line="376" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/tests/android-local-server.js" timestamp="1538372662685">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/core.ts" timestamp="1538388667659" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/package.json" timestamp="1538373629071">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/helpers/appium-servers.js" timestamp="1538372226888" />
-      <file name="$USER_HOME$/workspace/appium/sample-code/sample-code/examples/node/selendroid-simple.js" timestamp="1538373179881" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/config/_local.ts" timestamp="1538111310560">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/300x250/2_1/300x250.ts" timestamp="1538126135139">
-        <mark key="[" line="19" column="83" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-        <mark key="." line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/helpers/local-server.js" timestamp="1538372827647">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="13" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/appium/sample-code/sample-code/examples/node/android-webview.js" timestamp="1538367193218" />
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Placement/index.js" timestamp="1537954166633">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/appium/sample-code/sample-code/examples/node/android-local-server.js" timestamp="1538372580582" />
     </filemarks>
     <jumps>
       <jump line="153" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
@@ -140,10 +137,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
