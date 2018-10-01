@@ -62,11 +62,10 @@
         <mark key="^" line="356" column="42" />
         <mark key="." line="356" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538393713644">
-        <mark key="[" line="380" column="20" />
-        <mark key="]" line="376" column="16" />
-        <mark key="^" line="376" column="0" />
-        <mark key="." line="376" column="16" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538395613476">
+        <mark key="[" line="374" column="46" />
+        <mark key="]" line="376" column="0" />
+        <mark key="." line="376" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/tests/android-local-server.js" timestamp="1538372662685">
         <mark key="[" line="2" column="10" />
@@ -74,6 +73,7 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/core.ts" timestamp="1538395609594" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/package.json" timestamp="1538373629071">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="8" column="34" />
@@ -136,11 +136,11 @@
       <jump line="21" column="75" filename="$USER_HOME$/workspace/car-gva-tag/src/frame/320x50/1/320x50.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -152,35 +152,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXMuc2VuZEZpbGUocGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uL2RvdG5ldC9BcHBpdW1Eb3ROZXRTYW1wbGUvUmVzb3VyY2VzL1dlYlZpZXdBcHA3LjEuYXBwLnppcCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBfYWx0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLmdldCgnL1dlYlZpZXdBcHA3LjEuYXBwLnppcCcsIGZ1bmN0aW9uIChyZXEsIHJlcykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKG5ldyBFcnJvcigiQ2Fubm90IHVzZSBsb2NhbFN0b3JhZ2UuIikpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>lly(function () {
-        if (process.env.npm_package_config_sauce) {
-          return driver.sauceJobStatus(allPassed);
-        }
-      });</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFsb2NhbFN0b3JhZ2UpIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICJhbmRyb2lkLWxvY2FsLXNlcnZlciI6ICJtb2NoYSBhbmRyb2lkLWxvY2FsLXNlcnZlci5qcyIsCiAgICAic2VsZW5kcm9pZC1zaW1wbGUiOiAibW9jaGEgc2VsZW5kcm9pZC1zaW1wbGUuanMi</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdHVpZE5hbWUgPSAiZ3ZhOnR1aWQiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBsb2NhbFN0b3JhZ2UgfSA9IGdsb2JhbDsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICJpb3Mtc2ltcGxlIjogIm1vY2hhIGlvcy1zaW1wbGUuanMiLAogICAgImlvcy1jb21wbGV4IjogIm1vY2hhIGlvcy1jb21wbGV4LmpzIiwKICAgICJpb3Mtd2VidmlldyI6ICJtb2NoYSBpb3Mtd2Vidmlldy5qcyIsCiAgICAiaW9zLWFjdGlvbnMiOiAibW9jaGEgaW9zLWFjdGlvbnMuanMiLAogICAgImlvcy1sb2NhbC1zZXJ2ZXIiOiAibW9jaGEgaW9zLWxvY2FsLXNlcnZlci5qcyIsCiAgICAiaW9zLXNlbGVuaXVtLXdlYmRyaXZlci1icmlkZ2UiOiAibW9jaGEgaW9zLXNlbGVuaXVtLXdlYmRyaXZlci1icmlkZ2UuanMiLAogICAgImlvcy15aWV3ZCI6ICJtb2NoYSAtLWhhcm1vbnkgaW9zLXlpZXdkLmpzIiwKICAgICJhbmRyb2lkLXNpbXBsZSI6ICJtb2NoYSBhbmRyb2lkLXNpbXBsZS5qcyIsCiAgICAiYW5kcm9pZC1jb21wbGV4IjogIm1vY2hhIGFuZHJvaWQtY29tcGxleC5qcyIs</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
