@@ -41,7 +41,7 @@
         <mark key="[" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/util/fingerprint.ts" timestamp="1538358877796" />
-      <file name="$USER_HOME$/workspace/appium/sample-code/sample-code/examples/node/package.json" timestamp="1538368019511" />
+      <file name="$USER_HOME$/workspace/appium/sample-code/sample-code/examples/node/package.json" timestamp="1538369027191" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/320x100/1/320x100.ts" timestamp="1538113751795">
         <mark key="[" line="8" column="32" />
       </file>
@@ -53,10 +53,10 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538364298405" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/core.ts" timestamp="1538364144677" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/package.json" timestamp="1538368897618">
-        <mark key="[" line="7" column="48" />
-        <mark key="]" line="7" column="48" />
-        <mark key="." line="7" column="48" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/package.json" timestamp="1538370166575">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/300x250/2_1/300x250.ts" timestamp="1538126135139">
@@ -133,10 +133,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -175,7 +175,7 @@
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -198,9 +198,9 @@
         <entry>e</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wa</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
