@@ -11,7 +11,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1538470507213">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdOnlyContainer.jsx" timestamp="1538470689204" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1538470653393">
         <mark key="[" line="2" column="88" />
         <mark key="]" line="2" column="88" />
         <mark key="." line="2" column="88" />
@@ -48,7 +49,11 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="114" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/webpack.config.js" timestamp="1538467573823" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/webpack.config.js" timestamp="1538472579985">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Medium/MediumAuth.js" timestamp="1537951135572">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="16" column="0" />
@@ -67,7 +72,7 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTagV2.mustache" timestamp="1538467621116">
         <mark key="[" line="3" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/utils/compileHtml.js" timestamp="1538467607719">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/utils/compileHtml.js" timestamp="1538470705224">
         <mark key="[" line="4" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/video.ts" timestamp="1538404149894">
@@ -214,11 +219,11 @@
       <jump line="21" column="75" filename="$USER_HOME$/workspace/car-gva-tag/src/frame/320x50/1/320x50.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gratefulVideo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>gratefulVideo</text>
+        <text>. = [</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -233,28 +238,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIChmdW5jdGlvbiAoX3dpbmRvdywgX2RvY3VtZW50LCBzLCBuLCBhKSB7CiAgICAgIF93aW5kb3cuU2FzVmRPYmplY3QgPSBhLCBfd2luZG93W2FdID0gX3dpbmRvd1thXSB8fCBmdW5jdGlvbiAoKSB7CiAgICAgICAgKF93aW5kb3dbYV0ucSA9IF93aW5kb3dbYV0ucSB8fCBbXSkucHVzaChhcmd1bWVudHMpCiAgICAgIH0sIF93aW5kb3dbYV0ubCA9IDEgKiBuZXcgRGF0ZTsKICAgICAgdmFyIGMgPSBfZG9jdW1lbnQuY3JlYXRlRWxlbWVudChzKSwgciA9IF9kb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZShzKVswXTsKICAgICAgYy5hc3luYyA9IDEsIGMuc3JjID0gbiArICI/X3Q9IiArIF93aW5kb3dbYV0ubCwgci5wYXJlbnROb2RlLmluc2VydEJlZm9yZShjLCByKQogICAgfSkod2luZG93LCBkb2N1bWVudCwgJ3NjcmlwdCcsICdodHRwczovL3Nhcy53cy5tb2JhZG1lLmpwL2pzL3Nhcy12ZC52Mi5qcycsCiAgICAgICAgJ3Nhc3ZkJyk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2Cg==</text>
+        <text encoding="base64">ICAgICAgdGVzdDogL1wuanMoXD8uKik/JC9pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFN5bWxpbmtXZWJwYWNrUGx1Z2luKHsgb3JpZ2luOiAnc3JjL2NvcmUvYWQvdmFzdC50cycsIHN5bWxpbms6ICdzcmMvY29yZS8yL3Zhc3QudHMnIH0pLAo=</text>
+        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbih7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29yZQo=</text>
+        <text encoding="base64">ICBkZWZhdWx0Q29uZmlnLm9wdGltaXphdGlvbi5taW5pbWl6ZXIucHVzaCgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcmUgZnJvbSAnLi4vYWQvY29yZSc7Cg==</text>
+        <text encoding="base64">ICBpZiAoIWRlZmF1bHRDb25maWcub3B0aW1pemF0aW9uLm1pbmltaXplcikgeyBkZWZhdWx0Q29uZmlnLm9wdGltaXphdGlvbi5taW5pbWl6ZXIgPSBbXSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICBpZiAoIWRlZmF1ZGRsdENvbmZpZy5vcHRpbWl6YXRpb24pIHsgZGVmYXVsdENvbmZpZy5vcHRpbWl6YXRpb24gPSB7fSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTog6YWN5L+h44K/44Kw44Gv54Sh6Z+z5YuV55S744Gu44Gf44KB44CB5LiA5b6LY2FudmFz44KS5L2/44GGCg==</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
