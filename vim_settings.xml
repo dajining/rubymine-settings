@@ -13,10 +13,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/webpack.config.js" timestamp="1538462394933">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/webpack.config.js" timestamp="1538465392887">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Medium/MediumDetail.js" timestamp="1537951673816">
         <mark key="[" line="68" column="0" />
@@ -80,7 +80,12 @@
         <mark key="^" line="8" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/test/core/ad/vast/dicideAd.test.ts" timestamp="1538463651636" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/core.ts" timestamp="1538461310360" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/core.ts" timestamp="1538465085677">
+        <mark key="[" line="203" column="42" />
+        <mark key="]" line="321" column="92" />
+        <mark key="^" line="321" column="92" />
+        <mark key="." line="321" column="92" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/package.json" timestamp="1538458277285" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/config/_local.ts" timestamp="1538111310560">
         <mark key="[" line="17" column="0" />
@@ -118,10 +123,16 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/tools/helpers/test_helper/partial_helper.ts" timestamp="1538463709126">
+      <file name="$USER_HOME$/workspace/car-gva-tag/tools/helpers/test_helper/partial_helper.ts" timestamp="1538463710801">
         <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/size_300x250.html" timestamp="1538465455179">
+        <mark key="[" line="170" column="49" />
+        <mark key="]" line="170" column="49" />
+        <mark key="." line="170" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Placement/index.js" timestamp="1537954166633">
         <mark key="[" line="21" column="0" />
@@ -180,10 +191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>v2</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>v2</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
