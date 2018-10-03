@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/examples/domInjection.js" timestamp="1538542653453">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/examples/domInjection.js" timestamp="1538544836602">
+        <mark key="[" line="7" column="57" />
+        <mark key="]" line="7" column="57" />
+        <mark key="." line="7" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/example.html" timestamp="1538487750534">
         <mark key="[" line="105" column="0" />
@@ -14,10 +14,10 @@
         <mark key="^" line="57" column="38" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1538542749690">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1538544875567">
+        <mark key="[" line="2" column="263" />
+        <mark key="]" line="2" column="263" />
+        <mark key="." line="2" column="263" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/webpack.config.js" timestamp="1538465392887">
         <mark key="[" line="25" column="46" />
@@ -134,7 +134,7 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/examples/domInjection.min.js" timestamp="1538542734555" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/examples/domInjection.min.js" timestamp="1538544864805" />
       <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/size_300x250.html" timestamp="1538487688929">
         <mark key="[" line="170" column="49" />
         <mark key="]" line="170" column="49" />
@@ -192,11 +192,11 @@
       <jump line="90" column="57" filename="$USER_HOME$/workspace/car-gva-tag/src/util/useragent.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBZWVlZL01NL0REIGhoOm1tCg==</text>
+      <register name="&quot;" type="4">
+        <text>(window,document,&quot;script&quot;,&quot;https://tag-dev.gratefulvideo.jp/ad.js&quot;,&quot;gva&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>にする</text>
+        <text>(window,document,&quot;script&quot;,&quot;https://tag-dev.gratefulvideo.jp/ad.js&quot;,&quot;gva&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
