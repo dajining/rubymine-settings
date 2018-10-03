@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/examples/domInjection.js" timestamp="1538481454126">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/examples/domInjection.js" timestamp="1538542653453">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/example.html" timestamp="1538487750534">
         <mark key="[" line="105" column="0" />
@@ -15,8 +14,8 @@
         <mark key="^" line="57" column="38" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1538481816840">
-        <mark key="[" line="2" column="258" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1538542749690">
+        <mark key="[" line="2" column="2" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -54,7 +53,7 @@
         <mark key="^" line="356" column="42" />
         <mark key="." line="356" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538463099033">
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538539831654">
         <mark key="[" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/e2e/tests/android-local-server.js" timestamp="1538372662685">
@@ -98,7 +97,7 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1538529852575">
         <mark key="[" line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/player.ts" timestamp="1538485488558">
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/player.ts" timestamp="1538542242787">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -135,6 +134,7 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/examples/domInjection.min.js" timestamp="1538542734555" />
       <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/size_300x250.html" timestamp="1538487688929">
         <mark key="[" line="170" column="49" />
         <mark key="]" line="170" column="49" />
@@ -192,11 +192,11 @@
       <jump line="90" column="57" filename="$USER_HOME$/workspace/car-gva-tag/src/util/useragent.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>galaxys2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBZWVlZL01NL0REIGhoOm1tCg==</text>
       </register>
       <register name="-" type="4">
-        <text>galaxys2</text>
+        <text>にする</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -208,31 +208,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1YSkK</text>
+        <text encoding="base64">ICAvLyBZWVlZL01NL0REIGhoOm1tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1YSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC0xOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWF0Y2hzID09IG51bGwpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC0xOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWF0Y2hzID09IG51bGwpIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
