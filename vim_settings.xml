@@ -42,7 +42,7 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/video.ts" timestamp="1538628476327">
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/video.ts" timestamp="1538633991410">
         <mark key="[" line="361" column="0" />
         <mark key="]" line="361" column="0" />
         <mark key="^" line="356" column="42" />
@@ -97,6 +97,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/yarn.lock" timestamp="1538634740634" />
       <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1538529852575">
         <mark key="[" line="26" column="17" />
       </file>
