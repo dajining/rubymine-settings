@@ -53,7 +53,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="102" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/core.ts" timestamp="1538715182022">
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/core.ts" timestamp="1538716662262">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -83,7 +83,8 @@
         <mark key="." line="36" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/320x100/2/320x100.ts" timestamp="1538710159049" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/canvas.ts" timestamp="1538628502133">
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/player.ts" timestamp="1538716125928" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/canvas.ts" timestamp="1538718272625">
         <mark key="[" line="330" column="0" />
         <mark key="]" line="330" column="0" />
         <mark key="." line="330" column="0" />
@@ -113,10 +114,12 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/vast.ts" timestamp="1538629491019">
-        <mark key="[" line="446" column="19" />
-        <mark key="]" line="444" column="0" />
-        <mark key="." line="444" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/vast.ts" timestamp="1538722602899">
+        <mark key="'" line="325" column="8" />
+        <mark key="[" line="448" column="0" />
+        <mark key="]" line="448" column="0" />
+        <mark key="^" line="446" column="55" />
+        <mark key="." line="448" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -168,13 +171,15 @@
       <jump line="469" column="3" filename="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/__stories__/index.js" />
       <jump line="21" column="75" filename="$USER_HOME$/workspace/car-gva-tag/src/frame/320x50/1/320x50.ts" />
       <jump line="90" column="57" filename="$USER_HOME$/workspace/car-gva-tag/src/util/useragent.ts" />
+      <jump line="334" column="51" filename="$USER_HOME$/workspace/car-gva-tag/src/core/ad/vast.ts" />
+      <jump line="325" column="8" filename="$USER_HOME$/workspace/car-gva-tag/src/core/ad/vast.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>xmlDOM</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -186,31 +191,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBkZXNjcmliZSgiaXNBbmRyb2lkQnJvd3NlciIsICgpID0+IHsKICAgICAgICBpdCgiWHBlcmlhIGV4cGVjdHMgZmFsc2UiLCAoKSA9PiB7CiAgICAgICAgICAgIHNldFVBKGRldmljZXMueHBlcmlhKTsKICAgICAgICAgICAgYXNzZXJ0KHVhLmlzQW5kcm9pZEJyb3dzZXIoKSA9PT0gZmFsc2UpOwogICAgICAgIH0pOwoKICAgICAgICBpdCgiaVBob25lIGV4cGVjdHMgZmFsc2UiLCAoKSA9PiB7CiAgICAgICAgICAgIHNldFVBKGRldmljZXMuaXBob25lKTsKICAgICAgICAgICAgYXNzZXJ0KHVhLmlzQW5kcm9pZEJyb3dzZXIoKSA9PT0gZmFsc2UpOwogICAgICAgIH0pOwoKICAgICAgICBpdCgiR2FsYXh5IFMyIGV4cGVjdHMgdHJ1ZSIsICgpID0+IHsKICAgICAgICAgICAgc2V0VUEoZGV2aWNlcy5nYWxheHlzMik7CiAgICAgICAgICAgIGFzc2VydCh1YS5pc0FuZHJvaWRCcm93c2VyKCkgPT09IHRydWUpOwogICAgICAgIH0pOwoKICAgICAgICBpdCgiUGl4ZWwgZXhwZWN0cyB0cnVlIiwgKCkgPT4gewogICAgICAgICAgICBzZXRVQShkZXZpY2VzLnBpeGVsKTsKICAgICAgICAgICAgYXNzZXJ0KHVhLmlzQW5kcm9pZEJyb3dzZXIoKSA9PT0gZmFsc2UpOwogICAgICAgIH0pOwogICAgfSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFVBIGZyb20gIkBzcmNVdGlsL3VzZXJhZ2VudCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFVBIGZyb20gIkBzcmNVdGlsL3VzZXJhZ2VudCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFVBIGZyb20gIkBzcmNVdGlsL3VzZXJhZ2VudCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIGlmICgvXC92aWV3X3Rocm91Z2hcPy8udGVzdCh1cmwpKSB7IC8vIFRPRE86IGZyb20gdmFzdCBhdHRyaWJ1dGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLm1hcCgodXJsOiBzdHJpbmcpID0+IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3RhdHVzID0gdGhpcy5TVEFUVVNfVU5TVVBQT1JURUQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLm1hcCgodDogYW55KSA9PiApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVhLmlzQW5kcm9pZEJyb3dzZXIoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
