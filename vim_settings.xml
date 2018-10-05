@@ -42,19 +42,19 @@
         <mark key="^" line="356" column="42" />
         <mark key="." line="361" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538622974415">
-        <mark key="[" line="336" column="60" />
-        <mark key="]" line="323" column="6" />
-        <mark key="^" line="323" column="6" />
-        <mark key="." line="323" column="6" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/1/core.ts" timestamp="1538713646434">
+        <mark key="[" line="225" column="116" />
+        <mark key="]" line="328" column="6" />
+        <mark key="^" line="328" column="6" />
+        <mark key="." line="328" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/core.ts" timestamp="1538711648069">
-        <mark key="[" line="337" column="60" />
-        <mark key="]" line="338" column="125" />
-        <mark key="." line="338" column="125" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/2/core.ts" timestamp="1538713632314">
+        <mark key="[" line="225" column="116" />
+        <mark key="]" line="343" column="125" />
+        <mark key="." line="343" column="125" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/core.ts" timestamp="1538711657873">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/core.ts" timestamp="1538713611518">
+        <mark key="[" line="106" column="54" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -92,6 +92,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/util/useragent.ts" timestamp="1538713315141" />
       <file name="$USER_HOME$/workspace/car-gva-tag/test/core/ad/core/version.test.ts" timestamp="1538645478991">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
