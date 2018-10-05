@@ -114,12 +114,12 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/vast.ts" timestamp="1538725289596">
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/vast.ts" timestamp="1538727663894">
         <mark key="'" line="325" column="8" />
-        <mark key="[" line="510" column="40" />
-        <mark key="]" line="512" column="61" />
+        <mark key="[" line="512" column="64" />
+        <mark key="]" line="512" column="64" />
         <mark key="^" line="512" column="61" />
-        <mark key="." line="512" column="61" />
+        <mark key="." line="512" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -177,10 +177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJ3cmFwIiBzdHlsZT0iYmFja2dyb3VuZDogI2RkZDsgcGFkZGluZzogMTZweCAwOyI+CgkJCTxpZnJhbWUgc3JjPSIuL3NpemVfMzAweDI1MF9pZnJhbWUuaHRtbCIgZnJhbWVib3JkZXI9IjAiCgkJCQlzY3JvbGxpbmc9Im5vIiBub3Jlc2l6ZT0idHJ1ZSIgbWFyZ2lud2lkdGg9IjAiIG1hcmdpbmhlaWdodD0iMCIKCQkJCXN0eWxlPSJ3aWR0aDogMzAwcHg7IGhlaWdodDogMjUwcHg7IGRpc3BsYXk6IGJsb2NrOyBtYXJnaW46IGF1dG87Ij48L2lmcmFtZT4KCQk8L2Rpdj4=</text>
+        <text encoding="base64">ICsgIiZ2ZXJpZmllcj0iICsgdGhpcy5nZXRWZXJpZmllcigp</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">ICsgIiZ2ZXJpZmllcj0iICsgdGhpcy5nZXRWZXJpZmllcigp</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
