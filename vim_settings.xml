@@ -8,7 +8,6 @@
         <mark key="]" line="7" column="57" />
         <mark key="." line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/util/xml.ts" timestamp="1538723542263" />
       <file name="$USER_HOME$/workspace/car-gva-tag/test/constants/version.test.ts" timestamp="1538646130120">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="9" column="0" />
@@ -31,7 +30,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/util/request.ts" timestamp="1538733428411" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/util/request.ts" timestamp="1539050589386" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/video.ts" timestamp="1538730612092">
         <mark key="[" line="361" column="0" />
         <mark key="]" line="361" column="0" />
@@ -50,7 +49,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="102" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/core.ts" timestamp="1538733342488" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/package.json" timestamp="1538481619920">
         <mark key="[" line="10" column="118" />
         <mark key="]" line="10" column="118" />
@@ -74,8 +72,6 @@
         <mark key="^" line="36" column="52" />
         <mark key="." line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/frame/320x100/2/320x100.ts" timestamp="1538710159049" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/player.ts" timestamp="1538716125928" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/canvas.ts" timestamp="1538718272625">
         <mark key="[" line="330" column="0" />
         <mark key="]" line="330" column="0" />
@@ -103,10 +99,10 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/vast.ts" timestamp="1538733061205">
         <mark key="'" line="325" column="8" />
-        <mark key="[" line="519" column="12" />
-        <mark key="]" line="516" column="0" />
-        <mark key="^" line="516" column="40" />
-        <mark key="." line="516" column="0" />
+        <mark key="[" line="515" column="12" />
+        <mark key="]" line="512" column="0" />
+        <mark key="^" line="512" column="40" />
+        <mark key="." line="512" column="0" />
       </file>
     </filemarks>
     <jumps>
