@@ -14,15 +14,14 @@
         <mark key="^" line="10" column="342" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/test/constants/version.test.ts" timestamp="1538646130120">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1539054040064">
+        <mark key="[" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/locales/translation_ja.yml" timestamp="1539072223618">
         <mark key="[" line="1274" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-delivery/app/PlacementContentFrequencySetting/PlacementContentFrequencySettingList.js" timestamp="1539073094711" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/iframe.html" timestamp="1539084738778" />
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin/app/index.js" timestamp="1539072363119">
         <mark key="[" line="0" column="45" />
         <mark key="]" line="0" column="45" />
@@ -45,15 +44,8 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/creative.rb" timestamp="1539065597187" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/canvas.ts" timestamp="1538718272625">
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="0" />
-        <mark key="." line="330" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/README.md" timestamp="1538638537781">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/README.md" timestamp="1539085032115">
+        <mark key="[" line="50" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_enums/placement_status_enum.rb" timestamp="1539069289210" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/ad_status_query.rb" timestamp="1539070532118">
@@ -61,11 +53,6 @@
         <mark key="]" line="7" column="42" />
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/test/core/ad/core/version.test.ts" timestamp="1538645478991">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/src/core/ad/vast.ts" timestamp="1539071913793">
         <mark key="'" line="325" column="8" />
@@ -104,11 +91,6 @@
       <file name="car-gva-admin.graphqls" timestamp="1539073132078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/webpack.config.js" timestamp="1538478638196">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin/app/AdStatus/index.js" timestamp="1539072507968">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="34" />
@@ -120,12 +102,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="102" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/package.json" timestamp="1538481619920">
-        <mark key="[" line="10" column="118" />
-        <mark key="]" line="10" column="118" />
-        <mark key="." line="10" column="118" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/src/version.ts" timestamp="1538645600921">
+        <mark key="[" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/Makefile" timestamp="1539081726453">
+      <file name="/GraphQL.result.json" timestamp="1539053698554">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/Makefile" timestamp="1539085131408">
         <mark key="[" line="18" column="16" />
         <mark key="]" line="18" column="16" />
         <mark key="^" line="18" column="24" />
@@ -138,15 +121,8 @@
         <mark key="^" line="1" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/global/ad_tag.yml" timestamp="1539061002221" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/test/util/useragent.test.ts" timestamp="1538715361762">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/src/util/useragent.ts" timestamp="1538714835030">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/scripts/deploy.sh" timestamp="1539084992772">
+        <mark key="[" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_enums/ad_status_status_enum.rb" timestamp="1539069380661" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/application_schema.rb" timestamp="1539069531352">
@@ -161,16 +137,6 @@
         <mark key="]" line="3" column="49" />
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/tools/start/size_300x250.html" timestamp="1539055345174">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_input_objects/ad_status_search_query_input_object.rb" timestamp="1539070236071">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin/app/AdStatus/AdStatusList.js" timestamp="1539073753832">
         <mark key="[" line="108" column="0" />
@@ -233,8 +199,8 @@
       <jump line="362" column="50" filename="$USER_HOME$/workspace/car-gva-tag/src/core/ad/core.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3Rvcnlib29rIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JCBjZCBwYWNrYWdlcy9zdG9yeWJvb2sgJiYgeWFybiBpbnN0YWxsICMgVE9ETzogbW9ub3JlcG8K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3Rvcnlib29rIA==</text>
@@ -249,31 +215,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZsZXhHcm93OiAxLAo=</text>
+        <text encoding="base64">JCBjZCBwYWNrYWdlcy9zdG9yeWJvb2sgJiYgeWFybiBpbnN0YWxsICMgVE9ETzogbW9ub3JlcG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZsZXhHcm93OiAxLAo=</text>
+        <text encoding="base64">JCB5YXJuIGluc3RhbGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNlbGxUeXBlOiBjZWxsVHlwZXMuQk9PTEVBTiwK</text>
+        <text encoding="base64">ICAgIGZsZXhHcm93OiAxLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGZsZXhHcm93OiAxLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHQ6IGAke2RhdGVGb3JtYXQoZGF0ZVJhbmdlLnN0YXJ0LCAnWVlZWeW5tE1N5pyIRETml6UgKGRkKScsIHsgbG9jYWxlOiBkYXRlTG9jYWxlIH0pfSDjgJwgJHtkYXRlRm9ybWF0KGRhdGVSYW5nZS5lbmQsICdZWVlZ5bm0TU3mnIhEROaXpSAoZGQpJywgeyBsb2NhbGU6IGRhdGVMb2NhbGUgfSl9YAo=</text>
+        <text encoding="base64">ICAgIGNlbGxUeXBlOiBjZWxsVHlwZXMuQk9PTEVBTiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdWJ0aXRsZTogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHQ6IGAke2RhdGVGb3JtYXQoZGF0ZVJhbmdlLnN0YXJ0LCAnWVlZWeW5tE1N5pyIRETml6UgKGRkKScsIHsgbG9jYWxlOiBkYXRlTG9jYWxlIH0pfSDjgJwgJHtkYXRlRm9ybWF0KGRhdGVSYW5nZS5lbmQsICdZWVlZ5bm0TU3mnIhEROaXpSAoZGQpJywgeyBsb2NhbGU6IGRhdGVMb2NhbGUgfSl9YAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0ZVJhbmdlID0gZ2V0KHZhcmlhYmxlcywgJ3F1ZXJ5LmRhdGVSYW5nZScsIHt9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdWJ0aXRsZTogewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5U3RyaW5nS2V5cz17WydkYXRlUmFuZ2UnXX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
