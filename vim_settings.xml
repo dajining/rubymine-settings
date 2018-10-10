@@ -96,8 +96,11 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_content_frequency_setting_object.rb" timestamp="1539068904895" />
       <file name="$USER_HOME$/workspace/car-gva-tag/src/partial/player/1/tracking.ts" timestamp="1539055935008" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag/package.json" timestamp="1539135282702">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/tag/package.json" timestamp="1539136467946">
         <mark key="[" line="16" column="70" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="20" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/content.rb" timestamp="1539065561653" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_content_frequency_setting_query.rb" timestamp="1539069691960" />
@@ -164,11 +167,11 @@
         <mark key="." line="1" column="45" />
         <mark key="^" line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1539134896143">
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1539136529284">
         <mark key="[" line="17" column="40" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="8" column="0" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/global/ad_tag.yml" timestamp="1539061002221" />
       <file name="$USER_HOME$/workspace/car-gva-tag/test/util/useragent.test.ts" timestamp="1538715361762">
