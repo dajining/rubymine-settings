@@ -43,12 +43,11 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/bs-config-cross-child.js" timestamp="1539315192922">
         <mark key="[" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1539332166308">
-        <mark key="'" line="146" column="12" />
-        <mark key="[" line="125" column="26" />
-        <mark key="]" line="125" column="26" />
-        <mark key="." line="125" column="26" />
-        <mark key="^" line="125" column="44" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1539335210753">
+        <mark key="'" line="155" column="12" />
+        <mark key="[" line="160" column="9" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/webpack.config.js" timestamp="1539308367211" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/core/ad/vast.ts" timestamp="1539326722533" />
@@ -243,11 +242,11 @@
       <jump line="146" column="12" filename="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>handshakeMessageData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>handshakeMessageData</text>
+        <text>ElementLocation</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -259,28 +258,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubG9nZ2VyLmRlYnVnKCJoYW5kbGVNZXNzYWdlOnR5cGUiLCB0eXBlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xlYXJJbnRlcnZhbCh0aGlzLm1vbml0b3JpbmdJbnRlcnZhbFRpbWVyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXJJZDogc3RyaW5nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1cmw6IHN0cmluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIG9wdGlvbnM6IE9wdGlvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
