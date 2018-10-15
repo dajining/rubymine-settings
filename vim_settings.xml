@@ -32,11 +32,11 @@
         <mark key="]" line="5" column="70" />
         <mark key="." line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1539595708751">
-        <mark key="e" line="236" column="18" />
-        <mark key="[" line="121" column="31" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1539598810197">
+        <mark key="e" line="242" column="18" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="109" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/webpack.config.js" timestamp="1539583943965" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/tools/start/index.html" timestamp="1539581484088">
@@ -209,10 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGN1cnJlbnRTY3JpcHQ6IEVsZW1lbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>parseInt(this.currentScript.getAttribute(this.dataAttributeKeys.monitoringInterval), 10);</text>
+        <text>options</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -224,39 +224,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGN1cnJlbnRTY3JpcHQ6IEVsZW1lbnQ7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGN1cnJlbnRTY3JpcHQ6IEVsZW1lbnQ7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub3B0aW9ucy5tb25pdG9yaW5nSW50ZXJ2YWwgPSBtb25pdG9yaW5nSW50ZXJ2YWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vbml0b3JpbmdJbnRlcnZhbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub3B0aW9ucy5tb25pdG9yaW5nSW50ZXJ2YWwgPSBtb25pdG9yaW5nSW50ZXJ2YWw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9uaXRvcmluZ0ludGVydmFsID0gcGFyc2VJbnQob3B0aW9ucy5tb25pdG9yaW5nSW50ZXJ2YWwsIDEwKSB8fCBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vbml0b3JpbmdJbnRlcnZhbCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcHRpb25zLm1vbml0b3JpbmdJbnRlcnZhbCA9IG9wdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9uaXRvcmluZ0ludGVydmFsID0gcGFyc2VJbnQob3B0aW9ucy5tb25pdG9yaW5nSW50ZXJ2YWwsIDEwKSB8fCBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcHRpb25zLm1vbml0b3JpbmdJbnRlcnZhbCA9IG9wdGlvbnMK</text>
       </register>
-      <register name="9" type="4">
-        <text>else if (task === &quot;create&quot;) {
-                    const mID = _args[1];
-                    const placement = _args[2];
-                    const key = _args[3];
-                    this._create(mID, &quot;&quot;, placement, null, key);
-                } else if (task === &quot;render&quot;) {
-                    const classnameTarget = _args[1];
-                    const frameTypes = _args[2];
-                    this._render(classnameTarget, frameTypes);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
