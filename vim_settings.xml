@@ -12,11 +12,7 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/placement_object.rb" timestamp="1539069462242">
         <mark key="[" line="62" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/video.ts" timestamp="1539573120328">
-        <mark key="[" line="667" column="31" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdOnlyContainer.jsx" timestamp="1539570064541" />
       <file name="$USER_HOME$/workspace/car-gva-admin/config/locales/translation_ja.yml" timestamp="1539072223618">
         <mark key="[" line="1274" column="19" />
       </file>
@@ -26,6 +22,7 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/320x100/1/320x100.ts" timestamp="1539573286108">
         <mark key="[" line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdOnlyFrame.jsx" timestamp="1539575568107" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/thumbnail/1/thumbnail.ts" timestamp="1539573426150">
         <mark key="[" line="10" column="28" />
       </file>
@@ -62,7 +59,7 @@
         <mark key="^" line="58" column="15" />
         <mark key="." line="58" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1539573914611">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1539575729570">
         <mark key="e" line="205" column="18" />
         <mark key="^" line="185" column="13" />
       </file>
@@ -96,6 +93,7 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/InViewOutViewContainer.jsx" timestamp="1539570562123" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/320x50/1/320x50.ts" timestamp="1539573259687">
         <mark key="[" line="10" column="28" />
       </file>
@@ -113,11 +111,6 @@
         <mark key="]" line="333" column="23" />
         <mark key="." line="333" column="23" />
         <mark key="^" line="333" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default-local.json" timestamp="1539570747605">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/300x250/1/300x250.ts" timestamp="1539573211058">
         <mark key="[" line="10" column="28" />
@@ -157,6 +150,12 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/320x70/2/320x70.ts" timestamp="1539573276311">
         <mark key="[" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/adOnlyLayout.mustache" timestamp="1539575947654">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/package.json" timestamp="1539308382558">
         <mark key="[" line="2" column="18" />
