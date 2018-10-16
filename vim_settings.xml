@@ -60,7 +60,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1539657394726">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1539661586690">
         <mark key="[" line="21" column="67" />
         <mark key="]" line="18" column="75" />
         <mark key="." line="18" column="75" />
@@ -101,13 +101,18 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1539660753066">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1539661031422">
         <mark key="[" line="11" column="64" />
-        <mark key="]" line="10" column="91" />
-        <mark key="^" line="10" column="91" />
-        <mark key="." line="10" column="91" />
+        <mark key="]" line="35" column="1" />
+        <mark key="^" line="35" column="1" />
+        <mark key="." line="35" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1539659003547">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/webpack.config.js" timestamp="1539661600656">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1539660800278">
         <mark key="[" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/bs-config.js" timestamp="1539568771637">
@@ -233,8 +238,8 @@
       <jump line="17" column="28" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdFrame.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NODE_APP_INSTANCE=dev webpack --config webpack.artifact.config.js</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>NODE_APP_INSTANCE=dev webpack --config webpack.artifact.config.js</text>
@@ -249,12 +254,15 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>// process.env.NODE_CONFIG_DIR = path.resolve(__dirname, './config')
 // const CONFIG = require('config');
 //
@@ -269,23 +277,20 @@
 //   console.log(`App version ${VERSION}.`);
 // }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB9LAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBvcnQ6IDMwMDMsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBkZXZTZXJ2ZXI6IHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZXZ0b29sOiAnc291cmNlLW1hcCcsCg==</text>
+        <text encoding="base64">ICBkZXZTZXJ2ZXI6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
