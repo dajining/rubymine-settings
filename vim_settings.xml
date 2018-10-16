@@ -45,6 +45,7 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/300x250/1/300x250.ts" timestamp="1539573211058">
         <mark key="[" line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/webpack-utils.js" timestamp="1539656960018" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/thumbnail/1/thumbnail.ts" timestamp="1539573426150">
         <mark key="[" line="10" column="28" />
       </file>
@@ -54,7 +55,12 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1539594334549">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/webpack.utils.js" timestamp="1539656843196">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1539657394726">
         <mark key="[" line="21" column="67" />
         <mark key="]" line="18" column="75" />
         <mark key="." line="18" column="75" />
@@ -64,6 +70,14 @@
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/webpack.artifact.config.js" timestamp="1539657048694">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/.gitignore" timestamp="1539657801945">
+        <mark key="[" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/constants/frameSizes.js" timestamp="1539578529564">
         <mark key="[" line="10" column="12" />
@@ -87,17 +101,29 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1539567322455">
-        <mark key="[" line="8" column="86" />
-        <mark key="]" line="11" column="96" />
-        <mark key="." line="11" column="96" />
-        <mark key="^" line="7" column="85" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1539658998270">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="91" />
+        <mark key="^" line="10" column="91" />
+        <mark key="." line="10" column="91" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1539659003547">
+        <mark key="[" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/bs-config.js" timestamp="1539568771637">
         <mark key="[" line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/webpack.base.config.js" timestamp="1539656945787">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="46" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/scripts/deploy.sh" timestamp="1539582778425">
         <mark key="[" line="7" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/lerna.json" timestamp="1539658493534">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default.json" timestamp="1539570663962">
         <mark key="[" line="17" column="9" />
@@ -208,10 +234,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>NODE_APP_INSTANCE=dev webpack --config webpack.artifact.config.js</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>NODE_APP_INSTANCE=dev webpack --config webpack.artifact.config.js</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -223,31 +249,43 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJfX3VnbGlmeTpleGFtcGxlOmRvbUluamVjdGlvbjpwdWJUYWciOiAidWdsaWZ5anMgc3JjL2V4YW1wbGVzL2RvbUluamVjdGlvblB1YlRhZy5qcyAtLW91dHB1dCBzcmMvZXhhbXBsZXMvZG9tSW5qZWN0aW9uUHViVGFnLm1pbi5qcyAtLW1hbmdsZSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAod2luZG93LCBkb2N1bWVudCwgInNjcmlwdCIsIHdpbmRvdy5sb2NhdGlvbi5ob3N0bmFtZSA9PT0gImxvY2FsaG9zdCIgPyAiaHR0cDovL2xvY2FsaG9zdDozMDAzL3B1Yi5qcyIgOiB3aW5kb3cubG9jYXRpb24ucHJvdG9jb2wgKyAiLy8iICsgd2luZG93LmxvY2F0aW9uLmhvc3RuYW1lICsgIi9wdWIuanMiKTsK</text>
+      <register name="3" type="4">
+        <text>// process.env.NODE_CONFIG_DIR = path.resolve(__dirname, './config')
+// const CONFIG = require('config');
+//
+// console.log('NODE_ENV:          ' + CONFIG.util.getEnv('NODE_ENV'))
+// console.log('NODE_APP_INSTANCE: ' + CONFIG.util.getEnv('NODE_APP_INSTANCE'))
+// console.log('NODE_CONFIG_DIR:   ' + CONFIG.util.getEnv('NODE_CONFIG_DIR'))
+// console.log('CONFIG:            ' + '\n' + JSON.stringify(CONFIG, null , '  '))
+//
+// const VERSION = process.env.npm_package_version;
+//
+// if (VERSION) {
+//   console.log(`App version ${VERSION}.`);
+// }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoZnVuY3Rpb24oZSx0LGEsbil7dmFyIHI9TWF0aC5mbG9vcigxKm5ldyBEYXRlLzFlNCkqMTAsbz10LmNyZWF0ZUVsZW1lbnQoYSkscz10LmdldEVsZW1lbnRzQnlUYWdOYW1lKGEpWzBdO28uYXN5bmM9MTtvLnNyYz1uKyI/dGltZXN0YW1wPSIrcjtzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKG8scyl9KQo=</text>
+        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dGltZXN0YW1wID0gTWF0aC5mbG9vcigxICogbmV3IERhdGUgLyAxMDAwMCkgKiAxMCwKICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWxlbWVudCA9IF9kb2N1bWVudC5jcmVhdGVFbGVtZW50KHRhZ05hbWUpLAo=</text>
+        <text encoding="base64">ICAgIHBvcnQ6IDMwMDMsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciB0aW1lc3RhbXAgPSBNYXRoLmZsb29yKDEgKiBuZXcgRGF0ZSAvIDEwMDAwKSAqIDEwLAo=</text>
+        <text encoding="base64">ICBkZXZTZXJ2ZXI6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXZ0b29sOiAnc291cmNlLW1hcCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
