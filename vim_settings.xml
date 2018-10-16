@@ -81,6 +81,12 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/index.js" timestamp="1539578580248">
         <mark key="[" line="14" column="87" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/core/ad/core.ts" timestamp="1539685813007">
+        <mark key="[" line="599" column="64" />
+        <mark key="]" line="599" column="64" />
+        <mark key="." line="599" column="64" />
+        <mark key="^" line="333" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default-local.json" timestamp="1539668948057">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="19" />
