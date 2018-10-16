@@ -60,10 +60,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1539664403785">
-        <mark key="[" line="21" column="67" />
-        <mark key="]" line="18" column="75" />
-        <mark key="." line="18" column="75" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1539665257917">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
         <mark key="^" line="18" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/config/default-prd.json" timestamp="1539653364465">
@@ -101,11 +101,11 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1539663276862">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1539664864372">
         <mark key="[" line="11" column="64" />
-        <mark key="]" line="35" column="1" />
-        <mark key="^" line="35" column="1" />
-        <mark key="." line="35" column="1" />
+        <mark key="]" line="28" column="1" />
+        <mark key="^" line="28" column="1" />
+        <mark key="." line="28" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/webpack.config.js" timestamp="1539664460351">
         <mark key="[" line="4" column="0" />
@@ -236,7 +236,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>NODE_APP_INSTANCE=dev webpack --config webpack.artifact.config.js</text>
@@ -251,43 +251,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">CQldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJInN0YWdlLTAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJImVzMjAxNSIsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>// process.env.NODE_CONFIG_DIR = path.resolve(__dirname, './config')
-// const CONFIG = require('config');
-//
-// console.log('NODE_ENV:          ' + CONFIG.util.getEnv('NODE_ENV'))
-// console.log('NODE_APP_INSTANCE: ' + CONFIG.util.getEnv('NODE_APP_INSTANCE'))
-// console.log('NODE_CONFIG_DIR:   ' + CONFIG.util.getEnv('NODE_CONFIG_DIR'))
-// console.log('CONFIG:            ' + '\n' + JSON.stringify(CONFIG, null , '  '))
-//
-// const VERSION = process.env.npm_package_version;
-//
-// if (VERSION) {
-//   console.log(`App version ${VERSION}.`);
-// }</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkicHJlc2V0cyI6IFsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
+        <text encoding="base64">CSJiYWJlbCI6IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">CQldCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcnQ6IDMwMDMsCg==</text>
+        <text encoding="base64">CQkJInN0YWdlLTAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
