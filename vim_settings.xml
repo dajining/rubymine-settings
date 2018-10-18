@@ -14,12 +14,13 @@
         <mark key="]" line="15" column="38" />
         <mark key="." line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/core/ad/core.ts" timestamp="1539831153130">
-        <mark key="[" line="254" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/core/ad/core.ts" timestamp="1539839141397">
+        <mark key="[" line="368" column="107" />
         <mark key="]" line="254" column="0" />
         <mark key="." line="254" column="0" />
         <mark key="^" line="339" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/video.ts" timestamp="1539835981179" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default-local.json" timestamp="1539668948057">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="19" />
@@ -29,7 +30,7 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/320x100/1/320x100.ts" timestamp="1539831322303">
         <mark key="[" line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1539833345014">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1539838968309">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -94,7 +95,7 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/node_modules/loglevel-plugin-prefix/index.d.ts" timestamp="1539678394870">
         <mark key="[" line="14" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" timestamp="1539831482029" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" timestamp="1539836061032" />
       <file name="$USER_HOME$/workspace/car-gva-tag/Makefile" timestamp="1539669994925">
         <mark key="[" line="30" column="19" />
       </file>
