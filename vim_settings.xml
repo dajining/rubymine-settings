@@ -40,20 +40,17 @@
         <mark key="^" line="40" column="41" />
         <mark key="." line="40" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/frame.ts" timestamp="1539831207839">
-        <mark key="[" line="104" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/thumbnail/1/thumbnail.ts" timestamp="1539831270540">
-        <mark key="[" line="35" column="32" />
-      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/300x250/button_1/300x250.ts" timestamp="1539831304206">
         <mark key="[" line="35" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/320x50/2/320x50.ts" timestamp="1539831307903">
         <mark key="[" line="34" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/utils/compileHtml.js" timestamp="1539833483002">
-        <mark key="[" line="18" column="14" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/utils/compileHtml.js" timestamp="1539835047086">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="36" column="2" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1539669939445">
         <mark key="[" line="26" column="17" />
@@ -104,10 +101,10 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/constants/levels.ts" timestamp="1539679198057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/player.ts" timestamp="1539833900154">
-        <mark key="[" line="63" column="30" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/player.ts" timestamp="1539835335227">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/300x250/2_1/300x250.ts" timestamp="1539831297224">
         <mark key="[" line="39" column="32" />
@@ -156,8 +153,10 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/300x250/3_2/300x250.ts" timestamp="1539831311319">
         <mark key="[" line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdContainer.jsx" timestamp="1539833218921">
-        <mark key="[" line="37" column="48" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdContainer.jsx" timestamp="1539835272689">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default-prd.json" timestamp="1539833511411">
         <mark key="[" line="8" column="11" />
@@ -234,11 +233,11 @@
       <jump line="6" column="36" filename="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/createLogger.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiX29wdGlvbnMiLCBfb3B0aW9ucyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -250,31 +249,59 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiX29wdGlvbnMiLCBfb3B0aW9ucyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnBhcmFtcy51c2VDYW52YXMgPSB0aGlzLm9wdGlvbnMudXNlQ2FudmFzOwo=</text>
+        <text encoding="base64">ICAgIH0pZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlQ2FudmFzOiBmYWxzZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGNvbnN0IHsgZnJhbWVUeXBlLCBtZWRpdW1JZCwgcGxhY2VtZW50TmFtZSwgdXNlQ2FudmFzLCB2IH0gPSBuZXh0UHJvcHMKICAgIGNvbnN0IGRhdGEgPSB7IGZyYW1lVHlwZSwgbWVkaXVtSWQsIHBsYWNlbWVudE5hbWUsIHVzZUNhbnZhcyB9CiAgICBjb25zdCBodG1sID0gY29tcGlsZUh0bWwoewogICAgICBsYXlvdXRUZW1wbGF0ZVJlbmRlcmVyLAogICAgICBzY3JpcHRUYWdUZW1wbGF0ZVJlbmRlcmVyOiB2ID09PSAnMScKICAgICAgICA/IHNjcmlwdFRhZ1YxVGVtcGxhdGVSZW5kZXJlcgogICAgICAgIDogdiA9PT0gJzInCiAgICAgICAgICA/IHNjcmlwdFRhZ1YyVGVtcGxhdGVSZW5kZXJlcgogICAgICAgICAgOiBzY3JpcHRUYWdUZW1wbGF0ZVJlbmRlcmVyLAogICAgICBkYXRhLA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+      <register name="6" type="4">
+        <text>html: compileHtml({
+      layoutTemplateRenderer,
+      scriptTagTemplateRenderer: this.props.v === '1'
+        ? scriptTagV1TemplateRenderer
+        : this.props.v === '2'
+          ? scriptTagV2TemplateRenderer
+          : scriptTagTemplateRenderer,
+      data: {
+        frameType: this.props.frameType,
+        mediumId: this.props.mediumId,
+        placementName: this.props.placementName,
+        useCanvas: this.props.useCanvas,
+      },
+    }),</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="7" type="4">
+        <text>{
+  compileHtml({
+    layoutTemplateRenderer,
+    scriptTagTemplateRenderer: this.props.v === '1'
+      ? scriptTagV1TemplateRenderer
+      : this.props.v === '2'
+        ? scriptTagV2TemplateRenderer
+        : scriptTagTemplateRenderer,
+    data: {
+      frameType: this.props.frameType,
+      mediumId: this.props.mediumId,
+      placementName: this.props.placementName,
+      useCanvas: this.props.useCanvas,
+    },
+  }),
+}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiZGF0YSIsIGRhdGEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coImRhdGEiLCBkYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
