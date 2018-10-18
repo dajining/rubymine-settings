@@ -83,6 +83,7 @@
         <mark key="." line="41" column="35" />
         <mark key="^" line="41" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" timestamp="1539856232309" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/logger.ts" timestamp="1539848983604">
         <mark key="[" line="0" column="0" />
       </file>
@@ -175,11 +176,9 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" timestamp="1539852316131">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" timestamp="1539856827326">
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/320x70/2/320x70.ts" timestamp="1539831283797">
         <mark key="[" line="34" column="32" />
@@ -227,7 +226,7 @@
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/node_modules/@types/loglevel/index.d.ts" timestamp="1539851889390" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/node_modules/@types/loglevel/index.d.ts" timestamp="1539856609851" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdContainer.jsx" timestamp="1539835272689">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -303,8 +302,8 @@
       <jump line="8" column="23" filename="$USER_HOME$/workspace/car-gva-tag/packages/logger/__tests__/index.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>debug ? log.levels.DEBUG : log.levels.INFO)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>debug ? log.levels.DEBUG : log.levels.INFO)</text>
@@ -319,31 +318,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ0xldmVscywK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC8vIHByZWZpeC5hcHBseShsb2dnZXIsIHsKICAgIC8vICAgICB0ZW1wbGF0ZTogIlslbl0gJWw6IiwKICAgIC8vICAgICBsZXZlbEZvcm1hdHRlcihsZXZlbDogc3RyaW5nKSB7CiAgICAvLyAgICAgICAgIHJldHVybiBsZXZlbC50b1VwcGVyQ2FzZSgpOwogICAgLy8gICAgIH0sCiAgICAvLyAgICAgbmFtZUZvcm1hdHRlcihuYW1lOiBzdHJpbmcpIHsKICAgIC8vICAgICAgICAgcmV0dXJuIG5hbWUgfHwgbG9nTmFtZTsKICAgIC8vICAgICB9LAogICAgLy8gfSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHsK</text>
+        <text encoding="base64">ICAgIHByZWZpeC5yZWcobG9nZ2VyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcHJlZml4IGZyb20gImxvZ2xldmVsLXBsdWdpbi1wcmVmaXgiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGxvZ0xldmVscywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5sb2dMZXZlbDsK</text>
+        <text encoding="base64">ZXhwb3J0IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBnZXRMZXZlbDogKCkgPT4gbnVtYmVyID0gKCkgPT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
