@@ -196,12 +196,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" timestamp="1539920015020">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" timestamp="1539925118569">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/player/1/canvas/doPlayVideo.test.ts" timestamp="1539864243188">
         <mark key="[" line="1" column="0" />
@@ -267,7 +266,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/node_modules/@types/loglevel/index.d.ts" timestamp="1539918977102" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/node_modules/@types/loglevel/index.d.ts" timestamp="1539925000183" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdContainer.jsx" timestamp="1539835272689">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -348,8 +347,17 @@
       <jump line="12" column="0" filename="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcHJlZml4IGZyb20gImxvZ2xldmVsLXBsdWdpbi1wcmVmaXgiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>interface LogLevels {
+    TRACE: number;
+    DEBUG: number;
+    INFO: number;
+    WARN: number;
+    ERROR: 4;
+    SILENT: 5;
+}
+
+type LogLevelNumbers = LogLevel[keyof LogLevel];</text>
       </register>
       <register name="-" type="4">
         <text>&quot;]</text>
@@ -363,32 +371,50 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcHJlZml4IGZyb20gImxvZ2xldmVsLXBsdWdpbi1wcmVmaXgiOwo=</text>
+      <register name="1" type="4">
+        <text>interface LogLevels {
+    TRACE: number;
+    DEBUG: number;
+    INFO: number;
+    WARN: number;
+    ERROR: 4;
+    SILENT: 5;
+}
+
+type LogLevelNumbers = LogLevel[keyof LogLevel];</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByZWZpeGVyID0gcHJlZml4Lm5vQ29uZmxpY3QoKTsgLy8gQHRzLWlnbm9yZQo=</text>
+      <register name="2" type="4">
+        <text>type LogLevelNumbers = LogLevels[keyof LogLevels];
+
+type LogLevel = LogLevelNumbers
+    | &quot;trace&quot;
+    | &quot;debug&quot;
+    | &quot;info&quot;
+    | &quot;warn&quot;
+    | &quot;error&quot;
+    | &quot;silent&quot;
+    | keyof LogLevels;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtMb2dMZXZlbERlc2N9IGZyb20gImxvZ2xldmVsIjsK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIHByZWZpeGVyLnJlZyhsb2dnZXIpOwogICAgcHJlZml4ZXIuYXBwbHkobG9nZ2VyLCB7CiAgICAgICAgdGVtcGxhdGU6ICJbJW5dICVsOiIsCiAgICAgICAgbGV2ZWxGb3JtYXR0ZXIobGV2ZWw6IHN0cmluZykgewogICAgICAgICAgICByZXR1cm4gbGV2ZWwudG9VcHBlckNhc2UoKTsKICAgICAgICB9LAogICAgICAgIG5hbWVGb3JtYXR0ZXIobmFtZTogc3RyaW5nKSB7CiAgICAgICAgICAgIHJldHVybiBuYW1lIHx8ICJHVlAiOwogICAgICAgIH0sCiAgICB9KTs=</text>
+        <text encoding="base64">Cm5hbWVzcGFjZSBMb2dnZXIgewoKCgoKCn0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5zZXRMZXZlbChsb2dMZXZlbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByZWZpeGVyID0gcHJlZml4WyJub0NvbmZsaWN0Il0K</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIuLi8uLi9ub2RlX21vZHVsZXMiCg==</text>
+        <text encoding="base64">ICAgIGxvZ0xldmVscywK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAiaW5jbHVkZSI6IFsKICAgICIuLyoudHMrKHx4KSIsCiAgICAiLi8qKi8qLnRzKyh8eCkiCiAgXQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZUxvZ2dlciwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
