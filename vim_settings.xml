@@ -43,7 +43,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/index.d.ts" timestamp="1540197975876" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/rollup.config.js" timestamp="1539931952722">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -83,11 +82,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540197922786">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="7" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540204216683">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="17" />
         <mark key="^" line="15" column="64" />
-        <mark key="." line="15" column="7" />
+        <mark key="." line="15" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/player.ts" timestamp="1539835335227">
         <mark key="[" line="62" column="0" />
@@ -207,10 +206,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" timestamp="1540200257051">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" timestamp="1540204771380">
+        <mark key="'" line="68" column="51" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/player/1/canvas/doPlayVideo.test.ts" timestamp="1539864243188">
         <mark key="[" line="1" column="0" />
@@ -279,7 +279,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/node_modules/@types/loglevel/index.d.ts" timestamp="1540197993742" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdContainer.jsx" timestamp="1540192962870">
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -289,7 +288,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/node_modules/log4js/types/log4js.d.ts" timestamp="1540198516390" />
     </filemarks>
     <jumps>
       <jump line="153" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
@@ -359,49 +357,50 @@
       <jump line="6" column="0" filename="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" />
       <jump line="3" column="9" filename="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" />
+      <jump line="68" column="51" filename="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0TG9nZ2VyLCBMb2dnZXIgfSBmcm9tICJsb2c0anMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>levels</text>
+        <text>logLevels</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
       </register>
       <register name="0" type="4">
-        <text>MediumDetail</text>
+        <text>Console</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0TG9nZ2VyLCBMb2dnZXIgfSBmcm9tICJsb2c0anMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY3JlYXRlTG9nZ2VyOiAobG9nTmFtZTogc3RyaW5nKSA9PiBMb2dnZXIgPSAobG9nTmFtZTogc3RyaW5nKSA9PiB7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgbm9ybWFsaXplTWV0aG9kTmFtZShsb2dNZXRob2Q6IExvZ01ldGhvZCk6IHN0cmluZyB7CiAgICAgICAgaWYgKGxvZ01ldGhvZCA9PT0gImRlYnVnIikgewogICAgICAgICAgICByZXR1cm4gImxvZyIKICAgICAgICB9IGVsc2UgewoKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcihsb2dOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kTmFtZSA9ICJsb2ciOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5sZXZlbCA9ICJkZWJ1ZyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWV0aG9kTmFtZSA9PT0gImRlYnVnIikgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWV0aG9kTmFtZTogc3RyaW5nID0gbG9nTWV0aG9kOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsb2dnZXI7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmV4cG9ydCB7CiAgICBsb2dMZXZlbHMsCn07</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IGdldExldmVsOiAoKSA9PiB2b2lkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
