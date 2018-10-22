@@ -8,10 +8,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/levels.ts" timestamp="1539846766291">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/levels.ts" timestamp="1540200314429">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/core/ad/vast/dicideExtension.test.ts" timestamp="1539864171043">
         <mark key="[" line="0" column="0" />
@@ -207,11 +207,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" timestamp="1540198541600">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="5" column="19" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" timestamp="1540200257051">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/player/1/canvas/doPlayVideo.test.ts" timestamp="1539864243188">
         <mark key="[" line="1" column="0" />
@@ -362,8 +361,8 @@
       <jump line="3" column="9" filename="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>levels</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZ2V0TG9nZ2VyLCBMb2dnZXIgfSBmcm9tICJsb2c0anMiOwo=</text>
       </register>
       <register name="-" type="4">
         <text>levels</text>
@@ -378,31 +377,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0TG9nZ2VyLCBMb2dnZXIgfSBmcm9tICJsb2c0anMiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC4uLmxvZy5Mb2dnZXIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIExvZ2dlciB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTG9nZ2VyCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgY3JlYXRlTG9nZ2VyOiAobG9nTmFtZTogc3RyaW5nKSA9PiBMb2dnZXIgPSAobG9nTmFtZTogc3RyaW5nKSA9PiB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGxvZ2dlciA9IGdldExvZ2dlcihsb2dOYW1lKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5sZXZlbCA9ICJkZWJ1ZyI7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBsb2dnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgTG9nZ2VyIHsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
