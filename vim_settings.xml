@@ -87,10 +87,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540535812686">
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="41" column="25" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540537681700">
+        <mark key="[" line="172" column="112" />
+        <mark key="]" line="163" column="67" />
+        <mark key="." line="163" column="67" />
+        <mark key="^" line="163" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/player.ts" timestamp="1540282457884">
         <mark key="[" line="62" column="0" />
@@ -403,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>DOMRect</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>DOMRect</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -418,31 +419,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmFrZXIuc2V0TG9jYWxlKCJqYSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZha2VyIGZyb20gJ2Zha2VyJwo=</text>
+        <text encoding="base64">ZmFrZXIuc2V0TG9jYWxlKCJqYSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEluVmlld091dFZpZXdDb250YWluZXIgZnJvbSAnLi4vc3JjL2NvbXBvbmVudHMvSW5WaWV3T3V0Vmlld0NvbnRhaW5lcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEFkQ29udGFpbmVyIGZyb20gJy4uL3NyYy9jb21wb25lbnRzL0FkQ29udGFpbmVyJwo=</text>
+        <text encoding="base64">aW1wb3J0IGZha2VyIGZyb20gJ2Zha2VyJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IEluVmlld091dFZpZXdDb250YWluZXIgZnJvbSAnLi4vc3JjL2NvbXBvbmVudHMvSW5WaWV3T3V0Vmlld0NvbnRhaW5lcicK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IDxGYWtlCiAgICAgICAgICAgIGhlYWRlcgogICAgICAgICAgICBsaW5lPXszfQogICAgICAgICAgICByZXBlYXQ9ezV9CiAgICAgICAgICAgIHR5cGU9ImMiCiAgICAgICAgICAvPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEFkQ29udGFpbmVyIGZyb20gJy4uL3NyYy9jb21wb25lbnRzL0FkQ29udGFpbmVyJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PEZha2UKICAgICAgICAgICAgaGVhZGVyCiAgICAgICAgICAgIGxpbmU9ezEwfQogICAgICAgICAgICByZXBlYXQ9ezJ9CiAgICAgICAgICAgIHR5cGU9InAiCiAgICAgICAgICAvPg==</text>
+        <text encoding="base64">IDxGYWtlCiAgICAgICAgICAgIGhlYWRlcgogICAgICAgICAgICBsaW5lPXszfQogICAgICAgICAgICByZXBlYXQ9ezV9CiAgICAgICAgICAgIHR5cGU9ImMiCiAgICAgICAgICAvPg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
