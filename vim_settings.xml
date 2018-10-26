@@ -87,11 +87,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540539177037">
-        <mark key="[" line="172" column="195" />
-        <mark key="]" line="172" column="195" />
-        <mark key="." line="172" column="195" />
-        <mark key="^" line="90" column="8" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540547034869">
+        <mark key="[" line="182" column="35" />
+        <mark key="]" line="182" column="35" />
+        <mark key="." line="182" column="35" />
+        <mark key="^" line="190" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/player.ts" timestamp="1540282457884">
         <mark key="[" line="62" column="0" />
@@ -323,7 +323,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdFrame.jsx" timestamp="1540545032323">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdFrame.jsx" timestamp="1540545033278">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
@@ -419,11 +419,11 @@
       <jump line="90" column="37" filename="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{ left: number, top: number, width: number, height: number }</text>
       </register>
       <register name="-" type="4">
-        <text>logFormat</text>
+        <text>{ left: number, top: number, width: number, height: number }</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -435,31 +435,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsgbGVmdCwgdG9wLCB3aWR0aCwgaGVpZ2h0IH07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH1dLAo=</text>
+        <text encoding="base64">ICAgIGluVmlld1BlcmNlbnRhZ2U6IG51bWJlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGFyZ2V0OiAnaHR0cDovL2xvY2FsaG9zdDozMDAzJywK</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IHBsYWNlbWVudDogc3RyaW5nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGF0aDogYC9qcy8qYCwK</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IG1JRDogbnVtYmVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3h5OiBbewo=</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IG9yaWdpbjogTG9jYXRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWZhdWx0Q29uZmlnLmRldlNlcnZlciA9IHsK</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IHdpbjogd2luZG93Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBBZGQgcHJveHkgc2V0dGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wb3N0SW5WaWV3UGVyY2VudGFnZShhZERhdGEsIGluVmlld1BlcmNlbnRhZ2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWREYXRhLmluVmlld1BlcmNlbnRhZ2UgPSBpblZpZXdQZXJjZW50YWdlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
