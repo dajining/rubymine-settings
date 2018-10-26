@@ -87,10 +87,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540531623068">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540535812686">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="25" />
+        <mark key="." line="41" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/player.ts" timestamp="1540282457884">
         <mark key="[" line="62" column="0" />
@@ -403,10 +403,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>lograge</text>
