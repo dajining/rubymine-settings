@@ -28,10 +28,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1540523939906">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="40" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/templates/scriptTag.mustache" timestamp="1540549697394">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/logger/src/prepareLogger.ts" timestamp="1539846521044">
         <mark key="[" line="7" column="0" />
@@ -87,11 +87,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540547034869">
-        <mark key="[" line="182" column="35" />
-        <mark key="]" line="182" column="35" />
-        <mark key="." line="182" column="35" />
-        <mark key="^" line="190" column="55" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540553070258">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/player.ts" timestamp="1540282457884">
         <mark key="[" line="62" column="0" />
@@ -160,11 +159,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/index.js" timestamp="1540534110672">
-        <mark key="[" line="53" column="29" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="14" column="5" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/index.js" timestamp="1540549746656">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="55" column="11" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/player/1/indicator.test.ts" timestamp="1539864160941">
         <mark key="[" line="0" column="0" />
@@ -328,7 +327,11 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/preview-head.html" timestamp="1540544584826" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/preview-head.html" timestamp="1540549711892">
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/log-format/src/index.ts" timestamp="1540525560188">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="26" column="2" />
@@ -419,11 +422,11 @@
       <jump line="90" column="37" filename="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{ left: number, top: number, width: number, height: number }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{ left: number, top: number, width: number, height: number }</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -435,31 +438,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsgbGVmdCwgdG9wLCB3aWR0aCwgaGVpZ2h0IH07Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGluVmlld1BlcmNlbnRhZ2U6IG51bWJlcjsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IHBsYWNlbWVudDogc3RyaW5nOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IG1JRDogbnVtYmVyOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IG9yaWdpbjogTG9jYXRpb247Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IHdpbjogd2luZG93Owo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gfQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wb3N0SW5WaWV3UGVyY2VudGFnZShhZERhdGEsIGluVmlld1BlcmNlbnRhZ2UpOwo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWREYXRhLmluVmlld1BlcmNlbnRhZ2UgPSBpblZpZXdQZXJjZW50YWdlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUuZGVidWcodGhpcy5sb2dGb3JtYXQuZGVidWcsICJjYWxjdWxhdGVWaWV3YWJpbGl0eSIsIHsgaW5WaWV3UGVyY2VudGFnZSB9KTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRoaXMub3B0aW9ucy5kZWJ1Zykgewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gaWYgKGFkRGF0YS5pblZpZXdQZXJjZW50YWdlICE9PSBpblZpZXdQZXJjZW50YWdlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
