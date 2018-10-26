@@ -205,6 +205,11 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/tsconfig.json" timestamp="1540295980491">
         <mark key="[" line="13" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/webpack.config.js" timestamp="1540541560482">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/config/_development.test.ts" timestamp="1539864246226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -312,10 +317,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdFrame.jsx" timestamp="1540539858674">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdFrame.jsx" timestamp="1540540534029">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/preview-head.html" timestamp="1540533082676" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/log-format/src/index.ts" timestamp="1540525560188">
@@ -408,11 +413,11 @@
       <jump line="90" column="37" filename="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{ variables, scriptTag, html }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{ variables, scriptTag, html }</text>
+        <text>logFormat</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -424,31 +429,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH1dLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmFrZXIuc2V0TG9jYWxlKCJqYSIpCg==</text>
+        <text encoding="base64">ICAgICAgdGFyZ2V0OiAnaHR0cDovL2xvY2FsaG9zdDozMDAzJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGF0aDogYC9qcy8qYCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGZha2VyIGZyb20gJ2Zha2VyJwo=</text>
+        <text encoding="base64">ICAgIHByb3h5OiBbewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEluVmlld091dFZpZXdDb250YWluZXIgZnJvbSAnLi4vc3JjL2NvbXBvbmVudHMvSW5WaWV3T3V0Vmlld0NvbnRhaW5lcicK</text>
+        <text encoding="base64">ICBkZWZhdWx0Q29uZmlnLmRldlNlcnZlciA9IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEFkQ29udGFpbmVyIGZyb20gJy4uL3NyYy9jb21wb25lbnRzL0FkQ29udGFpbmVyJwo=</text>
+        <text encoding="base64">ICAvLyBBZGQgcHJveHkgc2V0dGluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDxGYWtlCiAgICAgICAgICAgIGhlYWRlcgogICAgICAgICAgICBsaW5lPXszfQogICAgICAgICAgICByZXBlYXQ9ezV9CiAgICAgICAgICAgIHR5cGU9ImMiCiAgICAgICAgICAvPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
