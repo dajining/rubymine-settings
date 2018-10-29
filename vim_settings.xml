@@ -47,7 +47,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/checkElementStyle.ts" timestamp="1540818385286">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/checkElementStyle.ts" timestamp="1540821973858">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -57,11 +57,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540820987144">
-        <mark key="[" line="162" column="18" />
-        <mark key="]" line="162" column="18" />
-        <mark key="." line="162" column="18" />
-        <mark key="^" line="161" column="7" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540822241106">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/example.js" timestamp="1540804271115" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/core/ad/vast/setTrackingEventOffsets.test.ts" timestamp="1539864216501">
@@ -117,7 +116,7 @@
         <mark key="]" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/amoad-tag.js" timestamp="1540820975820" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/amoad-tag.js" timestamp="1540821577982" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/message-box/src/message-box.ts" timestamp="1540798377832">
         <mark key="[" line="46" column="15" />
         <mark key="]" line="50" column="0" />
@@ -232,18 +231,17 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleWindowRect.ts" timestamp="1540819732881">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="25" column="74" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleWindowRect.ts" timestamp="1540822097294">
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="61" />
+        <mark key="." line="5" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/player/1/video/options.test.ts" timestamp="1539864149152">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/amoad-view.js" timestamp="1540820589085" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/amoad-view.js" timestamp="1540821691041" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/checkParentIsNone.ts" timestamp="1540818379246">
         <mark key="[" line="2" column="45" />
         <mark key="]" line="2" column="45" />
@@ -434,8 +432,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/index.ts" timestamp="1540818142012">
-        <mark key="[" line="7" column="67" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/index.ts" timestamp="1540821979831">
+        <mark key="[" line="8" column="0" />
         <mark key="]" line="7" column="67" />
         <mark key="^" line="7" column="67" />
         <mark key="." line="7" column="67" />
@@ -587,11 +585,11 @@
       <jump line="46" column="8" filename="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/Rectangle/Rectangle.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: number</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>: number</text>
+        <text>fromWindow</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -602,32 +600,32 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KQogICAgICAgIAogICAgICAgIHByaXZhdGUgZ2V0R2xvYmFsVmlzaWJsZVdpbmRvd1JlY3Q6ICh3aW46IFdpbmRvdykgPT4gcmVjdFV0aWxzLlJlY3RhbmdsZSA9ICh3aW4pID0+IHsKICAgICAgICAgICAgcmV0dXJuIGRvbVV0aWxzLmNvbnRhaW5zQ3Jvc3NPcmlnaW5TdWJmcmFtZSh3aW4pCiAgICAgICAgICAgICAgICA/IG5ldyByZWN0VXRpbHMuUmVjdGFuZ2xlKDAsIDAsIDAsIDApCiAgICAgICAgICAgICAgICA6IG5ldyByZWN0VXRpbHMuUmVjdGFuZ2xlKDAsIDAsIDAsIDApOwogICAgICAgIH0KCiAgICAvLyAgICAgdC5wcm90b3R5cGUucmVnaXN0ZXJNZXNzYWdlUmVjZWl2ZXIgPSBmdW5jdGlvbigpIHsKICAgIC8vICAgICAgICAgdmFyIHQgPSB0aGlzOwogICAgLy8gICAgICAgICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigibWVzc2FnZSIsIGZ1bmN0aW9uKGkpIHsKICAgIC8vICAgICAgICAgICAgIHZhciBuID0gZS5XZWJNZXNzYWdpbmdVdGlscy5nZXRNZXNzYWdlRnJvbShpLmRhdGEpOwogICAgLy8gICAgICAgICAgICAgaWYgKG4gaW5zdGFuY2VvZiBlLlZpZXdhYmlsaXR5TW9uaXRvcmluZ1JlcXVlc3RNZXNzYWdlKSB7CiAgICAvLyAgICAgICAgICAgICAgICAgaWYgKHQuc2lkcy5pbmRleE9mKG4uc2lkKSA9PT0gLTEpCiAgICAvLyAgICAgICAgICAgICAgICAgICAgIHJldHVybiB2b2lkIGNvbnNvbGUud2FybigidW5rbm93biBzaWQ6ICIgKyBuLnNpZCk7CiAgICAvLyAgICAgICAgICAgICAgICAgdC5hZGRUYXJnZXQoaS5zb3VyY2UsIGkub3JpZ2luLCBuLnNpZCkKICAgIC8vICAgICAgICAgICAgIH0KICAgIC8vICAgICAgICAgICAgIG4gaW5zdGFuY2VvZiBlLldlYlZpZXdWaWV3YWJpbGl0eU1vbml0b3JpbmdSZXN1bHRNZXNzYWdlICYmICh0LndlYlZpZXdSZWN0ID0gdC5jYWxjV2ViVmlld1Zpc2libGVSZWN0KG4ud2ViVmll</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuIGluc3RhbmNlb2YgZS5XZWJWaWV3Vmlld2FiaWxpdHlNb25pdG9yaW5nUmVzdWx0TWVzc2FnZSAmJiAodC53ZWJWaWV3UmVjdCA9IHQuY2FsY1dlYlZpZXdWaXNpYmxlUmVjdChuLndlYlZpZXcsIG4udmlzaWJsZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNhbGNXZWJWaWV3VmlzaWJsZVJlY3QoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlY3RhbmdsZSgwLCAwLCAwLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgemVyb1JlY3RhbmdsZTogKCkgPT4gUmVjdGFuZ2xlID0gKCkgPT4gewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiByZWN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlY3RhbmdsZSh0b3AsIHJpZ2h0LCBib3R0b20sIGxlZnQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
