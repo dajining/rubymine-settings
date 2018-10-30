@@ -24,6 +24,9 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdOnlyContainer.jsx" timestamp="1540881907148">
+        <mark key="[" line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/locales/translation_ja.yml" timestamp="1540795089597" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/320x100/1/320x100.ts" timestamp="1540874644285">
         <mark key="[" line="38" column="42" />
@@ -313,7 +316,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdFrame.jsx" timestamp="1540880665509">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdFrame.jsx" timestamp="1540881872276">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
@@ -329,7 +332,12 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/message-box/package.json" timestamp="1540799252303">
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdContainer.jsx" timestamp="1540880603353" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdContainer.jsx" timestamp="1540881925839">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="32" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/player/1/canvas/draw.test.ts" timestamp="1539864131142">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -507,7 +515,7 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/InViewOutViewContainer.jsx" timestamp="1540880679246">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/InViewOutViewContainer.jsx" timestamp="1540880680331">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="5" column="0" />
@@ -541,6 +549,12 @@
         <mark key="]" line="3" column="58" />
         <mark key="." line="3" column="58" />
         <mark key="^" line="3" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/core/ad/core.ts" timestamp="1540881158417">
+        <mark key="'" line="350" column="67" />
+        <mark key="[" line="355" column="0" />
+        <mark key="]" line="355" column="0" />
+        <mark key="." line="355" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/webpack.development.config.js" timestamp="1540789682331" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/containsCrossOriginSubframe.ts" timestamp="1540866141741">
@@ -633,6 +647,12 @@
         <mark key="]" line="24" column="13" />
         <mark key="^" line="1" column="14" />
         <mark key="." line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/Rectangle/Rectangle.ts" timestamp="1540814267528">
+        <mark key="'" line="46" column="8" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/constants/version.test.ts" timestamp="1539864261268">
         <mark key="[" line="0" column="0" />
@@ -767,10 +787,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AdFrameAdFrameAdFrameAdFrameAdFrameAdFrameAdFrame</text>
+        <text>.jsx</text>
       </register>
       <register name="-" type="4">
-        <text>AdFrameAdFrameAdFrameAdFrameAdFrameAdFrameAdFrame</text>
+        <text>.jsx</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
