@@ -57,10 +57,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540822241106">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1540863891260">
+        <mark key="[" line="142" column="77" />
+        <mark key="]" line="168" column="15" />
+        <mark key="." line="168" column="15" />
+        <mark key="^" line="168" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/example.js" timestamp="1540804271115" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/core/ad/vast/setTrackingEventOffsets.test.ts" timestamp="1539864216501">
@@ -116,7 +117,7 @@
         <mark key="]" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/amoad-tag.js" timestamp="1540821577982" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/amoad-tag.js" timestamp="1540822478494" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/message-box/src/message-box.ts" timestamp="1540798377832">
         <mark key="[" line="46" column="15" />
         <mark key="]" line="50" column="0" />
@@ -231,7 +232,7 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleWindowRect.ts" timestamp="1540822097294">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleWindowRect.ts" timestamp="1540863896377">
         <mark key="[" line="5" column="61" />
         <mark key="]" line="5" column="61" />
         <mark key="." line="5" column="61" />
@@ -241,7 +242,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/amoad-view.js" timestamp="1540821691041" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/amoad-view.js" timestamp="1540863876060" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/checkParentIsNone.ts" timestamp="1540818379246">
         <mark key="[" line="2" column="45" />
         <mark key="]" line="2" column="45" />
@@ -585,11 +586,11 @@
       <jump line="46" column="8" filename="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/Rectangle/Rectangle.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o = t.getGlobalVisibleWindowRect(i.win)</text>
       </register>
       <register name="-" type="4">
-        <text>fromWindow</text>
+        <text>o = t.getGlobalVisibleWindowRect(i.win)</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
