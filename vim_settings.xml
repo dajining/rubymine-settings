@@ -134,7 +134,7 @@
         <mark key="]" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/amoad-tag.js" timestamp="1540869888743" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/amoad-tag.js" timestamp="1540871370948" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/message-box/src/message-box.ts" timestamp="1540798377832">
         <mark key="[" line="46" column="15" />
         <mark key="]" line="50" column="0" />
@@ -507,10 +507,10 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/rectUtils/Rectangle.ts" timestamp="1540870586184">
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="32" />
-        <mark key="." line="39" column="32" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/rectUtils/Rectangle.ts" timestamp="1540871525826">
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="40" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/constants/version.test.ts" timestamp="1539864261268">
         <mark key="[" line="0" column="0" />
@@ -633,7 +633,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvdy50b3AucG9zdE1lc3NhZ2UobWVzc2FnZUJveC50b01lc3NhZ2UoKSwgIioiKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>any</text>
@@ -648,31 +648,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvdy50b3AucG9zdE1lc3NhZ2UobWVzc2FnZUJveC50b01lc3NhZ2UoKSwgIioiKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IG1lc3NhZ2VCb3ggPSBuZXcgTWVzc2FnZUJveCh0aGlzLnBhcmFtcy5tSUQsIHRoaXMucGFyYW1zLnBsYWNlbWVudCwgbWVzc2FnZVR5cGVzLkhBTkRTSEFLRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5oZWlnaHQgPT09IG90aGVyLmhlaWdodDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy53aWR0aCA9PT0gb3RoZXIud2lkdGggJiYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sZWZ0ID09PSBvdGhlci5sZWZ0ICYmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5ib3R0b20gPT09IG90aGVyLmJvdHRvbSAmJgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yaWdodCA9PT0gb3RoZXIucmlnaHQgJiYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy50b3AgPT09IG90aGVyLnRvcCAmJgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBlcXVhbHM6IChvdGhlcjogUmVjdGFuZ2xlKSA9PiBib29sZWFuID0gKG90aGVyKSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgX3RoaXMuX3dpbmRvd1JlY3QgPSBtZXNzYWdlLnJlY3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvdy50b3AucG9zdE1lc3NhZ2UobWVzc2FnZUJveC50b01lc3NhZ2UoKSwgIioiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
