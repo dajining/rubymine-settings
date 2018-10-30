@@ -477,11 +477,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/index.js" timestamp="1540901718868">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/index.js" timestamp="1540901872309">
         <mark key="[" line="41" column="31" />
-        <mark key="]" line="41" column="31" />
-        <mark key="^" line="40" column="34" />
-        <mark key="." line="41" column="31" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/message-box/src/parse-message-box.ts" timestamp="1540799727457">
         <mark key="[" line="5" column="23" />
