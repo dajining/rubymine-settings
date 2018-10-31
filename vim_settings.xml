@@ -291,10 +291,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1540954681993">
-        <mark key="[" line="20" column="61" />
-        <mark key="]" line="20" column="61" />
-        <mark key="." line="20" column="61" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1540958223547">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/jest.config.js" timestamp="1539863817215">
         <mark key="[" line="6" column="23" />
@@ -764,7 +764,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50RGlkVXBkYXRlPXsoKSA9PiBjb25zb2xlLmxvZyhsb2dGb3JtYXQubG9nLCAiY29udGVudERpZFVwZGF0ZSBBZEZyYW1lIil9Cg==</text>
+        <text encoding="base64">ICAgICJyZXNldHVwIjogInJtIC1yZiBub2RlX21vZHVsZXMgJiYgeWFybiBzZXR1cCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -779,31 +779,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50RGlkVXBkYXRlPXsoKSA9PiBjb25zb2xlLmxvZyhsb2dGb3JtYXQubG9nLCAiY29udGVudERpZFVwZGF0ZSBBZEZyYW1lIil9Cg==</text>
+        <text encoding="base64">ICAgICJyZXNldHVwIjogInJtIC1yZiBub2RlX21vZHVsZXMgJiYgeWFybiBzZXR1cCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ0Zvcm1hdCBmcm9tICcuLi91dGlscy9sb2dGb3JtYXQnCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50RGlkVXBkYXRlPXsoKSA9PiBjb25zb2xlLmxvZyhsb2dGb3JtYXQubG9nLCAiY29udGVudERpZFVwZGF0ZSBBZEZyYW1lIil9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ0Zvcm1hdCBmcm9tICcuLi91dGlscy9sb2dGb3JtYXQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGxvZ0Zvcm1hdC5sb2csIHsgdmFyaWFibGVzLCBzY3JpcHRUYWcsIGh0bWwgfSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ0Zvcm1hdCBmcm9tICcuL2xvZ0Zvcm1hdCcK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGxvZ0Zvcm1hdC5sb2csIHsgdmFyaWFibGVzLCBzY3JpcHRUYWcsIGh0bWwgfSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ0Zvcm1hdCBmcm9tICcuL2xvZ0Zvcm1hdCcK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IExvZyBmcm9tICJndmEtdGFnLWFkL3NyYy91dGlsL2xvZyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpblZpZXdQZXJjZW50YWdlOiAwLAo=</text>
+        <text encoding="base64">aW1wb3J0IExvZyBmcm9tICJndmEtdGFnLWFkL3NyYy91dGlsL2xvZyI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluVmlld1BlcmNlbnRhZ2U6IG51bWJlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpblZpZXdQZXJjZW50YWdlOiAwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
