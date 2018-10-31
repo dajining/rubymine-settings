@@ -29,6 +29,9 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdOnlyContainer.jsx" timestamp="1540881907148">
         <mark key="[" line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/logUtils/index.ts" timestamp="1540950198977">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/msgUtils/WebViewViewabilityMonitoringResultMessage.ts" timestamp="1540869120082">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -59,6 +62,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/package.json" timestamp="1540949156735" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/checkElementStyle.ts" timestamp="1540866100488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -533,6 +537,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/logUtils/createLogger.ts" timestamp="1540950318497">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleElementRect.ts" timestamp="1540877559416">
         <mark key="[" line="20" column="9" />
         <mark key="]" line="18" column="48" />
@@ -713,10 +722,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZUJveCwgbWVzc2FnZVR5cGVzIH0gZnJvbSAiZ3ZhLXRhZy1tZXNzYWdlLWJveCI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>ad_title</text>
+        <text>.ts</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -728,31 +737,58 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZUJveCwgbWVzc2FnZVR5cGVzIH0gZnJvbSAiZ3ZhLXRhZy1tZXNzYWdlLWJveCI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZUJveCwgbWVzc2FnZVR5cGVzLCBwYXJzZU1lc3NhZ2VCb3gsIHBvc3RNZXNzYWdlIH0gZnJvbSAiZ3ZhLXRhZy1tZXNzYWdlLWJveCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGhyIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICApKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGxvZ2dlci5mb3JtYXRzID0gewogICAgICAgIAogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvQ29udGFpbmVyPgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5ub0NvbmZsaWN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPE1lbnUgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2PSIyIgo=</text>
+      <register name="8" type="4">
+        <text>export default createLogger;
+class LogFormat {
+    private readonly logName: string;
+
+    public readonly default: string;
+    public readonly log: string;
+    public readonly trace: string;
+    public readonly debug: string;
+    public readonly info: string;
+    public readonly warn: string;
+    public readonly error: string;
+
+    constructor(logName: string) {
+        this.logName = logName;
+
+        this.default = `[${this.logName.toUpperCase()}]`;
+        this.log = this.default;
+        this.trace =  `${this.default} TRACE`;
+        this.debug =  `${this.default} DEBUG`;
+        this.info =  `${this.default} INFO`;
+        this.warn =  `${this.default} WARN`;
+        this.error =  `${this.default} ERROR`;
+    }
+}
+
+export {
+    LogFormat,
+};</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFjZW1lbnROYW1lPXt0ZXh0KCdwbGFjZW1lbnROYW1lJywgQ09ORklHLnN0b3JpZXMuZGVmYXVsdFZhbHVlcy5wbGFjZW1lbnROYW1lKX0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
