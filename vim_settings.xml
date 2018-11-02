@@ -50,10 +50,10 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/package.json" timestamp="1540973688670">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/package.json" timestamp="1541127798940">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onDurationchangeVideo.test.ts" timestamp="1540974181912">
         <mark key="[" line="48" column="13" />
@@ -156,10 +156,10 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/checkElementIsNone.ts" timestamp="1540817600848">
         <mark key="[" line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1540973034922">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="40" />
-        <mark key="." line="19" column="40" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/package.json" timestamp="1541127878206">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/logUtils/internal/loglevel.ts" timestamp="1540972684631">
         <mark key="[" line="0" column="0" />
@@ -194,10 +194,10 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1541124485071">
-        <mark key="[" line="20" column="52" />
-        <mark key="]" line="20" column="52" />
-        <mark key="." line="20" column="52" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1541127674883">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/rectangle/1/rectangle.ts" timestamp="1540977329329">
         <mark key="[" line="2" column="0" />
@@ -387,11 +387,11 @@
         <mark key="." line="42" column="9" />
         <mark key="^" line="42" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1541125854325">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1541127872301">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="22" />
         <mark key="^" line="1" column="14" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="23" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/mocha.env.ts" timestamp="1540973172327">
         <mark key="[" line="3" column="30" />
@@ -508,10 +508,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlZGUzZDNmLi4uIFJlZmFjdG9yaW5nIHB1Yi5qcwo=</text>
+        <text encoding="base64">ICAgICJndmEtdGFnLXV0aWxzIjogIjIuMC4wLWFscGhhLjAiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>lerna exec --parallel -- rm -rf yarn-error.log built dist</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -523,31 +523,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlZGUzZDNmLi4uIFJlZmFjdG9yaW5nIHB1Yi5qcwo=</text>
+        <text encoding="base64">ICAgICJndmEtdGFnLXV0aWxzIjogIjIuMC4wLWFscGhhLjAiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICJndmEtdGFnLXV0aWxzIjogIjIuMC4wLWFscGhhLjAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJsb2dsZXZlbC1wbHVnaW4tcHJlZml4IjogIl4wLjguMCIK</text>
+        <text encoding="base64">Pj4+Pj4+PiBhNWI1MzQxLi4uIEJ1Z2ZpeCBzdG9yeWJvb2sgZm9yIGlvczpwYWNrYWdlcy91dGlscy9wYWNrYWdlLmpzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJsb2dsZXZlbCI6ICJeMS4wLjAiLAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJndmEtdGFnLWxvZy1mb3JtYXQiOiAiXjIuMC4wLWFscGhhLjAiLAo=</text>
+        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAidmVyc2lvbiI6ICIyLjAuMC1hbHBoYS4wIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJib290c3RyYXAiOiAibGVybmEgYm9vdHN0cmFwIiwK</text>
+        <text encoding="base64">ICAibmFtZSI6ICJndmEtdGFnLWxvZy1mb3JtYXQiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJib290c3RyYXAiOiAibGVybmEgYm9vdHN0cmFwIiwK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOnBhY2thZ2VzL2xvZy1mb3JtYXQvcGFja2FnZS5qc29uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmxvZ2dlci5kZWJ1Zyhsb2cuZm9ybWF0cy5kZWJ1ZywgInZpZXdhYmlsaXR5IiwgdGhpcy53aW5kb3dSZWN0KTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBhNWI1MzQxLi4uIEJ1Z2ZpeCBzdG9yeWJvb2sgZm9yIGlvcwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
