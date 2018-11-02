@@ -387,11 +387,11 @@
         <mark key="." line="42" column="9" />
         <mark key="^" line="42" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1540972878604">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="13" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1541125854325">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
         <mark key="^" line="1" column="14" />
-        <mark key="." line="24" column="13" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/mocha.env.ts" timestamp="1540973172327">
         <mark key="[" line="3" column="30" />
@@ -507,8 +507,8 @@
       <jump line="52" column="38" filename="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lerna exec --parallel -- rm -rf yarn-error.log built dist</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBlZGUzZDNmLi4uIFJlZmFjdG9yaW5nIHB1Yi5qcwo=</text>
       </register>
       <register name="-" type="4">
         <text>lerna exec --parallel -- rm -rf yarn-error.log built dist</text>
@@ -523,31 +523,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJib290c3RyYXAiOiAibGVybmEgYm9vdHN0cmFwIiwK</text>
+        <text encoding="base64">Pj4+Pj4+PiBlZGUzZDNmLi4uIFJlZmFjdG9yaW5nIHB1Yi5qcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJib290c3RyYXAiOiAibGVybmEgYm9vdHN0cmFwIiwK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmxvZ2dlci5kZWJ1Zyhsb2cuZm9ybWF0cy5kZWJ1ZywgInZpZXdhYmlsaXR5IiwgdGhpcy53aW5kb3dSZWN0KTsK</text>
+        <text encoding="base64">ICAgICJsb2dsZXZlbC1wbHVnaW4tcHJlZml4IjogIl4wLjguMCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmxvZ2dlci5kZWJ1Zyhsb2cuZm9ybWF0cy5kZWJ1ZywgInZpZXdhYmlsaXR5IiwgdGhpcy53aW5kb3dSZWN0KTsK</text>
+        <text encoding="base64">ICAgICJsb2dsZXZlbCI6ICJeMS4wLjAiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJndmEtdGFnLWxvZy1mb3JtYXQiOiAiXjIuMC4wLWFscGhhLjAiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBsb2c6IGxvZ1V0aWxzLkxvZyA9IG5ldyBsb2dVdGlscy5Mb2coIkdWQSIpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJib290c3RyYXAiOiAibGVybmEgYm9vdHN0cmFwIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nVXRpbHMgfSBmcm9tICJndmEtdGFnLXV0aWxzIjsK</text>
+        <text encoding="base64">ICAgICJib290c3RyYXAiOiAibGVybmEgYm9vdHN0cmFwIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmxvZ2dlci5kZWJ1Zyhsb2cuZm9ybWF0cy5kZWJ1ZywgInZpZXdhYmlsaXR5IiwgdGhpcy53aW5kb3dSZWN0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
