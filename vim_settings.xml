@@ -27,6 +27,11 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/log.ts" timestamp="1540976185718">
         <mark key="[" line="3" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/Button.jsx" timestamp="1541490416710">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/320x100/1/320x100.ts" timestamp="1540977345857">
         <mark key="[" line="3" column="31" />
       </file>
@@ -86,11 +91,6 @@
         <mark key="[" line="12" column="32" />
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/debug.js" timestamp="1541489526318">
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql_v0/types/content_type.rb" timestamp="1540794689055">
         <mark key="[" line="17" column="0" />
@@ -193,10 +193,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdFrame.jsx" timestamp="1541141888365">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdFrame.jsx" timestamp="1541491663450">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/adUtils/AdInfo.ts" timestamp="1541384871104">
         <mark key="[" line="1" column="4" />
@@ -221,6 +221,12 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/message-box/package.json" timestamp="1540799252303">
         <mark key="[" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdContainer.jsx" timestamp="1541491674535">
+        <mark key="[" line="90" column="11" />
+        <mark key="]" line="90" column="11" />
+        <mark key="^" line="90" column="11" />
+        <mark key="." line="90" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/config/default-local.json" timestamp="1540982787565">
         <mark key="[" line="0" column="1" />
@@ -345,6 +351,7 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/core/1/core.ts" timestamp="1540976216263">
         <mark key="[" line="5" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/constants/frameSizes.js" timestamp="1541490550722" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/index.ts" timestamp="1540876972289">
         <mark key="[" line="0" column="0" />
       </file>
@@ -468,11 +475,11 @@
       <jump line="52" column="38" filename="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>aaaaaa</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>aaaaaa</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -484,31 +491,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkRGVjb3JhdG9yKChzdG9yeSkgPT4gPGRpdiBzdHlsZT17eyBwYWRkaW5nOiAnMjAgMCcsIGJveFNpemlkZG5nOiAnYm9yZGVyLWJveCcgfX0+e3N0b3J5KCl9PC9kaXY+ICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBzZXNzaW9uSWQoKSB7CiAgICByZXR1cm4gZ2V0KHRoaXMucmVmcy5mcmFtZSwgJ25vZGUuY29udGVudFdpbmRvdy5HcmF0ZWZ1bFZpZGVvLnBhcmFtcy52YXN0LmFkLmNvbnRlbnQuaW5saW5lLmNvbnRlbnQuaW1wcmVzc2lvbi5pZCcpCiAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">YWRkRGVjb3JhdG9yKChzdG9yeSkgPT4gPGRpdiBzdHlsZT17eyBwYWRkaW5nOiAnMjAgMCcsIGJveFNpemlkZG5nOiAnYm9yZGVyLWJveCcgfX0+e3N0b3J5KCl9PC9kaXY+ICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdCA9PT0gMCA/IDEwMDAgLyA2MCA6IHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZnJhbWVOdW1iZXIgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3RhcnRUaW1lID0gbmV3IERhdGUoKS5nZXRUaW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdCA9PT0gMCA/IDEwMDAgLyA2MCA6IHJlc3VsdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRUaW1lID4gMSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
