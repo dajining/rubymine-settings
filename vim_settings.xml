@@ -252,10 +252,11 @@
         <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/rectUtils/parseRectangleFromElement.ts" timestamp="1541730456213" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/getGlobalVisibleElementRect.test.ts" timestamp="1541740407756">
-        <mark key="[" line="158" column="21" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/getGlobalVisibleElementRect.test.ts" timestamp="1541742210612">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="98" column="40" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/webpack.artifact.config.js" timestamp="1541144283840">
         <mark key="[" line="4" column="30" />
@@ -272,7 +273,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleElementRect.ts" timestamp="1541740375782">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleElementRect.ts" timestamp="1541740912032">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -457,10 +458,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZWxlbWVudC5vd25lckRvY3VtZW50LmRlZmF1bHRWaWV3KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>10000</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -472,31 +473,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZWxlbWVudC5vd25lckRvY3VtZW50LmRlZmF1bHRWaWV3KTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZWxlbWVudC5vd25lckRvY3VtZW50LmRlZmF1bHRWaWV3KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWZyYW1lRWxlbWVudCkgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gZXhwb3J0IGRlZmF1bHQgZ2V0R2xvYmFsVmlzaWJsZUVsZW1lbnRSZWN0Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gfTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgIHJldHVybiByZWN0Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICByZWN0ID0gcmVjdFV0aWxzLmdldEludGVyc2VjdFJlY3QocmVjdCwgd2luZG93UmVjdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoKGUpIHsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAvLyB3aW5kb3dSZWN0IOOBruaMh+WumuOBjOOBguOCi+OBqOOBjeOBr+OAgeacgOW+jOOBqyB3aW5kb3dSZWN0IOS4iuOBp+OBruWPr+imlumgmOWfn+OCkuWPluOBo+OBpui/lOOBmQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
