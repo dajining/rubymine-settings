@@ -252,11 +252,10 @@
         <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/rectUtils/parseRectangleFromElement.ts" timestamp="1541730456213" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/getGlobalVisibleElementRect.test.ts" timestamp="1541742210612">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="98" column="40" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/getGlobalVisibleElementRect.test.ts" timestamp="1541743024156">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/webpack.artifact.config.js" timestamp="1541144283840">
         <mark key="[" line="4" column="30" />
@@ -273,7 +272,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleElementRect.ts" timestamp="1541740912032">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleElementRect.ts" timestamp="1541742729030">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -458,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>const</text>
@@ -473,31 +472,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGRlZmF1bHQgZ2V0R2xvYmFsVmlzaWJsZUVsZW1lbnRSZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmlnaHQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgIHJldHVybiByZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9wLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBib3R0b20gLSB0b3AsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IHJpZ2h0IC0gbGVmdCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICByZWN0ID0gcmVjdFV0aWxzLmdldEludGVyc2VjdFJlY3QocmVjdCwgd2luZG93UmVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbGVtZW50LmdldEJvdW5kaW5nQ2xpZW50UmVjdCA9ICgpID0+ICh7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAvLyB3aW5kb3dSZWN0IOOBruaMh+WumuOBjOOBguOCi+OBqOOBjeOBr+OAgeacgOW+jOOBqyB3aW5kb3dSZWN0IOS4iuOBp+OBruWPr+imlumgmOWfn+OCkuWPluOBo+OBpui/lOOBmQo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
