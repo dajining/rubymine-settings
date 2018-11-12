@@ -123,6 +123,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" timestamp="1541993831292">
+        <mark key="[" line="303" column="8" />
+        <mark key="]" line="310" column="0" />
+        <mark key="." line="310" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/doEndedVideo.test.ts" timestamp="1541138979461">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -354,6 +359,7 @@
         <mark key="]" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1541993079236" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/rectUtils/Rectangle.test.ts" timestamp="1541730740231">
         <mark key="[" line="94" column="43" />
         <mark key="]" line="95" column="0" />
@@ -365,8 +371,8 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1541990476559">
-        <mark key="[" line="16" column="48" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1541993108622">
+        <mark key="[" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/rectangle/1/rectangle.ts" timestamp="1540977329329">
         <mark key="[" line="2" column="0" />
@@ -534,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZW1hcEZpbGU6ICJtYXAuanMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -549,31 +555,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZW1hcEZpbGU6ICJtYXAuanMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoImlzUG9zdGFibGUiLCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGlzUG9zdGFibGUgZnJvbSAiLi9pc1Bvc3RhYmxlIjsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gISF0aGlzLndhaXRBdXRvcGxheVZpZGVvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBtZXNzYWdlLmdldERhdGEoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLndhaXRBdXRvcGxheVZpZGVvICYmIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
