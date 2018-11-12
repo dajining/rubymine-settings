@@ -123,10 +123,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" timestamp="1541993831292">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" timestamp="1541994023038">
         <mark key="[" line="303" column="8" />
         <mark key="]" line="310" column="0" />
         <mark key="." line="310" column="0" />
+        <mark key="^" line="310" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/doEndedVideo.test.ts" timestamp="1541138979461">
         <mark key="[" line="10" column="0" />
@@ -138,7 +139,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1541990082727" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/index.ts" timestamp="1541994392968">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/checkParentIsNone.test.ts" timestamp="1541671776291">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="32" column="0" />
@@ -558,28 +563,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gISF0aGlzLndhaXRBdXRvcGxheVZpZGVvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndhaXRBdXRvcGxheVZpZGVvICYmIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
