@@ -293,7 +293,7 @@
         <mark key="^" line="20" column="81" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/video.ts" timestamp="1542011787819">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/video.ts" timestamp="1542013268744">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="^" line="162" column="15" />
@@ -332,12 +332,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" timestamp="1542011931572">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" timestamp="1542015644368">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="716" column="13" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-        <mark key="^" line="170" column="27" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/containsCrossOriginSubframe.test.ts" timestamp="1541730215203">
         <mark key="[" line="27" column="0" />
@@ -422,10 +422,11 @@
         <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/tsconfig.json" timestamp="1541990428032" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/screen.ts" timestamp="1542011939820">
-        <mark key="[" line="729" column="0" />
-        <mark key="]" line="729" column="0" />
-        <mark key="." line="729" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/screen.ts" timestamp="1542015672521">
+        <mark key="[" line="684" column="4" />
+        <mark key="]" line="684" column="4" />
+        <mark key="^" line="656" column="8" />
+        <mark key="." line="684" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleElementRect.ts" timestamp="1541988911862">
         <mark key="[" line="34" column="0" />
@@ -573,7 +574,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>./../&quot;;</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -587,29 +588,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAvLyDmj4/nlLvjgpLnhKHlirnljJYKICAgICAgICB0aGlzLmRyYXdFbmFibGUgPSBmYWxzZTsKICAgICAgICAvLyBjYW52YXNEcmF344Gu44K544Kt44OD44OX44KS6Kit5a6aCiAgICAgICAgdGhpcy5kcmF3U2tpcCA9IGZhbHNlOwogICAgICAgIC8vIOOCouODi+ODoeODvOOCt+ODp+ODs+OCkuWBnOatogogICAgICAgIGNhbmNlbEFuaW1hdGlvbkZyYW1lKHRoaXMuYW5pbWF0aW9uSWQpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5kcmF3RW5hYmxlKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIGlmICh0aGlzLnZpZGVvU3RhdHVzID09PSB0aGlzLlZJREVPX1NUQVRVU19QTEFZKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIC8vIOOCv+OCpOODnuODvOOCkuODquOCu+ODg+ODiAogICAgICAgIGNsZWFySW50ZXJ2YWwodGhpcy5kcmF3VGltZXIpOwoKICAgICAgICAvLyBjYW52YXPopoHntKDjga5jb250ZXh044KS5Y+W5b6XCiAgICAgICAgdGhpcy5jdHhDYW52YXMgPSB0aGlzLmVsZW1DYW52YXMuZ2V0Q29udGV4dCgiMmQiKTsKCiAgICAgICAgLy8g5o+P55S744KS5pyJ5Yq55YyWCiAgICAgICAgdGhpcy5kcmF3RW5hYmxlID0gdHJ1ZTsKCiAgICAgICAgdGhpcy5kcmF3VGltZXIgPSB3aW5kb3cuc2V0SW50ZXJ2YWwoZnVuY3Rpb24oKSB7CiAgICAgICAgICAgIC8vIOOCv+OCpOODnuODvOOCkuODquOCu+ODg+ODiAogICAgICAgICAgICBjbGVhckludGVydmFsKHRoaXMuZHJhd1RpbWVyKTsKCiAgICAgICAgICAgIC8vIOasoeOBruOCouODi+ODoeODvOOCt+ODp+ODs+OCkuWun+ihjAogICAgICAgICAgICByZXF1ZXN0QW5pbWF0aW9uRnJhbWUodGhpcy51cGRhdGUuYmluZCh0aGlzKSk7CiAgICAgICAgfS5iaW5kKHRoaXMpLCAxMCk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRvUGF1c2VWaWRlbygpOwo=</text>
+        <text encoding="base64">ICAgIC8vICAgICB9KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICB3aW5kb3cuY2xlYXJUaW1lb3V0KGlkKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgdGhpcy5kb0F1dG9wbGF5VmlkZW8oKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgIGZ1bmN0aW9uKGlkKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgIC8vIHdpbmRvdy5vQ2FuY2VsUmVxdWVzdEFuaW1hdGlvbkZyYW1lIHx8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
