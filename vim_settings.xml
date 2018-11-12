@@ -38,7 +38,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/bind.test.ts" timestamp="1541482745168">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/bind.test.ts" timestamp="1542031153773">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -236,17 +236,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/video.ts" timestamp="1542023757922">
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="81" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/video.ts" timestamp="1542031886275">
+        <mark key="[" line="69" column="72" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="85" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/logUtils/logFormats.ts" timestamp="1540951569766">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/examples/ad-tag.js" timestamp="1542023999813" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/examples/ad-tag.js" timestamp="1542031873164" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/config/default-prd.json" timestamp="1540968165234">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="11" />
@@ -306,6 +307,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onLoadedmetadataVideo.test.ts" timestamp="1542030347781" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/index.test.ts" timestamp="1541668949165">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -327,11 +329,11 @@
         <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/tsconfig.json" timestamp="1541990428032" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/screen.ts" timestamp="1542023121424">
-        <mark key="[" line="679" column="48" />
-        <mark key="]" line="679" column="48" />
-        <mark key="^" line="601" column="32" />
-        <mark key="." line="679" column="48" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/screen.ts" timestamp="1542031542344">
+        <mark key="[" line="488" column="0" />
+        <mark key="]" line="681" column="48" />
+        <mark key="^" line="603" column="32" />
+        <mark key="." line="681" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/domUtils/getGlobalVisibleElementRect.ts" timestamp="1541988911862">
         <mark key="[" line="34" column="0" />
@@ -344,6 +346,7 @@
         <mark key="]" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/bindVideoLoadedmetadata.test.ts" timestamp="1542030570056" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1541993079236" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/rectUtils/Rectangle.test.ts" timestamp="1541730740231">
         <mark key="[" line="94" column="43" />
