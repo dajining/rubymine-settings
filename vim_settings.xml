@@ -169,6 +169,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/doPauseVideo.test.ts" timestamp="1542079893504">
+        <mark key="[" line="56" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/constants/version.test.ts" timestamp="1541486187108">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="6" column="0" />
@@ -201,6 +204,11 @@
         <mark key="[" line="25" column="93" />
         <mark key="]" line="25" column="93" />
         <mark key="." line="25" column="93" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/bind.test.ts" timestamp="1542079804857">
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/msgUtils/post.ts" timestamp="1541990182533">
         <mark key="[" line="0" column="0" />
@@ -370,6 +378,12 @@
         <mark key="]" line="47" column="18" />
         <mark key="." line="47" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/screen.ts" timestamp="1542080076583">
+        <mark key="[" line="299" column="66" />
+        <mark key="]" line="299" column="64" />
+        <mark key="." line="299" column="64" />
+        <mark key="^" line="299" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onClickPlayButton.test.ts" timestamp="1542077896027">
         <mark key="[" line="43" column="34" />
         <mark key="]" line="45" column="0" />
@@ -379,6 +393,12 @@
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="39" />
         <mark key="." line="4" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/bindVideoLoadedmetadata.test.ts" timestamp="1542077182748">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/rectUtils/Rectangle.test.ts" timestamp="1541730740231">
         <mark key="[" line="94" column="43" />
@@ -502,11 +522,11 @@
       <jump line="46" column="0" filename="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -518,31 +538,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
