@@ -57,11 +57,12 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/partial.test.ts" timestamp="1542082963323">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/partial.test.ts" timestamp="1542087625265">
+        <mark key="'" line="83" column="4" />
+        <mark key="[" line="91" column="24" />
+        <mark key="]" line="94" column="6" />
+        <mark key="." line="94" column="6" />
+        <mark key="^" line="94" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/src/constants/CONFIG.ts" timestamp="1540975177579">
         <mark key="[" line="0" column="18" />
@@ -199,7 +200,7 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/partial.ts" timestamp="1542082828906">
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/partial.ts" timestamp="1542087407401">
         <mark key="[" line="115" column="20" />
         <mark key="]" line="114" column="0" />
         <mark key="^" line="114" column="0" />
@@ -251,6 +252,9 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/package.json" timestamp="1541993108622">
         <mark key="[" line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/jest.config.js" timestamp="1542085316601">
+        <mark key="[" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/frame/rectangle/1/rectangle.ts" timestamp="1540977329329">
         <mark key="[" line="2" column="0" />
@@ -367,6 +371,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onLoadedmetadataVideo.test.ts" timestamp="1542077994551">
+        <mark key="[" line="50" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/index.test.ts" timestamp="1541668949165">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -436,6 +443,9 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/manager-head.html" timestamp="1542074948762" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onClickPauseButton.test.ts" timestamp="1542077318957">
+        <mark key="[" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/logUtils/internal/createFormats.test.ts" timestamp="1541735212621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -536,13 +546,17 @@
       <jump line="37" column="27" filename="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" />
       <jump line="41" column="4" filename="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" />
+      <jump line="59" column="30" filename="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/partial.test.ts" />
+      <jump line="58" column="4" filename="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/partial.test.ts" />
+      <jump line="79" column="35" filename="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/partial.test.ts" />
+      <jump line="76" column="4" filename="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/partial.test.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>doc</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>doc</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -553,32 +567,32 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gICAgIGxldCBkb2M6IEhUTUxEb2N1bWVudCA9ICg8YW55Pmdsb2JhbCkuZG9jdW1lbnQsCi8vICAgICAgICAgY3JlYXRlZERPTTogRWxlbWVudCwKLy8gICAgICAgICBjcmVhdGVkRE9NSUQ6IHN0cmluZywKLy8gICAgICAgICB3cmFwRE9NOiBFbGVtZW50LAovLyAgICAgICAgIHdyYXBET01DbGFzc05hbWU6IHN0cmluZzs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ly8gZGVzY3JpYmUoKCkgPT4gewovLyAgICAgbGV0IHBhcmVudEVsZW1lbnQ6IEhUTUxFbGVtZW50OwovLyAgICAgbGV0IHdyYXBDbGFzc05hbWU6IHN0cmluZzsKLy8KLy8gICAgIGJlZm9yZUVhY2goKCkgPT4gewovLyAgICAgICAgIHBhcmVudEVsZW1lbnQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCJkaXYiKTsKLy8gICAgIH0pOwovLwovLyAgICAgaXQoImNvbnN0cnVjdG9yIiwgKCkgPT4gewovLwovLyAgICAgfSk7Ci8vIH0sICJQYXJ0aWFsIik7</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgYXNzZXJ0KHBhcnRpYWwucmVuZGVyKCIiKSA9PT0gZmFsc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFBhcnRpYWwgZnJvbSAiLi4vLi4vc3JjL3BhcnRpYWwvcGFydGlhbCI7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgcGFydGlhbC5jbGFzc25hbWVXcmFwID0gIm5ldmVyRGVmaW5lZENsYXNzbmFtZSI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gdGFyZ2V0Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgc3R1YiA9IHNpbm9uLnN0dWIocGFydGlhbCwgImh0bWwiKS5yZXR1cm5zKG1vY2spOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgcGFydGlhbCA9IG5ldyBQYXJ0aWFsKGNyZWF0ZWRET00sIHdyYXBET01DbGFzc05hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgc2lub24gZnJvbSAic2lub24iOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICBpdCgiZWxlbVdyYXAg44GM5LiN5q2j44GnIGZhbHNlIOOCkui/lOOBmSIsICgpID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
