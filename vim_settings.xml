@@ -55,7 +55,6 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/tools/helpers/test_helper/vast.ts" timestamp="1542094411277" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/frame/frame.test.ts" timestamp="1542111124542">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -87,9 +86,9 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onDurationchangeVideo.test.ts" timestamp="1542101107947">
-        <mark key="[" line="58" column="18" />
-        <mark key="]" line="58" column="18" />
-        <mark key="." line="58" column="18" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/player/1/screen.test.ts" timestamp="1542094169682">
         <mark key="[" line="7" column="8" />
@@ -106,13 +105,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/time.test.ts" timestamp="1542090791521" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/core/ad/vast.ts" timestamp="1540968540549">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/types/fingerprintParams.ts" timestamp="1542102358168" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/log.test.ts" timestamp="1542082512867">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -232,7 +229,6 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/setStateEnded.test.ts" timestamp="1542100759182">
         <mark key="[" line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/bindVideoEnded.test.ts" timestamp="1542166628213" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/onLoadWindow.test.ts" timestamp="1542115539989">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -297,11 +293,6 @@
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/doPlayVideo.test.ts" timestamp="1542101338840">
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="46" column="37" />
-        <mark key="." line="46" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/draw.test.ts" timestamp="1542160579550">
         <mark key="[" line="50" column="8" />
@@ -378,7 +369,6 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/checkElementIsHidden.test.ts" timestamp="1542082521017" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/bindVideoEnded.test.ts" timestamp="1542166466961">
         <mark key="[" line="71" column="54" />
         <mark key="]" line="86" column="0" />
@@ -407,14 +397,11 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/options.test.ts" timestamp="1542078101988">
         <mark key="[" line="48" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/findFrameElement.test.ts" timestamp="1542082792069" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/examples/ad-tag.js" timestamp="1542072511100" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/config/default-prd.json" timestamp="1540968165234">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="/bindVideoEnded.test.ts" timestamp="1542115076335" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/doAutoplayVideo.test.ts" timestamp="1542115467145">
         <mark key="[" line="43" column="8" />
         <mark key="]" line="43" column="0" />
@@ -445,7 +432,6 @@
         <mark key="." line="140" column="12" />
         <mark key="^" line="140" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/tools/helpers/test_helper/partial_helper.ts" timestamp="1542094294421" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/containsCrossOriginSubframe.test.ts" timestamp="1541730215203">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -464,7 +450,12 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/bindVideoPause.test.ts" timestamp="1542114068376" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/html.test.ts" timestamp="1542167285440">
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="48" column="17" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/load-env.js" timestamp="1541143362713">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="0" />
@@ -480,7 +471,6 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/tracking.test.ts" timestamp="1542092055098" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/player/1/player.test.ts" timestamp="1542092449339">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="99" column="0" />
@@ -523,7 +513,6 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onVisibilitychangeWindow.test.ts" timestamp="1542078081612">
         <mark key="[" line="47" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/doPauseVideo.test.ts" timestamp="1542101284339" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/screen.ts" timestamp="1542165587300">
         <mark key="[" line="313" column="28" />
         <mark key="]" line="462" column="10" />
@@ -542,10 +531,8 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/setStatePause.test.ts" timestamp="1542100626724">
         <mark key="[" line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onClickPlayButton.test.ts" timestamp="1542077896027">
-        <mark key="[" line="43" column="34" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/html.test.ts" timestamp="1542167271687">
+        <mark key="[" line="48" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/setStatePause.test.ts" timestamp="1542101091154">
         <mark key="[" line="55" column="26" />
@@ -555,7 +542,6 @@
         <mark key="]" line="45" column="55" />
         <mark key="." line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/node_modules/@types/node/index.d.ts" timestamp="1542095606405" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/onScrollWindow.test.ts" timestamp="1542114291984">
         <mark key="[" line="48" column="50" />
         <mark key="]" line="48" column="50" />
@@ -576,7 +562,6 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/load-env.js" timestamp="1542093605991" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onScrollWindow.test.ts" timestamp="1542078047437">
         <mark key="[" line="52" column="46" />
       </file>
@@ -584,10 +569,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/manager-head.html" timestamp="1542074948762" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onClickPauseButton.test.ts" timestamp="1542077318957">
-        <mark key="[" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/logUtils/internal/createFormats.test.ts" timestamp="1541735212621">
         <mark key="[" line="0" column="0" />
@@ -602,7 +583,6 @@
         <mark key="]" line="45" column="49" />
         <mark key="." line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/node_modules/@types/loglevel/index.d.ts" timestamp="1542073030450" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/__tests__/components/AdContainer.test.jsx" timestamp="1541663604999">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
