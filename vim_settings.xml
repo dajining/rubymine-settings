@@ -74,7 +74,6 @@
         <mark key="]" line="45" column="50" />
         <mark key="." line="45" column="50" />
       </file>
-      <file name="/screen.ts" timestamp="1542176833299" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/package.json" timestamp="1541137527065">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -386,7 +385,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/examples/ad-tag.js" timestamp="1542176097985" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/config/default-prd.json" timestamp="1540968165234">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="11" />
@@ -421,7 +419,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/player.test.ts" timestamp="1542180712820" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/canvas.ts" timestamp="1542185361393" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/domUtils/containsCrossOriginSubframe.test.ts" timestamp="1541730215203">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -496,11 +494,11 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/load-env.js" timestamp="1542173497373">
         <mark key="[" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/screen.ts" timestamp="1542179830119">
-        <mark key="[" line="686" column="24" />
-        <mark key="]" line="641" column="19" />
-        <mark key="^" line="641" column="19" />
-        <mark key="." line="641" column="19" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/screen.ts" timestamp="1542185735265">
+        <mark key="[" line="670" column="88" />
+        <mark key="]" line="670" column="87" />
+        <mark key="^" line="670" column="87" />
+        <mark key="." line="670" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/util/util.ts" timestamp="1542175217648">
         <mark key="[" line="52" column="4" />
@@ -544,7 +542,6 @@
         <mark key="]" line="64" column="18" />
         <mark key="." line="64" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/package.json" timestamp="1542170402235" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/__tests__/rectUtils/Rectangle.test.ts" timestamp="1541730740231">
         <mark key="[" line="94" column="43" />
         <mark key="]" line="95" column="0" />
@@ -677,10 +674,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>storybook</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>storybook</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
