@@ -416,7 +416,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/syncers/kpi_summary_syncer.rb" timestamp="1542248337204" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/syncers/kpi_summary_syncer.rb" timestamp="1542267551155" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/config/default-prd.json" timestamp="1540968165234">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="11" />
@@ -592,10 +592,10 @@
         <mark key="]" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/csv_generators/kpi_summary_csv_generator.rb" timestamp="1542263700420">
-        <mark key="[" line="39" column="107" />
-        <mark key="]" line="39" column="107" />
-        <mark key="." line="39" column="107" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/csv_generators/kpi_summary_csv_generator.rb" timestamp="1542267393958">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default.json" timestamp="1541502369604">
         <mark key="[" line="19" column="0" />
@@ -718,10 +718,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sjis_row</text>
+        <text>CSV</text>
       </register>
       <register name="-" type="4">
-        <text>sjis_row</text>
+        <text>CSV</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -733,31 +733,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNzdl9maWxlLmNsb3NlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNzdl9maWxlLndyaXRlKGVuY29kZWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuY29kZWQgPSBOS0YubmtmKCctLXNqaXMgLUx3JywgRmlsZS5yZWFkKGNzdl9yb290X3BhdGguam9pbihmaWxlX25hbWUgKyAnLlVURjgnICsgZmlsZV9leHRuYW1lKSkpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEZpbGUub3Blbihjc3Zfcm9vdF9wYXRoLmpvaW4oZmlsZV9uYW1lICsgJy5TSklTJyArIGZpbGVfZXh0bmFtZSksICd3JywgZW5jb2Rpbmc6ICdzamlzJykgZG8gfHJvd3wKICAgICAgRmlsZS5vcGVuKGNzdl9yb290X3BhdGguam9pbihmaWxlX25hbWUgKyAnLlVURjgnICsgZmlsZV9leHRuYW1lKSwgJ3InLCBlbmNvZGluZzogJ3V0ZjgnKS5lYWNoIGRvIHxsaW5lfAogICAgICAgIHJvdy5wdXRzIE5LRi5ua2YoJy0tc2ppcyAtTHcnLCBsaW5lKQogICAgICBlbmQKICAgIGVuZA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNzdl9maWxlID0gLCAndycsIGVuY29kaW5nOiBFbmNvZGluZzo6U0pJUykK</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3N2IDw8IChlbmNvZGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICB1dGY4X2ZpbGUucmVhZGxpbmUgZG8gfGxpbmV8Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5jb2RlZCA9IE5LRi5ua2YoJy0tc2ppcyAtTHcnLCBGaWxlLnJlYWQoY3N2X3Jvb3RfcGF0aC5qb2luKGZpbGVfbmFtZSArICcuVVRGOCcgKyBmaWxlX2V4dG5hbWUpKSkK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENTVi5vcGVuKGNzdl9yb290X3BhdGguam9pbihmaWxlX25hbWUgKyAnLlNKSVMnICsgZmlsZV9leHRuYW1lKSwgJ3cnLCBlbmNvZGluZzogRW5jb2Rpbmc6OlNKSVMpIGRvIHxjc3Z8Cg==</text>
+        <text encoding="base64">ICAgIGNzdl9maWxlLmNsb3NlCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
