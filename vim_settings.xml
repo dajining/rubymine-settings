@@ -19,8 +19,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/tasks/batch/hourly.rake" timestamp="1542248022893">
-        <mark key="[" line="39" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/tasks/batch/hourly.rake" timestamp="1542269281467">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/log.ts" timestamp="1542173621885">
         <mark key="[" line="2" column="14" />
@@ -96,10 +99,11 @@
         <mark key="." line="19" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/lib/syncers/sync_option/hour_attribute.rb" timestamp="1542248636901" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/csv_generators/abstract_csv_generator.rb" timestamp="1542261062048">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/csv_generators/abstract_csv_generator.rb" timestamp="1542269714372">
+        <mark key="[" line="64" column="68" />
+        <mark key="]" line="64" column="68" />
+        <mark key="." line="64" column="68" />
+        <mark key="^" line="64" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/player/1/screen.test.ts" timestamp="1542094169682">
         <mark key="[" line="7" column="8" />
@@ -416,7 +420,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/syncers/kpi_summary_syncer.rb" timestamp="1542267551155" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/syncers/kpi_summary_syncer.rb" timestamp="1542269376271" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/config/default-prd.json" timestamp="1540968165234">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="11" />
@@ -592,10 +596,11 @@
         <mark key="]" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/csv_generators/kpi_summary_csv_generator.rb" timestamp="1542267393958">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/csv_generators/kpi_summary_csv_generator.rb" timestamp="1542270079407">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/config/default.json" timestamp="1541502369604">
         <mark key="[" line="19" column="0" />
@@ -718,10 +723,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CSV</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>CSV</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -733,31 +738,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAnaWNvbnYnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEZpbGUub3Blbihjc3Zfcm9vdF9wYXRoLmpvaW4oZmlsZV9uYW1lICsgJy5TSklTJyArIGZpbGVfZXh0bmFtZSksICd3JywgZW5jb2Rpbmc6ICdzamlzJykgZG8gfHJvd3wKICAgICAgRmlsZS5vcGVuKGNzdl9yb290X3BhdGguam9pbihmaWxlX25hbWUgKyAnLlVURjgnICsgZmlsZV9leHRuYW1lKSwgJ3InLCBlbmNvZGluZzogJ3V0ZjgnKS5lYWNoIGRvIHxsaW5lfAogICAgICAgIHJvdy5wdXRzIE5LRi5ua2YoJy0tc2ppcyAtTHcnLCBsaW5lKQogICAgICBlbmQKICAgIGVuZA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlLnB1dHMgTktGLm5rZignLS1zamlzIC1MdycsIENTVi5nZW5lcmF0ZV9saW5lKGJvZHkocGxhY2VtZW50OiBwbGFjZW1lbnQsIHJlY29yZDogc3VtbWFyeSkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc3VtbWFyaWVzIGRvIHxwbGFjZW1lbnQsIHN1bW1hcnl8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgZmlsZS5wdXRzIE5LRi5ua2YoJy0tc2ppcyAtTHcnLCBDU1YuZ2VuZXJhdGVfbGluZShib2R5KHJlY29yZDogdG90YWwpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1dGY4X2ZpbGUucmVhZGxpbmUgZG8gfGxpbmV8Cg==</text>
+        <text encoding="base64">ICAgICAgZmlsZS5wdXRzIE5LRi5ua2YoJy0tc2ppcyAtTHcnLCBDU1YuZ2VuZXJhdGVfbGluZShjc3ZfaGVhZGVycykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIEZpbGUub3Blbihjc3Zfcm9vdF9wYXRoLmpvaW4oZmlsZV9uYW1lICsgJy5TSklTJyArIGZpbGVfZXh0bmFtZSksICd3JywgZW5jb2Rpbmc6ICdjcDkzMicpIGRvIHxmaWxlfAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNzdl9maWxlLmNsb3NlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
