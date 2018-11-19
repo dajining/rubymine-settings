@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DownloadKpiSummary/ZipList.js" timestamp="1542614348463">
+        <mark key="'" line="26" column="48" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="29" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_enums/kpi_daily_summary_csv_file_period_enum.rb" timestamp="1542347324097">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin/app/Dashboard/PlacementCountPanel.js" timestamp="1542607025032" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/views/v1/csv_reports/_kpi_csv_body.csv.ruby" timestamp="1542280593827">
         <mark key="[" line="9" column="28" />
       </file>
@@ -17,7 +23,6 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/senju-packages/senju-ui/StrongText.js" timestamp="1542607301678" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/kpi_daily_summary_csv_file_query.rb" timestamp="1542347461395">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="5" column="111" />
@@ -42,27 +47,25 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DownloadKpiSummary/index.js" timestamp="1542610602733">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DownloadKpiSummary/index.js" timestamp="1542614239505">
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="36" />
+        <mark key="^" line="84" column="85" />
+        <mark key="." line="51" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-form/src/RadioButtonField.js" timestamp="1542607977103" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/isAutoplay.test.ts" timestamp="1542077291232">
         <mark key="[" line="51" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/core/ad/vast.ts" timestamp="1542592684625" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/webpack.base.config.js" timestamp="1542173524408">
         <mark key="[" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/senju-packages/senju-form/index.js" timestamp="1542607658308" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/raw_video.rb" timestamp="1542337649135">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-data-table/src/SenjuDataTable.js" timestamp="1542607478463" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DailyKpiSummary/DailyKpiSummaryList.js" timestamp="1542612340094" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/raw_video_object.rb" timestamp="1542613391164" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/index.js" timestamp="1542181669003">
         <mark key="[" line="41" column="43" />
       </file>
@@ -72,10 +75,10 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/bindVideoEnded.test.ts" timestamp="1542171245210">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/kpi_daily_summary_csv_file_object.rb" timestamp="1542346594796">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_objects/kpi_daily_summary_csv_file_object.rb" timestamp="1542613416450">
+        <mark key="[" line="1" column="56" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/setStateEnded.test.ts" timestamp="1542101361742">
         <mark key="[" line="55" column="26" />
@@ -111,10 +114,13 @@
       <file name="/Dummy.txt" timestamp="1542176829631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/admins/gcloud_storage_controller.rb" timestamp="1542346368900">
-        <mark key="[" line="13" column="39" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/admins/gcloud_storage_controller.rb" timestamp="1542614044686">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1542591390495">
+      <file name="/GraphQL.result.json" timestamp="1542611047753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/load-env.js" timestamp="1542173494262">
@@ -142,11 +148,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-resource/src/ResourceList.js" timestamp="1542607687549" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onPlayVideo.test.ts" timestamp="1542168745017">
         <mark key="[" line="50" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/.storybook/manager-head.html" timestamp="1542604587300" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/partial.test.ts" timestamp="1542160522212">
         <mark key="[" line="50" column="33" />
       </file>
@@ -161,7 +165,6 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/src/components/AdContainer.jsx" timestamp="1542181177868">
         <mark key="[" line="102" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/PlacementKpiSummary/PlacementKpiSummaryList.js" timestamp="1542607622745" />
       <file name="$USER_HOME$/workspace/car-gva-admin/Gemfile" timestamp="1542272064143">
         <mark key="[" line="103" column="26" />
       </file>
@@ -260,13 +263,14 @@
       <jump line="76" column="4" filename="$USER_HOME$/workspace/car-gva-tag/packages/ad/__tests__/partial/partial.test.ts" />
       <jump line="13" column="16" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/admin.js" />
       <jump line="78" column="1" filename="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/admin.js" />
+      <jump line="26" column="48" filename="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DownloadKpiSummary/ZipList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ManualDownloader</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ManualDownloader</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -278,31 +282,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9wdGlvbnNbOmRpc3Bvc2l0aW9uXSA9IDppbmxpbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIG9wdGlvbnNbOmZpbGVuYW1lXSA9IEVSQjo6VXRpbC51cmxfZW5jb2RlKGZpbGUubmFtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGlyZXNfaW4gMS55ZWFyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXQuYW55IGRvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L0ZsZXg+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiBmaWxlLmNvbnRlbnRfdHlwZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvQm94Pgo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogRVJCOjpVdGlsLnVybF9lbmNvZGUoZmlsZS5pZCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFN0cm9uZ1RleHQgd2FybiBzbWFsbD7jg4Djgqbjg7Pjg63jg7zjg4njgavmmYLplpPjgYzjgYvjgYvjgovloLTlkIjjgYzjgYLjgorjgb7jgZk8L1N0cm9uZ1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
