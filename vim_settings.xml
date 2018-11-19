@@ -42,11 +42,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DownloadKpiSummary/index.js" timestamp="1542608315548">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="15" column="24" />
-        <mark key="^" line="51" column="25" />
-        <mark key="." line="15" column="24" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DownloadKpiSummary/index.js" timestamp="1542610602733">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-form/src/RadioButtonField.js" timestamp="1542607977103" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/isAutoplay.test.ts" timestamp="1542077291232">
@@ -165,6 +165,11 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/Gemfile" timestamp="1542272064143">
         <mark key="[" line="103" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DownloadKpiSummary/ZipDownloader.js" timestamp="1542610578529">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="153" column="8" filename="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" />
@@ -258,10 +263,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wrap</text>
+        <text>ManualDownloader</text>
       </register>
       <register name="-" type="4">
-        <text>wrap</text>
+        <text>ManualDownloader</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
