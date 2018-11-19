@@ -3,64 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/placement_format_query.rb" timestamp="1542347297760" />
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/index.js" timestamp="1542181669003">
+        <mark key="[" line="41" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_enums/kpi_daily_summary_csv_file_period_enum.rb" timestamp="1542347324097">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/medium_query.rb" timestamp="1542347046520" />
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/views/v1/csv_reports/_kpi_csv_body.csv.ruby" timestamp="1542280593827">
-        <mark key="[" line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/kpi_daily_summary_csv_file_query.rb" timestamp="1542347461395">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="5" column="111" />
-        <mark key="." line="5" column="111" />
-        <mark key="^" line="5" column="111" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/config/routes.rb" timestamp="1542344658210">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/jest.setup.js" timestamp="1542173795073">
-        <mark key="[" line="15" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/models/admin/kpi_daily_summary_csv_file.rb" timestamp="1542347407681">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/csv_generators/gcloud_storage_client.rb" timestamp="1542279196087">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DownloadKpiSummary/index.js" timestamp="1542348145852">
-        <mark key="[" line="65" column="45" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/csv_generators/abstract_csv_generator.rb" timestamp="1542345621200">
-        <mark key="]" line="18" column="54" />
-        <mark key="^" line="18" column="54" />
-        <mark key="." line="18" column="54" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/kpi_summary_query.rb" timestamp="1542347145645" />
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/isAutoplay.test.ts" timestamp="1542077291232">
-        <mark key="[" line="51" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/webpack.base.config.js" timestamp="1542173524408">
-        <mark key="[" line="3" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/models/raw_video.rb" timestamp="1542337649135">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/car-gva-tag/packages/storybook/stories/index.js" timestamp="1542181669003">
-        <mark key="[" line="41" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/setStateEnded.test.ts" timestamp="1542100759182">
         <mark key="[" line="57" column="27" />
@@ -79,13 +28,30 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/load-env.js" timestamp="1542173497373">
         <mark key="[" line="16" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/views/v1/csv_reports/_kpi_csv_body.csv.ruby" timestamp="1542280593827">
+        <mark key="[" line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/application.rb" timestamp="1542247681942">
         <mark key="[" line="32" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/graphql_queries/kpi_daily_summary_csv_file_query.rb" timestamp="1542347461395">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="5" column="111" />
+        <mark key="." line="5" column="111" />
+        <mark key="^" line="5" column="111" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/routes.rb" timestamp="1542344658210">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/locales/ja.yml" timestamp="1542274075604">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="212" column="0" />
         <mark key="." line="212" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/jest.setup.js" timestamp="1542173795073">
+        <mark key="[" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/setStatePause.test.ts" timestamp="1542100626724">
         <mark key="[" line="57" column="27" />
@@ -93,21 +59,34 @@
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/html.test.ts" timestamp="1542167271687">
         <mark key="[" line="48" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/models/admin/kpi_daily_summary_csv_file.rb" timestamp="1542347407681">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/setStatePause.test.ts" timestamp="1542101091154">
         <mark key="[" line="55" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/utils/src/msgUtils/post.ts" timestamp="1541990182533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/models/concerns/google_cloud_storage_file.rb" timestamp="1542337058124" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/csv_generators/gcloud_storage_client.rb" timestamp="1542279196087">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="/Dummy.txt" timestamp="1542176829631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/lib/utilities/date_period.rb" timestamp="1542338973584" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/admins/gcloud_storage_controller.rb" timestamp="1542346368900">
         <mark key="[" line="13" column="39" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1542332296442">
+      <file name="$USER_HOME$/workspace/car-gva-admin/lib/csv_generators/abstract_csv_generator.rb" timestamp="1542345621200">
+        <mark key="]" line="18" column="54" />
+        <mark key="^" line="18" column="54" />
+        <mark key="." line="18" column="54" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1542591390495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/load-env.js" timestamp="1542173494262">
@@ -115,6 +94,9 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onPauseVideo.test.ts" timestamp="1542168733178">
         <mark key="[" line="43" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/isAutoplay.test.ts" timestamp="1542077291232">
+        <mark key="[" line="51" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/mocha.env.ts" timestamp="1542173821868">
         <mark key="[" line="14" column="31" />
@@ -124,8 +106,12 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/core/ad/vast.ts" timestamp="1542592684625" />
       <file name="$USER_HOME$/workspace/car-gva-tag/jest.config.js" timestamp="1542085316601">
         <mark key="[" line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-tag/packages/pub/webpack.base.config.js" timestamp="1542173524408">
+        <mark key="[" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/partial.test.ts" timestamp="1542101465360">
         <mark key="[" line="19" column="51" />
@@ -135,10 +121,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/models/raw_video.rb" timestamp="1542337649135">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/video/onPlayVideo.test.ts" timestamp="1542168745017">
         <mark key="[" line="50" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/graphql/application_schema.rb" timestamp="1542346946264" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/test/partial/player/1/canvas/partial.test.ts" timestamp="1542160522212">
         <mark key="[" line="50" column="33" />
       </file>
