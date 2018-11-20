@@ -55,11 +55,17 @@
         <mark key="]" line="368" column="23" />
         <mark key="." line="368" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/config/initializers/mime_types.rb" timestamp="1542689075761">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DownloadKpiSummary/ManualDownloader.js" timestamp="1542608125450">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" timestamp="1542689945344" />
       <file name="$USER_HOME$/workspace/car-gva-admin/config/routes.rb" timestamp="1542344658210">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -87,11 +93,10 @@
         <mark key="^" line="84" column="85" />
         <mark key="." line="51" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/admins/gcloud_storage_controller.rb" timestamp="1542614044686">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/admins/gcloud_storage_controller.rb" timestamp="1542689969614">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/publisher-v2/app/Medium/MediumView.js" timestamp="1542623961904">
         <mark key="[" line="9" column="65" />
@@ -238,11 +243,11 @@
       <jump line="26" column="48" filename="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DownloadKpiSummary/ZipList.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fragments</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIyBlbmQK</text>
       </register>
       <register name="-" type="4">
-        <text>fragments</text>
+        <text>csv</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -254,31 +259,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0IH0gZnJvbSAnbG9kYXNoJwo=</text>
+        <text encoding="base64">ICAgICAgIyBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmllbGQsIElubGluZSwgRGF0ZVJhbmdlRmllbGQgfSBmcm9tICdzZW5qdS1mb3JtJwo=</text>
+        <text encoding="base64">ICAgICAgIyAgIGZvcm1hdC5tcDQge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbmp1RGF0YVRhYmxlLCB7IGNlbGxUeXBlcyB9IGZyb20gJ3Nlbmp1LWRhdGEtdGFibGUnCg==</text>
+        <text encoding="base64">ICAgICAgIyAgIGZvcm1hdC5qcGcge30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVzb3VyY2VMaXN0LCBhY3Rpb25WYWx1ZXMgfSBmcm9tICdzZW5qdS1yZXNvdXJjZScK</text>
+        <text encoding="base64">ICAgICAgIyAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGFnaW5hdGlvbiwgRnVsbCwgRmxleCwgQm94LCBQYXBlciB9IGZyb20gJ3Nlbmp1LXVpJwo=</text>
+        <text encoding="base64">ICAgICAgIyAgICAgb3B0aW9uc1s6ZGlzcG9zaXRpb25dID0gOmF0dGFjaG1lbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ3FsLCBRdWVyeSB9IGZyb20gJ3Nlbmp1LWdyYXBocWwnCg==</text>
+        <text encoding="base64">ICAgICAgIyAgICAgb3B0aW9uc1s6ZmlsZW5hbWVdID0gRmlsZS5iYXNlbmFtZShmaWxlLm5hbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyAgIGZvcm1hdC56aXAgZG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGF0ZUZucywgZGF0ZUZvcm1hdCwgcXMgfSBmcm9tICdzZW5qdS11dGlscycK</text>
+        <text encoding="base64">ICAgICAgIyByZXNwb25kX3RvIGRvIHxmb3JtYXR8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBtaW1lX3R5cGVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
