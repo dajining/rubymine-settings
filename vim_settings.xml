@@ -75,6 +75,9 @@
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/senju-packages/senju-layout/index.js" timestamp="1542693362751" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/v1/csv_reports_controller.rb" timestamp="1542689945344" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-ui/src/Box.js" timestamp="1542699882618">
+        <mark key="[" line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/config/routes.rb" timestamp="1542344658210">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -159,10 +162,11 @@
         <mark key="]" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/package.json" timestamp="1542697450192">
-        <mark key="[" line="17" column="85" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/package.json" timestamp="1542699932407">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
       </file>
     </filemarks>
     <jumps>
