@@ -105,6 +105,16 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/package.json" timestamp="1542858098504">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/yarn.lock" timestamp="1542858399262">
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="337" column="0" />
+        <mark key="." line="337" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-layout/src/internal/Splitter.js" timestamp="1542619317255">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="26" />
@@ -170,6 +180,7 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-provider/package.json" timestamp="1542857575381" />
       <file name="$USER_HOME$/workspace/car-gva-admin/app/controllers/admins/gcloud_storage_controller.rb" timestamp="1542689969614">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -236,10 +247,10 @@
         <mark key="]" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/package.json" timestamp="1542853918125">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/client/package.json" timestamp="1542858093429">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -335,10 +346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1hcG9sbG8iOiAiMi4zLjEiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -350,31 +361,36 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1hcG9sbG8iOiAiMi4zLjEiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJncmFwaHFsLXRhZyI6ICIyLjEwLjAiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJncmFwaHFsLWFueXdoZXJlIjogIjQuMS43IiwK</text>
+      <register name="3" type="4">
+        <text>apollo-link@^1.0.0, apollo-link@^1.0.6, apollo-link@^1.2.3:
+  version &quot;1.2.3&quot;
+  resolved &quot;https://registry.yarnpkg.com/apollo-link/-/apollo-link-types/async1.2.3.tgz#9bd8d5fe1d88d31dc91dae9ecc22474d451fb70d&quot;
+  dependencies:
+    apollo-utilities &quot;^1.0.0&quot;
+    zen-observable-ts &quot;^0.8.10&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJncmFwaHFsIjogIjAuMTMuMSIsCg==</text>
+        <text encoding="base64">ICAgICJ5YXJuIjogIjwxIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhcG9sbG8tbGluayI6ICIxLjIuMyIsCg==</text>
+        <text encoding="base64">ICAgICJ5YXJuIjogIjwxIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhcG9sbG8tdXRpbGl0aWVzIjogIjEuMC4yMiIsCg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1hcG9sbG8iOiAiMi4zLjEiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJhcG9sbG8tY2FjaGUtaW5tZW1vcnkiOiAiMS4xLjExIiwK</text>
+        <text encoding="base64">ICAgICJncmFwaHFsLXRhZyI6ICIyLjEwLjAiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJhcG9sbG8tY2xpZW50IjogIjIuNC42IiwK</text>
+        <text encoding="base64">ICAgICJncmFwaHFsLWFueXdoZXJlIjogIjQuMS43IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJhcG9sbG8tbGluay1odHRwIjogIjEuNS41IiwK</text>
+        <text encoding="base64">ICAgICJncmFwaHFsIjogIjAuMTMuMSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
