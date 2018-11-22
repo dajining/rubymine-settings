@@ -93,6 +93,12 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-mock/dist/index.js" timestamp="1542874637050">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/admin/kpi_daily_summary_csv_file.rb" timestamp="1542347407681">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="31" />
@@ -117,6 +123,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-mock/src/MockSentenceComponent.js" timestamp="1542874527861">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/graphql/fragments/ValidationErrorNode.js" timestamp="1542677707821">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -127,16 +138,21 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/rollup.config.js" timestamp="1542874303971">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="12" />
-        <mark key="." line="30" column="12" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/rollup.config.js" timestamp="1542877601041">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin-reports/app/DailyKpiSummary/DailyKpiSummaryList.js" timestamp="1542680671808">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="7" />
         <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-mock/src/MockWordComponent.js" timestamp="1542874520268">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/package.json" timestamp="1542866479783">
         <mark key="[" line="17" column="16" />
@@ -292,7 +308,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-mock/src/MockListComponent.js" timestamp="1542874460960" />
+      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-mock/src/MockListComponent.js" timestamp="1542874543303">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-mock/rollup.config.js" timestamp="1542702747567">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
@@ -404,10 +425,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWQgPT4gIWlkLnN0YXJ0c1dpdGgoJy4nKSAmJiAhaWQuc3RhcnRzV2l0aCgnLycp</text>
+        <text>esm</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWQgPT4gIWlkLnN0YXJ0c1dpdGgoJy4nKSAmJiAhaWQuc3RhcnRzV2l0aCgnLycp</text>
+        <text>esm</text>
       </register>
       <register name="/" type="4">
         <text>lograge</text>
@@ -419,31 +440,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3AtdHlwZXMgIl4xNS42LjAiCg==</text>
+        <text encoding="base64">ICBwbHVnaW5zOiBbCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZXBlbmRlbmNpZXM6Cg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXNvbHZlZCAiaHR0cHM6Ly9yZWdpc3RyeS55YXJucGtnLmNvbS9zdHlsZWQtc3lzdGVtLy0vc3R5bGVkLXN5c3RlbS0yLjMuNi50Z3ojYTM4YzFmZmEwNGE1YzM1YWRlYzQ2NDczOTg0ZTQ2M2M0OGIxNmY3YyIK</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uICIyLjMuNiIK</text>
+        <text encoding="base64">ICAgICAgICB1c2VFU01vZHVsZXM6IHRydWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3R5bGVkLXN5c3RlbUBeMi4zLjE6Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0eWxlZC1zeXN0ZW0gIj49MS4xIHx8ID49Mi4wIgo=</text>
+        <text encoding="base64">ICAgICAgJ2JhYmVsLXBsdWdpbi10cmFuc2Zvcm0tcnVudGltZScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlYWN0ICI+PTE2LjAuMCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
