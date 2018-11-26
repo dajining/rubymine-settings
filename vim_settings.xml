@@ -43,7 +43,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/client/app/admin/app/Dashboard/PlacementCountPanel.js" timestamp="1542880108239" />
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-theme/package.json" timestamp="1542866453376">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -118,7 +117,6 @@
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-mock/src/index.js" timestamp="1542874488501">
         <mark key="[" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-data-table/src/DataTableCore.js" timestamp="1542871728715" />
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-page-builder/package.json" timestamp="1542866435312">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -220,7 +218,6 @@
         <mark key="]" line="68" column="37" />
         <mark key="." line="68" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/yarn.lock" timestamp="1542872044305" />
       <file name="$USER_HOME$/workspace/car-gva-tag/packages/ad/src/partial/player/1/screen.ts" timestamp="1542605429414">
         <mark key="[" line="368" column="23" />
         <mark key="]" line="368" column="23" />
@@ -269,7 +266,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-form/src/SenjuSearchBox.js" timestamp="1542879812283" />
+      <file name="/GraphQL.result.json" timestamp="1543194853738">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/car-gva-admin/app/models/admin/kpi_daily_summary.rb" timestamp="1542281037912">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="10" column="16" />
@@ -295,7 +294,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-resource/src/ResourceList.js" timestamp="1542879752467" />
       <file name="$USER_HOME$/workspace/car-gva-admin/kannon-lib/packages/senju-form/rollup.config.js" timestamp="1542702792929">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
